@@ -5,16 +5,16 @@
 
 - Aquatic
    - Level: I  
-     CE Group: Simple
+     CE type: Simple
      - Breathe underwater
      
 - Glowing
   - Level: I   
-    CE Group: Simple
+    CE type: Simple
     - Gives permanent night vision
 - Smokebomb
   - Level: I - VIII  
-    CE Group: ELITE
+    CE type: ELITE
     - When you are near death, you\nwill spawn a smoke bomb to\ndistract your enemies.
   
   - Level: I      Chance: 9%     Cooldown: 2     Condition: Victim Health = 4 Hearts   Effects: Blindless : 60 secs (Atacker)
@@ -27,6 +27,14 @@
   - Level: VIII   Chance: 38%    Cooldown: 2     Condition: Victim Health = 7 Hearts   Effects: Blindless : 4 mins (Atacker)
 
 - Implants 
-  - Chance to restore food every few seconds
+  - Level: I - III
+    CE Type: Ultimate
+    Duration: 5 secs
+    - Chance to restore food every few seconds
+  - Level: I     Chance: 30%     Effect: Add 1 Food in Food Bar
+  - Level: II     Chance: 50%     Effect: Add 1 Food in Food Bar
+  - Level: III     Chance: 70%     Effect: Add 1 Food in Food Bar
+
 - Replenish
-  - Chance to restore food while mining
+  - 
+    - Chance to restore food while mining
