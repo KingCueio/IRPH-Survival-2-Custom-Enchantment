@@ -1,38 +1,77 @@
 # Survival-2-s-CE-Information
 
-- HELMET CE
+- HELMET
   -
+ **Simple Custom Enchantments**
+ - Helmet:
 
-- Aquatic
-   - Level: I  
-     CE type: Simple
-     - Breathe underwater
-     
-- Glowing
-  - Level: I   
-    CE type: Simple
-    - Gives permanent night vision
-- Smokebomb
-  - Level: I - VIII  
-    CE type: ELITE
-    - When you are near death, you\nwill spawn a smoke bomb to\ndistract your enemies.
-  
-  - Level: I      Chance: 9%     Cooldown: 2     Condition: Victim Health = 4 Hearts   Effects: Blindless : 60 secs (Atacker)
-  - Level: II     Chance: 15%    Cooldown: 2     Condition: Victim Health = 4 Hearts   Effects: Blindless : 60 secs (Atacker)
-  - Level: III    Chance: 23%    Cooldown: 2     Condition: Victim Health = 4 Hearts   Effects: Blindless : 60 secs (Atacker)
-  - Level: IV     Chance: 28%    Cooldown: 2     Condition: Victim Health = 5 Hearts   Effects: Blindless : 1 min and 40 secs (Atacker)
-  - Level: V      Chance: 30%    Cooldown: 2     Condition: Victim Health = 5 Hearts   Effects: Blindless : 2 mins (Atacker)
-  - Level: VI     Chance: 34%    Cooldown: 2     Condition: Victim Health = 5 Hearts   Effects: Blindless : 2 mins and 40 secs (Atacker)
-  - Level: VII    Chance: 36%    Cooldown: 2     Condition: Victim Health = 6 Hearts   Effects: Blindless : 3 mins and 20 secs (Atacker)
-  - Level: VIII   Chance: 38%    Cooldown: 2     Condition: Victim Health = 7 Hearts   Effects: Blindless : 4 mins (Atacker)
+   - Aquatic 
+     - Applies to Helmets
+     - Max Level: I
+     - Description: Breath underwater.
+      
+   - Bone Crusher
+     - Applies to Swords, Axes
+     - Max Level: III
+     - Description: Increases damage dealt to skeletons.
 
-- Implants 
-  - Level: I - III
-    CE Type: Ultimate
-    Duration: 5 secs
-    - Chance to restore food every few seconds
-  - Level: I     Chance: 30%     Effect: Add 1 Food in Food Bar
-  - Level: II     Chance: 50%     Effect: Add 1 Food in Food Bar
-  - Level: III     Chance: 70%     Effect: Add 1 Food in Food Bar
+   - Carrot Planter
+     - Applies to Hoes
+     - Max level: III
+     - Description: Plant carrots in a 3x3 area by shift + right-clicking.
 
+   - Death Punch
+     - Applies to Swords, Axes
+     - Max level: V
+     - Description: Increases damage dealt to zombies.
+
+   - Decapitation
+     - Applies to Swords, Axes
+     - Max level: III
+     - Description: Chance to have the opponents head drop on death.
+
+   - Epicness
+     - Applies to Swords
+     - Max level: III
+     - Description: Gives particles and sound effects.
+
+   - Experience
+     - Applies to Tools
+     - Max level: V
+     - Description: Chance to get more experience from ores.
+
+   - Forcefield
+     - Applies to Swords
+     - Max level: V
+     - Description: Chance to push away your opponent.
+
+   - Glowing
+     - Applies to Helmets
+     - Max Level: I
+     - Description: Gives permanent night vision.
+
+   - Hasten
+     - Applies to Tools
+     - Max level: I
+     - Description: Chance to gain Haste after breaking blocks.
+
+   - Potato Planter
+     - Applies to Hoes
+     - Max level: III
+     - Description: Plants potatoes in a 3x3 area by shift + right-clicking.
+
+   - Rebreather
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+
+   - Smelting
+     - Applies to Pickaxe
+     - Max level: III
+     - Description: Chance to smelt mined blocks.
+
+   - Strike
+      - Applies to Swords, Bows, Crossbows, Tridents
+      - Max level: III
+      - Description: Chance to strike lightning at the opponents.
 
