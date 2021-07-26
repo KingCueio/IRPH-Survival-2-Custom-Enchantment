@@ -35,6 +35,4 @@
   - Level: II     Chance: 50%     Effect: Add 1 Food in Food Bar
   - Level: III     Chance: 70%     Effect: Add 1 Food in Food Bar
 
-- Replenish
-  - 
-    - Chance to restore food while mining
+
