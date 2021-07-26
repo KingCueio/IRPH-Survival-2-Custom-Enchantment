@@ -1,9 +1,8 @@
 # Survival-2-s-CE-Information
-
-- HELMET
+  
+- **Simple Custom Enchantments**
   -
- **Simple Custom Enchantments**
- - Helmet:
+ 
 
    - Aquatic 
      - Applies to Helmets
