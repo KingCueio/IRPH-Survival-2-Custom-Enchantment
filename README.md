@@ -8,22 +8,34 @@
      - Applies to Helmets
      - Max Level: I
      - Description: Breath underwater.
+       - Level I	| Effects: Water Breath Infinite
       
    - Bone Crusher
      - Applies to Swords, Axes
      - Max Level: III
-     - Description: Increases damage dealt to skeletons.
+     - Description: Increases damage dealt to skeletons.   
+        - Level I	 | Cooldown: 2 secs | Contidion: Need to Sneak and Right Click | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+        - Level II	| Cooldown: 1 sec | Contidion: Need to Sneak and Right Clickn  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+        - Level III | Cooldown: 0 | Contidion: Need to Sneak and Right Click  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
 
    - Carrot Planter
      - Applies to Hoes
      - Max level: III
      - Description: Plant carrots in a 3x3 area by shift + right-clicking.
+         - Level I | Cooldown: 2 secs | Contidion: Will only affect Skeleton  | Effects: Carrot seeds will be planted on 3x3
+         - Level II	| Cooldown: 2 secs | Contidion: Will only affect Skeleton  | Effects: Carrot seeds will be planted on 3x3
+         - Level III	| Cooldown: 1 sec | Contidion: Will only affect Skeleton  | Effects: Carrot seeds will be planted on 3x3
 
    - Death Punch
      - Applies to Swords, Axes
      - Max level: V
      - Description: Increases damage dealt to zombies.
-
+       - Level I | Chance: 16% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+       - Level II	|  Chance: 20% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+       - Level III | Chance: 40% | Cooldown: 2 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+       - Level IV | Chance: 60% | Cooldown: 1 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+       - Level V	| Chance: 80% | Cooldown: 0 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+         
    - Decapitation
      - Applies to Swords, Axes
      - Max level: III
