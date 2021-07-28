@@ -15,7 +15,7 @@
      - Max Level: III
      - Description: Increases damage dealt to skeletons.   
         - Level I	 | Cooldown: 2 secs | Contidion: Need to Sneak and Right Click | Effects: Increase Damage 10 - 40 Randomly (Atacker)
-        - Level II	| Cooldown: 1 sec | Contidion: Need to Sneak and Right Clickn  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+        - Level II	| Cooldown: 1 sec | Contidion: Need to Sneak and Right Click  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
         - Level III | Cooldown: 0 | Contidion: Need to Sneak and Right Click  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
 
    - Carrot Planter
