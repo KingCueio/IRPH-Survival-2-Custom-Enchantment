@@ -129,23 +129,77 @@
 
 
    - Berserk
+     - Applies to Axes, Swords
+     - Max level: V
+     - Description: Chance of strength and mining fatigue.
    - Devour
+     - Applies to Axes, Swords (Weapons)
+     - Max level: III
+     - Description: Chance to restore food while killing mobs.
    - Explosive
+     - Applies to Bow
+     - Max level: V
+     - Description: Chance for arrows to explode.
    - Explosive Demise
+     - Applies to Leggings
+     - Max level: VIII
+     - Description: Summon creepers as your guards when near death.
    - Famine
+     - Applies to Axes, Swords (Weapons)
+     - Max level: IV
+     - Description: A chance to give your opponent the hunger effect.
    - FeatherWeight
+     - Applies to Swords, Axes
+     - Max level: III
+     - Description: Chance to get a burst of haste.
    - Frenzy
+     - Applies to Crossbow
+     - Max level: V
+     - Description: Chance for arrows to explode.
    - Hunter
+     - Applies to Bow, Crossbow, Trident
+     - Max level: IV
+     - Description: Increases damage dealt to Passive Mobs.
    - Molten
+     - Applies to Armor
+     - Max level: IV
+     - Description: Chance of setting your attacker ablaze.
    - Perish
+     - Applies to Bow, Crossbow, Trident
+     - Max level: V
+     - Description: A chance to give the wither effect.
    - Ravenous
+     - Applies to Axes, Swords
+     - Max level: IV
+     - Description: Chance to regain hunger while fighting.
    - Reflect
+     - Applies to Armor
+     - Max level: V
+     - Description: Absorb enemy damage and reflect it back.
    - Replanter
+     - Applies to Hoes
+     - Max level: I
+     - Description: Replants crops when harvested
    - Slayer
+     - Applies to Axes, Swords
+     - Max level: IV
+     - Description: Increases damage dealt to Passive Mobs.
    - Soulless
+     - Applies to Bow, Crossbow, Trident
+     - Max level: IV
+     - Description: Increases damage dealt to Hostile Mobs.
    - Telepathy
+     - Applies to Tools
+     - Max level: IV
+     - Description: Automatically places blocks broken by tools in your inventory.
    - Virus
+     - Applies to Bow, Crossbow, Trident
+     - Max level: III
+     - Description: A chance of giving poison effect.
    - Ward
+     - Applies to Armor
+     - Max level: IV
+     - Description: A chance to absorb enemy damage
 
 
   
