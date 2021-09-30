@@ -297,29 +297,29 @@
 
 
    - Allure
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Your attack pulls mobs towards you.
    - Blind
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: A chance of causing blindness when attacking.
    - Blunt Force
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: IV
+     - Description: Chance to strike with great force.
    - Bowmaster
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Bow, Crossbow, Trident
+     - Max level: V
+     - Description: Multiplies damage against players who are wielding a Sword at the time they are hit.
    - Critical
-     - Applies to Axes
+     - Applies to Armor
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Increase damage done with critical hit.
    - Curse
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: II
+     - Description: Chance to give your enemy mining fatigue.
    - Ender Slayer
      - Applies to Axes
      - Max level: III
@@ -846,9 +846,9 @@
      - Applies to Swords
      - Max level: III
      - Description: Chance to disarm opponent.
-       - Level I | Chance: 2% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
-       - Level II	|  Chance: 4% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
-       - Level III | Chance: 5% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
+       - Level I | Chance: 2% | Cooldown: 20 secs | Effects: The Enemy will be Disarmed (Enemy's Hold Item will force drop)
+       - Level II	|  Chance: 4% | Cooldown: 20 secs | Effects: The Enemy will be Disarmed (Enemy's Hold Item will force drop)
+       - Level III | Chance: 5% | Cooldown: 20 secs | Effects: The Enemy will be Disarmed (Victim's Hold Item will force drop)
    - Haste
      - Applies to Tools
      - Max level: III
@@ -860,10 +860,10 @@
      - Applies to Armor
      - Max level: IV
      - Description: Chance to prevents your armor\nfrom taking durability damage.
-       - Level I | Chance: 12% | Cooldown: 40 secs | Effects:  Reducing Victim's Durability by 10
-       - Level II	|  Chance: 18% | Cooldown: 40 secs | Effects: Reducing Victim's Durability by 10
-       - Level III | Chance: 25% | Cooldown: 40 secs | Effects: Reducing Victim's Durability by 10
-       - Level IV	|  Chance: 31% | Cooldown: 40 secs | Effects: Reducing Victim's Durability by 10
+       - Level I | Chance: 12% | Cooldown: 40 secs | Effects:  Reducing Enemy's Durability by 10
+       - Level II	|  Chance: 18% | Cooldown: 40 secs | Effects: Reducing Enemy's Durability by 10
+       - Level III | Chance: 25% | Cooldown: 40 secs | Effects: Reducing Enemy's Durability by 10
+       - Level IV	|  Chance: 31% | Cooldown: 40 secs | Effects: Reducing Enemy's Durability by 10
    - Multiplication
      - Applies to Pickaxe
      - Max level: V
@@ -883,10 +883,10 @@
      - Applies to Sword and Axe
      - Max level: II
      - Description: Chance to reflect attack and multiply damage. Costs 40 souls / activation.
-       - Level I | Chance: 6% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Damage Increase by 100% and Victim will recieve 4 secs of Level 0 Blindness and Level 1 Flash
-       - Level II	|  Chance: 8% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Damage Increase by 100% and Victim will recieve 4 secs of Level 1 Blindness and Level 2 Flash
-       - Level III | Chance: 12% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Damage Increase by 100% and Victim will recieve 4 secs of Level 2 Blindness and Level 3 Flash
-       - Level IV	|  Chance: 14% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Damage Increase by 100% and Victim will recieve 4 secs of Level 3 Blindness and Level 4 Flash
+       - Level I | Chance: 6% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Your Damage Increases by 100% and the Enemy will recieve 4 secs of Level 0 Blindness and Level 1 Flash
+       - Level II	|  Chance: 8% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Your Damage Increases by 100% and the Enemy will recieve 4 secs of Level 1 Blindness and Level 2 Flash
+       - Level III | Chance: 12% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Your Damage Increases by 100% and the Enemy will recieve 4 secs of Level 2 Blindness and Level 3 Flash
+       - Level IV	|  Chance: 14% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Your Damage Increases by 100% and the Enemy will recieve 4 secs of Level 3 Blindness and Level 4 Flash
    - Phoenix
      - Applies to Chestplates
      - Max level: III
@@ -913,11 +913,11 @@
      - Applies to Sword and Axe
      - Max level: IV
      - Description: Chance to replace your opponents helmet to a pumpkin for a short time.
-       - Level I | Chance: 1.8% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 2 secs
-       - Level II	|  Chance: 3.6% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 2 secs
-       - Level III | Chance: 4.4% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 3 secs
-       - Level IV	|  Chance: 5.2% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 3 secs
-       - Level V | Chance: 6% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 4 secs
+       - Level I | Chance: 1.8% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 2 secs
+       - Level II	|  Chance: 3.6% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 2 secs
+       - Level III | Chance: 4.4% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 3 secs
+       - Level IV	|  Chance: 5.2% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 3 secs
+       - Level V | Chance: 6% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 4 secs
    - Souldbound
      - Applies to Tools, Sword, Bow, Crossbow
      - Max level: III
