@@ -300,14 +300,24 @@
      - Applies to Swords
      - Max level: III
      - Description: Your attack pulls mobs towards you.
+       - Level I | Chance: 30% | No Cooldown | Effects: The attack will pull mobs closer to you.
+       - Level II	|  Chance: 60% | No Cooldown |  Effects: The attack will pull mobs closer to you.
+       - Level III | Chance: 100% | No Cooldown | Effects: The attack will pull mobs closer to you.
    - Blind
      - Applies to Swords
      - Max level: III
      - Description: A chance of causing blindness when attacking.
+       - Level I | Chance: 17% | Cooldown: 3 secs | Effects: The Enemy will receive 3 secs of blindness.
+       - Level II	|  Chance: 25% | Cooldown: 3 secs |  Effects: The Enemy will receive 4 secs of level 1 blindness.
+       - Level III | Chance: 33% | Cooldown: 3 secs | Effects: The Enemy will receive 5 secs of level 2 blindness.
    - Blunt Force
-     - Applies to Swords
+     - Applies to Axes
      - Max level: IV
      - Description: Chance to strike with great force.
+       - Level I | Chance: 5% | Cooldown: 5 secs | Effects: Your Attack will have 1 Extra Damage 
+       - Level II	|  Chance: 8% | Cooldown: 5 secs |  Effects: Your Attack will have 2 Extra Damage 
+       - Level III | Chance: 10% | Cooldown: 5 secs | Effects: Your Attack will have 3 Extra Damage 
+       - Level IV | Chance: 12% | Cooldown: 5 secs | Effects: Your Attack will have 4 Extra Damage 
    - Bowmaster
      - Applies to Bow, Crossbow, Trident
      - Max level: V
@@ -316,54 +326,83 @@
      - Applies to Armor
      - Max level: III
      - Description: Increase damage done with critical hit.
+       - Level I | Chance: 7% | Cooldown: 5 secs | Effects: Your Attack will increase 10% with Critical Damage.
+       - Level II	|  Chance: 8% | Cooldown: 5 secs |  Effects: Your Attack will increase 15% with Critical Damage.
+       - Level III | Chance: 12% | Cooldown: 5 secs | Effects: Your Attack will increase 20% with Critical Damage.
    - Curse
      - Applies to Axes
      - Max level: II
      - Description: Chance to give your enemy mining fatigue.
+       - Level I | Chance: 13% | No Cooldown | Effects: The Enemy will receive 5 secs of Mining Fatigue
+       - Level II	|  Chance: 17% | Cooldown: 15 secs |  Effects: The Enemy will receive 5 secs of Level 1 Mining Fatigue
    - Ender Slayer
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Axes, Swords (Weapons)
+     - Max level: V
+     - Description: Increases damage dealt to Enderman and Ender dragons.
    - Extinguish
-     - Applies to Axes
+     - Applies to Leggings
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to extinguish yourself when on fire.
+       - Level I | Chance: 20% | No Cooldown | Effects: Fire will be removed by the CE.
+       - Level II	|  Chance: 60% | No Cooldown |  Effects: Fire will be removed by the CE.
+       - Level III | Chance: 80% | No Cooldown | Effects: Fire will be removed by the CE.
    - Frozen
-     - Applies to Axes
+     - Applies to Armor
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Can cause slowness to attacker when defending.
+       - Level I | Chance: 19% | Cooldown: 6 secs | Effects: Your Enemy will receive 2 secs of Slowness
+       - Level II	|  Chance: 19% | Cooldown: 6 secs |  Effects: Your Enemy will receive 2.5 secs of Level 1 Slowness
+       - Level III | Chance: 26% | Cooldown: 6 secs | Effects: Your Enemy will receive 3 secs of Level 2 Slowness
    - Greatsword
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Sword
+     - Max level: V
+     - Description: Multiplies damage against players who are wielding a Bow at the time they are hit.
    - Hook
-     - Applies to Axes
+     - Applies to Fishing Rod
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Get more exp from fishing.
+       - Level I | Chance: 15% | Cooldown: 12 secs | Effects: You will recieve random XP
+       - Level II	|  Chance: 25% | Cooldown: 12 secs |  Effects: You will recieve random XP
+       - Level III | Chance: 35% | Cooldown: 12 secs | Effects: You will recieve random XP
    - Immolate
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Axes, Swords
+     - Max level: IV
+     - Description: Increases damage dealt to Spiders.
    - Impact
-     - Applies to Axes
+     - Applies to Trident
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to double dealt damage.
+       - Level I | Chance: 5% | Cooldown: 3 secs | Effects: Your Attack will Double Damage
+       - Level II	|  Chance: 8% | Cooldown: 3 secs |  Effects:Your Attack will Double Damage
+       - Level III | Chance: 11% | Cooldown: 5 secs | Effects: Your Attack will Double Damage
+       - Level IV | Chance: 14% | Cooldown: 6 secs | Effects: YYour Attack will Double Damage
    - Infernal
-     - Applies to Axes
+     - Applies to Axes, Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Explosive fire effect..
+       - Level I | Chance: 15% | Cooldown: 2 secs | Effects: Your Victim will recieve Flame for 2 secs
+       - Level II	|  Chance: 30% | Cooldown: 2 secs |  Effects: Your Victim will recieve Flame for 4 secs
+       - Level III | Chance: 50% | Cooldown: 2 secs | Effects: Your Victim will recieve Flame for 6 secs
    - Magnet
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Your attack pulls players towards you.
+       - Level I | Chance: 30% | No Cooldown | Effects: The attack will pull players closer to you.
+       - Level II	|  Chance: 60% | No Cooldown |  Effects: The attack will pull players closer to you.
+       - Level III | Chance: 100% | No Cooldown | Effects: The attack will pull players closer to you.
    - Marksman
      - Applies to Axes
      - Max level: III
      - Description: Chance to get more souls from killing players.
    - Missile
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Crossbow
+     - Max level: V
+     - Description: Arrows turn into fireballs.
+       - Level I | Chance: 10% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
+       - Level II	|  Chance: 25% | Cooldown: 3 secs |  Effects: Your Attack will turn into Fireball.
+       - Level III | Chance: 35% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
+       - Level IV	|  Chance: 50% | Cooldown: 3 secs |  Effects: Your Attack will turn into Fireball.
+       - Level V | Chance: 70% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
    - Momentum
      - Applies to Axes
      - Max level: III
@@ -381,29 +420,43 @@
      - Max level: III
      - Description: Chance to get more souls from killing players.
    - Poison
-     - Applies to Axes
+     - Applies to Axes, Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: A chance of giving poison effect.
+       - Level I | Chance: 6% | Cooldown: 2 secs | Effects: Your Enemy will recieve 4 secs of Poison
+       - Level II	|  Chance: 22% | Cooldown: 2 secs |  Effects: Your Enemy will recieve 6 secs of Poison
+       - Level III | Chance: 35% | Cooldown: 2 secs | Effects: Your Enemy will recieve 4 secs of Level 1 Poison
    - Poisoned
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: IV
+     - Description: Chance to give poison to your attacker.
+       - Level I | Chance: 8% | Cooldown: 6 secs | Effects: Your Enemy will recieve 3 secs of Poison
+       - Level II	|  Chance: 12% | Cooldown: 6 secs |  Effects: Your Enemy will recieve 6 secs of Poison
+       - Level III | Chance: 17% | Cooldown: 6 secs | Effects: Your Enemy will recieve 3 secs of Level 1 Poison
+       - Level IV	|  Chance: 23% | Cooldown: 6 secs |  Effects: Your Enemy will recieve 6 secs of level 1 Poison
    - Poseidon
      - Applies to Axes
      - Max level: III
      - Description: Chance to get more souls from killing players.
-   - Repear
+   - Reaper
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: IV
+     - Description: A chance to give your opponent the Wither and Blindness effects while dealing damage
+       - Level I | Chance: 8% | Cooldown: 16 secs | Effects: Your Enemy will recieve 1.75 secs of Wither and 1.75 secs of Blindness
+       - Level II	|  Chance: 10% | Cooldown: 14 secs |  Effects: Your Enemy will recieve 2 secs of Wither and 2 secs of Blindness
+       - Level III | Chance: 12% | Cooldown: 12 secs | Effects: Your Enemy will recieve 2.5 secs of Wither and 2.5 secs of Blindness
+       - Level IV	|  Chance: 14% | Cooldown: 10 secs |  Effects: Your Enemy will recieve 3 secs of Wither and 3 secs of Blindness
    - Reforged
      - Applies to Axes
      - Max level: III
      - Description: Chance to get more souls from killing players.
    - Replenish
-     - Applies to Axes
+     - Applies to Pickaxes
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to restore food while mining.
+       - Level I | Chance: 30% | Effects: Your food bar will increase by 1 food
+       - Level II	|  Chance: 40% |  Effects: Your food bar will increase by 2 food
+       - Level III | Chance: 60% | Effects: Your food bar will increase by 3 food
    - Rocket Escape
      - Applies to Axes
      - Max level: III
@@ -417,49 +470,83 @@
      - Max level: III
      - Description: Chance to get more souls from killing players.
    - Snap
-     - Applies to Axes
+     - Applies to Fishing Rod
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Pull hit entity towards you.
+       - Level I | Chance: 15% | Cooldown: 4 secs | Effects: Any Entity that you hitted will pull closer to you.
+       - Level II	|  Chance: 25% | Cooldown: 6 secs |  Effects: Any Entity that you hitted will pull closer to you.
+       - Level III | Chance: 35% | Cooldown: 8 secs | Effects: Any Entity that you hitted will pull closer to you.
    - Snare
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Bow and CrossBow
+     - Max level: IV
+     - Description: Chance to slow and fatigue enemies with projectiles.
+       - Level I | Chance: 12% | Cooldown: 3 secs | Effects: Your Enemy will recieve 4 secs of fatigue and 4 secs of slowness.
+       - Level II	|  Chance: 19% | Cooldown: 3 secs |  Effects: Your Enemy will recieve 6 secs of fatigue and 6 secs of slowness.
+       - Level III | Chance: 24% | Cooldown: 3 secs | Effects: Your Enemy will recieve 4 secs of level 1  fatigue and 4 secs of level 1 slowness.
+       - Level IV | Chance: 29% | Cooldown: 3 secs | Effects: Your Enemy will recieve 6 secs of level 1  fatigue and 6 secs of level 1 slowness.
    - Spark
-     - Applies to Axes
+     - Applies to Trident
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Light opponents on fire.
+       - Level I | Chance: 25% | Cooldown: 3 secs | Effects: Your Enemy will recieve 40 secs of Flame
+       - Level II	|  Chance: 35% | Cooldown: 6 secs |  Effects: Your Enemy will recieve 40 secs of Flame
+       - Level III | Chance: 15% | Cooldown: 8 secs | Effects: Your Enemy will recieve 40 secs of Flame
    - Springs
-     - Applies to Axes
+     - Applies to Boots
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Gives jump boost.
+       - Level I | Effects: You will receive High Jump
+       - Level II	|  Effects: You will receive Level 1 High Jump
+       - Level III | Effects: You will receive Level 2 High Jump
    - Suspend
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to cause no knockback to mobs.
+       - Level I | Chance: 40% | Effects: Your attack will have no knockback to mobs.
+       - Level II	|  Chance: 80%   Effects: Your attack will have no knockback to mobs.
+       - Level III | Chance: 100% | Effects: Your attack will have no knockback to mobs.
    - Trickster
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: VIII
+     - Description: When hit you have a chance to teleport directly behind you opponent.
    - Undead Ruse
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: X
+     - Description: When hit you have a chance to spawn zombie hordes to distract and disorient your opponents.
    - Vampire
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: A chance to heal you for up to 3hp a few seconds after you strike.
+       - Level I | Chance: 7% | Cooldown: 4 secs | Effects: You will receive 1-6 hearts
+       - Level II	|  Chance: 12% | Cooldown: 4 secs |  Effects: You will receive 1-6 hearts
+       - Level III | Chance: 15% | Cooldown: 4 secs | Effects: You will receive 1-6 hearts
    - Vein Miner
-     - Applies to Axes
+     - Applies to Pickaxes
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: "Mine entire vein of ores.
+       - Level I | Chance: 15% | Cooldown: 4 secs | Effects: Breaking all blocks in a vein of ore
+       - Level II	|  Chance: 35% | Cooldown: 3 secs |  Effects: Breaking all blocks in a vein of ore
+       - Level III | Chance: 100% | No Cooldown | Effects: Breaking all blocks in a vein of ore
    - Voodoo
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: VI
+     - Description: Gives a chance to deal weakness.
+       - Level I | Chance: 5% | Cooldown: 2 secs | Effects: The Attacker will recieve 3 secs of Weakness.
+       - Level II	|  Chance: 7% | Cooldown: 2 secs |  Effects: The Attacker will recieve 5 secs of Weakness.
+       - Level III | Chance: 9% | Cooldown: 2 secs | Effects: The Attacker will recieve 7 secs of Weakness.
+       - Level IV | Chance: 13% | Cooldown: 2 secs | Effects: The Attacker will recieve 3 secs of Level 1 Weakness.
+       - Level V	|  Chance: 16% | Cooldown: 2 secs |  Effects: The Attacker will recieve 5 secs of Level 1 Weakness.
+       - Level V	|  Chance: 21% | Cooldown: 2 secs |  Effects: The Attacker will recieve 6 secs of Level 1 Weakness.
    - Wither
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: V
+     - Description: A chance to give the wither effect.
+       - Level I | Chance: 9% | Cooldown: 3 secs | Effects: The Attacker will recieve 3 secs of Wither.
+       - Level II	|  Chance: 11% | Cooldown: 3 secs |  Effects: The Attacker will recieve 5 secs of Wither.
+       - Level III | Chance: 14% | Cooldown: 3 secs | Effects: The Attacker will recieve 7 secs of Wither.
+       - Level IV | Chance: 17% | Cooldown: 3 secs | Effects: The Attacker will recieve 3 secs of Level 1 Wither.
+       - Level V	|  Chance: 21% | Cooldown: 3 secs |  Effects: The Attacker will recieve 5 secs of Level 1 Wither.
+
 
 
 
