@@ -325,53 +325,97 @@
   -
 
    - Axe of Spirits
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
+       - Level I | Chance: 45% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+       - Level II	|  Chance: 65% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+       - Level III | Chance: 75% | No Cooldown | Effects: Heart Particle and +1 Add Soul
    - Diploid
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Swords
+     - Max level: IV
+     - Description: Chance to multiply mob drops. Costs 5 souls / activation.
+       - Level I | Chance: 15% | Cooldown: 5 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
+       - Level II	|  Chance: 20% | Cooldown: 5 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
+       - Level III | Chance: 25% | Cooldown: 6 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
+       - Level IV	|  Chance: 28% | Cooldown: 7 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
+       - Level V | Chance: 30% | Cooldown: 8 secs | Cost Soul: 5 Souls | Effects: Heart Multiply Drops by 1
    - Disarm
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Swords
+     - Max level: III
+     - Description: Chance to disarm opponent.
+       - Level I | Chance: 2% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
+       - Level II	|  Chance: 4% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
+       - Level III | Chance: 5% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
    - Haste
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Tools
+     - Max level: III
+     - Description: Allows you to swing your tools faster.
+       - Level I | Effects: Level 0 Fast Digging
+       - Level II	| Effects: Level 1 Fast Digging
+       - Level III | Effects: Level 2 Fast Digging
    - Immortal
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Armor
+     - Max level: IV
+     - Description: Chance to prevents your armor\nfrom taking durability damage.
+       - Level I | Chance: 12% | Cooldown: 40 secs | Effects:  Reducing Victim's Durability by 10
+       - Level II	|  Chance: 18% | Cooldown: 40 secs | Effects: Reducing Victim's Durability by 10
+       - Level III | Chance: 25% | Cooldown: 40 secs | Effects: Reducing Victim's Durability by 10
+       - Level IV	|  Chance: 31% | Cooldown: 40 secs | Effects: Reducing Victim's Durability by 10
    - Multiplication
      - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Max level: V
+     - Description: Chance to multiply ore drops. Costs 5 souls / activation.
+       - Level I | Chance: 15% | Cooldown: 5 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
+       - Level II	|  Chance: 20% | Cooldown: 5 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
+       - Level III | Chance: 25% | Cooldown: 6 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
+       - Level IV	|  Chance: 28% | Cooldown: 7 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
+       - Level V | Chance: 30% | Cooldown: 8 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Heart Multiply Drops by 1
    - Neutralize
-     - Applies to Pickaxe
+     - Applies to Bow and Crossbow
      - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Description: Chance to disarm opponent.
+       - Level I | Chance: 5% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
+       - Level II	|  Chance: 10% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
    - Nulify
-     - Applies to Pickaxe
+     - Applies to Sword and Axe
      - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Description: Chance to reflect attack and multiply damage. Costs 40 souls / activation.
+       - Level I | Chance: 6% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Damage Increase by 100% and Victim will recieve 4 secs of Level 0 Blindness and Level 1 Flash
+       - Level II	|  Chance: 8% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Damage Increase by 100% and Victim will recieve 4 secs of Level 1 Blindness and Level 2 Flash
+       - Level III | Chance: 12% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Damage Increase by 100% and Victim will recieve 4 secs of Level 2 Blindness and Level 3 Flash
+       - Level IV	|  Chance: 14% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Damage Increase by 100% and Victim will recieve 4 secs of Level 3 Blindness and Level 4 Flash
    - Phoenix
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Chestplates
+     - Max level: III
+     - Description: Chance to revive yourself when killed.
+       - Level I | Chance: 5% | Cooldown: 20 secs | Effects: The Player will Revive.
+       - Level II	|  Chance: 7% | Cooldown: 20 secs | Effects: The Player will Revive.
+       - Level III | Chance: 9% | Cooldown: 20 secs | Effects: The Player will Revive.
    - Restore
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Tools
+     - Max level: IV
+     - Description: Upon breaking, item has a chance to lose this enchantment and repair half of its durability.
+       - Level I | Chance: 40% | No Cooldown | Effects: The "Restore" Enchantment will be removed and will repair the item's durability by half.
+       - Level II	|  Chance: 60% | No Cooldown | Effects: The "Restore" Enchantment will be removed and will repair the item's durability by half.
+       - Level III | Chance: 80% | No Cooldown | Effects: The "Restore" Enchantment will be removed and will repair the item's durability by half.
+       - Level IV | Chance: 100% | No Cooldown | Effects: The "Restore" Enchantment will be removed and will repair the item's durability by half.
    - Rush
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Elytra
+     - Max level: III
+     - Description: Chance of speed boost when taking off with elytra. Costs 10 souls / activation.
+       - Level I | Chance: 15% | Cooldown: 5 secs |  Cost Soul: 10 Souls | Effects: You will receive a 3 secs of Level 3 Speed.
+       - Level II	|  Chance: 25% | Cooldown: 5 secs |  Cost Soul: 10 Souls | Effects:  You will receive a 3 secs of Level 4 Speed.
+       - Level III | Chance: 26% | Cooldown: 5 secs |  Cost Soul: 10 Souls | Effects:  You will receive a 3 secs of Level 5 Speed.
    - Scare
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Sword and Axe
+     - Max level: IV
+     - Description: Chance to replace your opponents helmet to a pumpkin for a short time.
+       - Level I | Chance: 1.8% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 2 secs
+       - Level II	|  Chance: 3.6% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 2 secs
+       - Level III | Chance: 4.4% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 3 secs
+       - Level IV	|  Chance: 5.2% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 3 secs
+       - Level V | Chance: 6% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 4 secs
    - Souldbound
      - Applies to Pickaxe
      - Max level: II
