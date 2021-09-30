@@ -297,46 +297,169 @@
 
 
    - Allure
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Blind
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Blunt Force
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Bowmaster
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Critical
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Curse
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Ender Slayer
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Extinguish
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Frozen
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Greatsword
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Hook
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Immolate
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Impact
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Infernal
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Magnet
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Marksman
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Missile
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Momentum
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Nether Slayer
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Nightwalker
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Paralyze
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Poison
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Poisoned
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Poseidon
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Repear
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Reforged
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Replenish
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Rocket Escape
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Shockwave
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Smoke Bomb
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Snap
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Snare
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Spark
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Springs
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Suspend
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Trickster
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Undead Ruse
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Vampire
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Vein Miner
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Voodoo
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Wither
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
 
 
 
@@ -348,52 +471,193 @@
   -
 
    - Aegis
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Ambit
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Angelic
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Archer
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Arrow Break
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Arrow Deflect
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Bleed
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Block
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Cleave
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Confuse
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Creeper Armor
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Diminish
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Disappear
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Disintegrate
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Distance
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Dodge
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Endmaster
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Exalted
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Fuddle
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Guardians
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Heavy
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Hellfire
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Hook (The Name should be "Lucky)
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Ice Aspect
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Immolation
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Implants
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Interrupt
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Jelly Legs
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Longbow
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Netherling
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Night Owl
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Obsidianshield
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Permafrost
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Piercing
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Planter
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Plummet
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Ragdoll
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Reinforced
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Safeguard
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Shatter
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Ultimate
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Spirits
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Striker
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Swordsman
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Tank
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Timber
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Trench
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
 
 
 
@@ -405,42 +669,153 @@
   -
 
    - Abiding
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Aqua
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Armored
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Bait
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Barbarian
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Beastslayer
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Blacksmith
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Chaos
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Chunky
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Convulse
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Deadshot
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Deranged
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Disarmor
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Divert
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Double Strike
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Fumble
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Gears
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Hardened
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Inflame
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Inquisitive
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Judgement
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Kill Aura
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Launch
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Lava Walker
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Lifesteal
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Lucid
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Overload
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Patch
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Rebound
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Slingshot
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Strife
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Thunderlord
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Turmoil
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Twinge
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Unholy
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - WaterWalker
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
    - Wings
+     - Applies to Axes
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
 
 
 
