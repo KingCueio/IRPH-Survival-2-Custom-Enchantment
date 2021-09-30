@@ -417,25 +417,38 @@
        - Level IV	|  Chance: 5.2% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 3 secs
        - Level V | Chance: 6% | Cooldown: 20 secs | Effects: Victim will be forced equipped pumpkin for 4 secs
    - Souldbound
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Tools, Sword, Bow, Crossbow
+     - Max level: III
+     - Description: A chance to keep item on death.
+       - Level I | Chance: 4% | Cooldown: 300 secs | Effects: Your equipped item and held item will only be kept.
+       - Level II	|  Chance: 6% | Cooldown: 300 secs | Effects: Your equipped item and held item will only be kept.
+       - Level III | Chance: 8% | Cooldown: 300 secs | Effects: Your equipped item and held item will only be kept.
    - Soulgrind
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Swords
+     - Max level: III
+     - Description: Chance to get souls by killing mobs
+       - Level I | Chance: 30% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+       - Level II	|  Chance: 60% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+       - Level III | Chance: 90% | No Cooldown | Effects: Heart Particle and +1 Add Soul
    - Soulminer
      - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Max level: III
+     - Description: Chance to get souls by mining.
+       - Level I | Chance: 5% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+       - Level II	|  Chance: 10% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+       - Level III | Chance: 15% | No Cooldown | Effects: Heart Particle and +1 Add Soul
    - Spiritmaster
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Swords
+     - Max level: III
+     - Description: Chance to get more souls from killing players.
+       - Level I | Chance: 35% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+       - Level II	|  Chance: 45% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+       - Level III | Chance: 55% | No Cooldown | Effects: Heart Particle and +1 Add Soul
    - Unbreakable
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
+     - Applies to Tools
+     - Max level: I
+     - Description: Tools with this enchant become unbreakable
+       - Level I | Effects: The Tool's Durability will be repaired.
 
 
 
