@@ -158,10 +158,10 @@
      - Applies to Leggings
      - Max level: VIII
      - Description: Summon creepers as your guards when near death.
-       - Level I | Chance: 13% | Cooldown: 3 secs | Condition: Will only activate if you have less than 6 hearts |  Effects: You will spawn at least 1 creepers that lasts 8 secs and the Attaker will get 2 secs of level 0 blindness
-       - Level II	|  Chance: 17% | Cooldown: 3 secs | Condition: Will only activate if you have less than 6 hearts |  Effects: You will spawn at least 1 creepers that lasts 8 secs and the Attaker will get 3 secs of level 0 blindness
-       - Level III | Chance: 24% | Cooldown: 3 secs | Condition: Will only activate if you have less than 7 hearts |  Effects: You will spawn at least 1 creepers that lasts 8 secs and the Attaker will get 5 secs of level 0 blindness
-       - Level IV	|  Chance: 30% | Cooldown: 3 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 1 creepers that lasts 8 secs and the Attaker will get 2 sec of level 1 blindness
+       - Level I | Chance: 13% | Cooldown: 3 secs | Condition: Will only activate if you have less than 6 hearts |  Effects: You will spawn at least 1 creeper that lasts 8 secs and the Attaker will get 2 secs of level 0 blindness
+       - Level II	|  Chance: 17% | Cooldown: 3 secs | Condition: Will only activate if you have less than 6 hearts |  Effects: You will spawn at least 1 creeper that lasts 8 secs and the Attaker will get 3 secs of level 0 blindness
+       - Level III | Chance: 24% | Cooldown: 3 secs | Condition: Will only activate if you have less than 7 hearts |  Effects: You will spawn at least 1 creeper that lasts 8 secs and the Attaker will get 5 secs of level 0 blindness
+       - Level IV	|  Chance: 30% | Cooldown: 3 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 1 creeper that lasts 8 secs and the Attaker will get 2 sec of level 1 blindness
        - Level V | Chance: 38% | Cooldown: 3 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 4 sec of level 1 blindness
        - Level VI | Chance: 46% | Cooldown: 3 secs | Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 6 sec of level 1 blindness
        - Level VII	|  Chance: 55% | Cooldown: 5 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 3 sec of level 2 blindness
