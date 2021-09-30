@@ -128,23 +128,24 @@
   -
 
 
-   - Famine
    - Berserk
-   - Reflect
-   - Ward
-   - Explosive
-   - Frenzy
-   - FeatherWeight
-   - Molten
-   - Ravenous
-   - Telepathy
-   - Explosive Demise 
-   - Slayer
-   - Hunter
-   - Soulless
-   - Virus
-   - Perish
    - Devour
+   - Explosive
+   - Explosive Demise
+   - Famine
+   - FeatherWeight
+   - Frenzy
+   - Hunter
+   - Molten
+   - Perish
+   - Ravenous
+   - Reflect
+   - Replanter
+   - Slayer
+   - Soulless
+   - Telepathy
+   - Virus
+   - Ward
 
 
   
@@ -277,43 +278,43 @@
 - **Legendary Custom Enchantments**
   -
 
-
-   - Twinge
-   - Beastslayer
-   - Bait
-   - Hardened
-   - Patch
-   - Fumble
-   - Turmoil
-   - Rebound
-   - Thunderlord
-   - Lava Walker
-   - Water Walker
-   - Aqua
-   - Judgement
-   - Divert
-   - Unholy
-   - Chaos
-   - Convulse
-   - Chunky
-   - Barbarian
-   - Lucid
-   - Double Strike
-   - Gears
-   - Inflame
-   - Kill Aura
-   - Inquistive
-   - Lifesteal
-   - Overload
-   - Armored
-   - Blacksmith
    - Abiding
-   - Disarmor
+   - Aqua
+   - Armored
+   - Bait
+   - Barbarian
+   - Beastslayer
+   - Blacksmith
+   - Chaos
+   - Chunky
+   - Convulse
    - Deadshot
-   - Strife
-   - Launch
-   - Slingshot
    - Deranged
+   - Disarmor
+   - Divert
+   - Double Strike
+   - Fumble
+   - Gears
+   - Hardened
+   - Inflame
+   - Inquisitive
+   - Judgement
+   - Kill Aura
+   - Launch
+   - Lava Walker
+   - Lifesteal
+   - Lucid
+   - Overload
+   - Patch
+   - Rebound
+   - Slingshot
+   - Strife
+   - Thunderlord
+   - Turmoil
+   - Twinge
+   - Unholy
+   - WaterWalker
+   - Wings
 
 
 
