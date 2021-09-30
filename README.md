@@ -222,52 +222,53 @@
 - **Ultimate Custom Enchantments**
   -
 
-   - Planter
-   - Jelly Legs
-   - Hook (The Name Should be "Lucky")
-   - Permafrost
-   - Distance
-   - Cleave
+   - Aegis
    - Ambit
    - Angelic
-   - Arrow Deflect
-   - Arrow Break
-   - Diminish
-   - Interrupt
-   - Exalted
-   - Ragdoll
-   - Block
-   - Trench
-   - Dodge
-   - Guardians
-   - Ice Aspect
-   - Reinforced
-   - Implants
-   - Obsidianshield
-   - Piercing
    - Archer
-   - Safeguard
-   - Disappear
+   - Arrow Break
+   - Arrow Deflect
+   - Bleed
+   - Block
+   - Cleave
    - Confuse
+   - Creeper Armor
+   - Diminish
+   - Disappear
    - Disintegrate
-   - Shatter
+   - Distance
+   - Dodge
+   - Endmaster
+   - Exalted
+   - Fuddle
+   - Guardians
    - Heavy
    - Hellfire
-   - Longbow
-   - Tank
-   - Swordsman
-   - Netherling
-   - Endmaster
-   - Creeper Armor
-   - Spirits
-   - Bleed
+   - Hook (The Name should be "Lucky)
+   - Ice Aspect
    - Immolation
-   - Striker
-   - Sniper
-   - Aegis
-   - Plummet
+   - Implants
+   - Interrupt
+   - Jelly Legs
+   - Longbow
+   - Netherling
    - Night Owl
-   - Fuddle
+   - Obsidianshield
+   - Permafrost
+   - Piercing
+   - Planter
+   - Plummet
+   - Ragdoll
+   - Reinforced
+   - Safeguard
+   - Shatter
+   - Ultimate
+   - Spirits
+   - Striker
+   - Swordsman
+   - Tank
+   - Timber
+   - Trench
 
 
 
