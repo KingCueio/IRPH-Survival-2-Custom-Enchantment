@@ -171,47 +171,47 @@
   -
 
 
-   - Impact
-   - Vein Miner
-   - Ender Slayer
-   - Immolate
-   - Hook
-   - Snap
-   - Reaper
-   - Nether Slayer
-   - Blind 
    - Allure
+   - Blind
+   - Blunt Force
+   - Bowmaster
+   - Critical
+   - Curse
+   - Ender Slayer
+   - Extinguish
    - Frozen
+   - Greatsword
+   - Hook
+   - Immolate
+   - Impact
+   - Infernal
+   - Magnet
+   - Marksman
+   - Missile
+   - Momentum
+   - Nether Slayer
+   - Nightwalker
    - Paralyze
    - Poison
-   - Poisen
-   - Reforged
-   - Snare
-   - Springs
-   - Undead Ruse
-   - Voodoo
-   - Wither 
-   - Smoke Bomb
-   - Infernal 
-   - Extinguish
-   - Shockwave
-   - Vampire
-   - Greatsword
-   - Bowmaster
-   - Rocket Escape
-   - Trickster
-   - Curse
-   - Momentum
-   - Marksman
+   - Poisoned
    - Poseidon
+   - Repear
+   - Reforged
    - Replenish
-   - Missile
-   - Critical
+   - Rocket Escape
+   - Shockwave
+   - Smoke Bomb
+   - Snap
+   - Snare
    - Spark
-   - Blunt Force
-   - Suspend 
-   - Nighwalker
-   - Magnet
+   - Springs
+   - Suspend
+   - Trickster
+   - Undead Ruse
+   - Vampire
+   - Vein Miner
+   - Voodoo
+   - Wither
 
 
 
