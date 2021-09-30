@@ -115,3 +115,286 @@
          - Level I | Chance: 24% | Cooldown: 3 secs | Effects: Lightning (victim)
          - Level II	|  Chance: 32% | Cooldown: 3 secs | Effects: Lightning (victim)
          - Level III | Chance: 40% | Cooldown: 3 sec | Effects: Lightning (victim)
+   - Aquatic 
+     - Applies to Helmets
+     - Max Level: I
+     - Description: Breath underwater.
+
+
+
+
+
+- **Unique Custom Enchantments**
+  -
+
+
+   - Famine
+   - Berserk
+   - Reflect
+   - Ward
+   - Explosive
+   - Frenzy
+   - FeatherWeight
+   - Molten
+   - Ravenous
+   - Telepathy
+   - Explosive Demise 
+   - Slayer
+   - Hunter
+   - Soulless
+   - Virus
+   - Perish
+   - Devour
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+- **Elite Custom Enchantments**
+  -
+
+
+   - Impact
+   - Vein Miner
+   - Ender Slayer
+   - Immolate
+   - Hook
+   - Snap
+   - Reaper
+   - Nether Slayer
+   - Blind 
+   - Allure
+   - Frozen
+   - Paralyze
+   - Poison
+   - Poisen
+   - Reforged
+   - Snare
+   - Springs
+   - Undead Ruse
+   - Voodoo
+   - Wither 
+   - Smoke Bomb
+   - Infernal 
+   - Extinguish
+   - Shockwave
+   - Vampire
+   - Greatsword
+   - Bowmaster
+   - Rocket Escape
+   - Trickster
+   - Curse
+   - Momentum
+   - Marksman
+   - Poseidon
+   - Replenish
+   - Missile
+   - Critical
+   - Spark
+   - Blunt Force
+   - Suspend 
+   - Nighwalker
+   - Magnet
+
+
+
+
+
+
+
+- **Ultimate Custom Enchantments**
+  -
+
+   - Planter
+   - Jelly Legs
+   - Hook (The Name Should be "Lucky")
+   - Permafrost
+   - Distance
+   - Cleave
+   - Ambit
+   - Angelic
+   - Arrow Deflect
+   - Arrow Break
+   - Diminish
+   - Interrupt
+   - Exalted
+   - Ragdoll
+   - Block
+   - Trench
+   - Dodge
+   - Guardians
+   - Ice Aspect
+   - Reinforced
+   - Implants
+   - Obsidianshield
+   - Piercing
+   - Archer
+   - Safeguard
+   - Disappear
+   - Confuse
+   - Disintegrate
+   - Shatter
+   - Heavy
+   - Hellfire
+   - Longbow
+   - Tank
+   - Swordsman
+   - Netherling
+   - Endmaster
+   - Creeper Armor
+   - Spirits
+   - Bleed
+   - Immolation
+   - Striker
+   - Sniper
+   - Aegis
+   - Plummet
+   - Night Owl
+   - Fuddle
+
+
+
+
+
+
+
+- **Legendary Custom Enchantments**
+  -
+
+
+   - Twinge
+   - Beastslayer
+   - Bait
+   - Hardened
+   - Patch
+   - Fumble
+   - Turmoil
+   - Rebound
+   - Thunderlord
+   - Lava Walker
+   - Water Walker
+   - Aqua
+   - Judgement
+   - Divert
+   - Unholy
+   - Chaos
+   - Convulse
+   - Chunky
+   - Barbarian
+   - Lucid
+   - Double Strike
+   - Gears
+   - Inflame
+   - Kill Aura
+   - Inquistive
+   - Lifesteal
+   - Overload
+   - Armored
+   - Blacksmith
+   - Abiding
+   - Disarmor
+   - Deadshot
+   - Strife
+   - Launch
+   - Slingshot
+   - Deranged
+
+
+
+
+
+
+
+- **Fabled Custom Enchantments**
+  -
+
+   - Axe of Spirits
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Diploid
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Disarm
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Haste
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Immortal
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Multiplication
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Neutralize
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Nulify
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Phoenix
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Restore
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Rush
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Scare
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Souldbound
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Soulgrind
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Soulminer
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Spiritmaster
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+   - Unbreakable
+     - Applies to Pickaxe
+     - Max level: II
+     - Description: Chance to regain air when mining underwater.
+
+
+
+
+
+
