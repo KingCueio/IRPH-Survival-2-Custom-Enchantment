@@ -132,46 +132,99 @@
      - Applies to Axes, Swords
      - Max level: V
      - Description: Chance of strength and mining fatigue.
+       - Level I | Chance: 4% | Cooldown: 8 secs | Effects: You will get 3 Secs of Level 0 of Mining Fatigue and Level 0 of Strength.
+       - Level II	|  Chance: 8% | Cooldown: 7 secs | Effects: You will get 4 Secs of Level 0 of Mining Fatigue and Level 0 of Strength.
+       - Level III | Chance: 12% | Cooldown: 6 secs | Effects: You will get 5 Secs of Level 0 of Mining Fatigue and Level 0 of Strength.
+       - Level IV	|  Chance: 16% | Cooldown: 5 secs | Effects: You will get 4 Secs of Level 1 of Mining Fatigue and Level 1 of Strength.
+       - Level V | Chance: 20% | Cooldown: 4 secs | Effects: You will get 5 Secs of Level 1 of Mining Fatigue and Level 1 of Strength.
    - Devour
      - Applies to Axes, Swords (Weapons)
      - Max level: III
      - Description: Chance to restore food while killing mobs.
+       - Level I | Chance: 10% | No Cooldown | Effects: Your Food bar will increase 1 food.
+       - Level II	|  Chance: 15% | No Cooldown | Effects: Your Food bar will increase 1 food.
+       - Level III | Chance: 20% | No Cooldown | Effects: Your Food bar will increase 1 food.
    - Explosive
      - Applies to Bow
      - Max level: V
      - Description: Chance for arrows to explode.
+       - Level I | Chance: 20% | Cooldown: 7 secs | Effects: Your Target will receive a tnt explosion.
+       - Level II	|  Chance: 30% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
+       - Level III | Chance: 40% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
+       - Level IV	|  Chance: 50% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
+       - Level V | Chance: 60% | Cooldown: 9 secs | Effects: Your Target will receive a tnt explosion.
+
    - Explosive Demise
      - Applies to Leggings
      - Max level: VIII
      - Description: Summon creepers as your guards when near death.
+       - Level I | Chance: 13% | Cooldown: 3 secs | Condition: Will only activate if you have less than 6 hearts |  Effects: You will spawn at least 1 creepers that lasts 8 secs and the Attaker will get 2 secs of level 0 blindness
+       - Level II	|  Chance: 17% | Cooldown: 3 secs | Condition: Will only activate if you have less than 6 hearts |  Effects: You will spawn at least 1 creepers that lasts 8 secs and the Attaker will get 3 secs of level 0 blindness
+       - Level III | Chance: 24% | Cooldown: 3 secs | Condition: Will only activate if you have less than 7 hearts |  Effects: You will spawn at least 1 creepers that lasts 8 secs and the Attaker will get 5 secs of level 0 blindness
+       - Level IV	|  Chance: 30% | Cooldown: 3 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 1 creepers that lasts 8 secs and the Attaker will get 2 sec of level 1 blindness
+       - Level V | Chance: 38% | Cooldown: 3 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 4 sec of level 1 blindness
+       - Level VI | Chance: 46% | Cooldown: 3 secs | Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 6 sec of level 1 blindness
+       - Level VII	|  Chance: 55% | Cooldown: 5 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 3 sec of level 2 blindness
+       - Level VIII | Chance: 69% | Cooldown: 3 secs | Condition: Will Only Affect Ores |  Effects: You will spawn at least 3 creepers that lasts 8 secs and the Attaker will get 5 sec of level 2 blindness
+
    - Famine
      - Applies to Axes, Swords (Weapons)
      - Max level: IV
      - Description: A chance to give your opponent the hunger effect.
+       - Level I | Chance: 12% | Cooldown: 8 secs | Effects: Your Target will get 4 secs of level 0 hunger.
+       - Level II	|  Chance: 15% | Cooldown: 8 secs | Effects: Your Target will get 6 secs of level 0 hunger.
+       - Level III | Chance: 18% | Cooldown: 8 secs | Effects: Your Target will get 4 secs of level 1 hunger.
+       - Level IV	|  Chance: 22% | Cooldown: 8 secs | Effects: Your Target will get 6 secs of level 1 hunger.
+
    - FeatherWeight
      - Applies to Swords, Axes
      - Max level: III
      - Description: Chance to get a burst of haste.
+       - Level I | Chance: 35% | Cooldown: 8 secs | Effects: You will get 3 secs of Level 0 Fast Swing
+       - Level II	|  Chance: 55% | Cooldown: 8 secs | Effects: You will get 4 secs of Level 1 Fast Swing
+       - Level III | Chance: 75% | Cooldown: 8 secs | Effects: You will get 5 secs of Level 2 Fast Swing
    - Frenzy
      - Applies to Crossbow
      - Max level: V
      - Description: Chance for arrows to explode.
+       - Level I | Chance: 20% | Cooldown: 7 secs | Effects: Your Target will receive a tnt explosion.
+       - Level II	|  Chance: 30% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
+       - Level III | Chance: 40% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
+       - Level IV	|  Chance: 50% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
+       - Level V | Chance: 60% | Cooldown: 9 secs | Effects: Your Target will receive a tnt explosion.
    - Hunter
      - Applies to Bow, Crossbow, Trident
      - Max level: IV
      - Description: Increases damage dealt to Passive Mobs.
+       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
    - Molten
      - Applies to Armor
      - Max level: IV
      - Description: Chance of setting your attacker ablaze.
+       - Level I | Chance: 21% | Cooldown: 2 secs | Effects: Your Attacker will bet set on fire on 2 secs
+       - Level II	|  Chance: 32% | Cooldown: 2 secs | Effects: Your Attacker will bet set on fire on 4 secs
+       - Level III | Chance: 49% | Cooldown: 2 secs | Effects: Your Attacker will bet set on fire on 6 secs
+       - Level IV	|  Chance: 63% | Cooldown: 2 secs | Effects: Your Attacker will bet set on fire on 8 secs
    - Perish
      - Applies to Bow, Crossbow, Trident
      - Max level: V
      - Description: A chance to give the wither effect.
+       - Level I | Chance: 9% | Cooldown: 3 secs | Effects: Your Attack will have 3 secs of Level 0 Wither
+       - Level II	|  Chance: 11% | Cooldown: 3 secs |  Effects: Your Attack will have 5 secs of Level 0 Wither
+       - Level III | Chance: 14% | Cooldown: 3 secs | Effects: Your Attack will have 7 secs of Level 0 Wither
+       - Level IV	|  Chance: 17% | Cooldown: 3 secs | Effects: Your Attack will have 3 secs of Level 1 Wither
+       - Level V	|  Chance: 21% | Cooldown: 3 secs |  Effects: Your Attack will have 5 secs of Level 1 Wither
    - Ravenous
      - Applies to Axes, Swords
      - Max level: IV
      - Description: Chance to regain hunger while fighting.
+       - Level I | Chance: 14% | Cooldown: 2 secs | Effects: Your Food bar will increase 1 to 4 food randomly.
+       - Level II	|  Chance: 18% | Cooldown: 2 secs | Effects: Your Food bar will increase 1 to 4 food randomly.
+       - Level III | Chance: 22% | Cooldown: 2 secs | Effects: Your Food bar will increase 1 to 4 food randomly.
+       - Level IV | Chance: 26% | Cooldown: 2 secs | Effects: Your Food bar will increase 1 to 4 food randomly.
    - Reflect
      - Applies to Armor
      - Max level: V
@@ -180,28 +233,46 @@
      - Applies to Hoes
      - Max level: I
      - Description: Replants crops when harvested
+         - Level I | Contidion: You have to break if it's already harvested | Effects: The crop seed will be replanted.
    - Slayer
      - Applies to Axes, Swords
      - Max level: IV
      - Description: Increases damage dealt to Passive Mobs.
+       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
    - Soulless
      - Applies to Bow, Crossbow, Trident
      - Max level: IV
      - Description: Increases damage dealt to Hostile Mobs.
+       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
    - Telepathy
      - Applies to Tools
      - Max level: IV
      - Description: Automatically places blocks broken by tools in your inventory.
+         - Level I | Effects: Teleports block drops into player's inventory
+         - Level II | Effects: TTeleports block drops into player's inventory
+         - Level III | Effects: Teleports block drops into player's inventory
+         - Level IV | Effects: Teleports block drops into player's inventory
    - Virus
      - Applies to Bow, Crossbow, Trident
      - Max level: III
      - Description: A chance of giving poison effect.
+       - Level I | Chance: 6% | Cooldown: 2 secs | Effects: Your Attack will have 4 secs of Level 0 Poison
+       - Level II	|  Chance: 22% | Cooldown: 2 secs |  Effects: Your Attack will have 6 secs of Level 0 Poison
+       - Level III | Chance: 35% | Cooldown: 2 secs | Effects: Your Attack will have 4 secs of Level 1 Poison
    - Ward
      - Applies to Armor
      - Max level: IV
      - Description: A chance to absorb enemy damage
-
-
+       - Level I | Chance: 3% | Cooldown: 5 secs | Effects: It will cancel the attack
+       - Level II	|  Chance: 7% | Cooldown: 5 secs |  Effects: It will cancel the attack
+       - Level III | Chance: 11% | Cooldown: 5 secs | Effects: It will cancel the attack
+       - Level IV | Chance: 15% | Cooldown: 5 secs | Effects: It will cancel the attack
   
   
   
@@ -395,7 +466,7 @@
        - Level II	|  Chance: 20% | Cooldown: 5 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
        - Level III | Chance: 25% | Cooldown: 6 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
        - Level IV	|  Chance: 28% | Cooldown: 7 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level V | Chance: 30% | Cooldown: 8 secs | Cost Soul: 5 Souls | Effects: Heart Multiply Drops by 1
+       - Level V | Chance: 30% | Cooldown: 8 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
    - Disarm
      - Applies to Swords
      - Max level: III
