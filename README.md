@@ -637,193 +637,194 @@
   -
 
    - Aegis
-     - Applies to Axes
+     - Applies to Boots
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to gain speed when taking fall damage.
    - Ambit
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Axes, Swords
+     - Max level: VII
+     - Description: Damages mobs within a radius that increases with the level of enchant.
    - Angelic
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: V
+     - Description: Heals health when damaged.
    - Archer
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Bow
+     - Max level: IV
+     - Description: Increases damage dealt with bows.
    - Arrow Break
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: VI
+     - Description: Chance for arrows to bounce off you while holding item with this enchant.
    - Arrow Deflect
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: IV
+     - Description: Chance to prevent enemy arrow from dealing damage.
    - Bleed
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: VI
+     - Description: Make your opponent bleed.
    - Block
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: A chance to negate an attack and deal up to 4 damage back.
    - Cleave
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: VII
+     - Description: Damages players within a radius that increases with the level of enchant.
    - Confuse
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: IV
+     - Description: Chance to give nausea effect.
    - Creeper Armor
-     - Applies to Axes
+     - Applies to Armor
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to be immune to explosive damage, at higher levels you have a chance to heal
    - Diminish
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: I
+     - Description: Chance to give your enemy mining fatigue.
    - Disappear
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: IV
+     - Description: Chance to become invisible when low on health.
    - Disintegrate
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: IV
+     - Description: Chance to deal extra durability damage to all enemy armor with every attack.
    - Distance
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Axes, Swords (Weapons)
+     - Max level: IV
+     - Description: Chance to distance yourself from your enemies and gain regeneration.
    - Dodge
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: V
+     - Description: Chance to dodge physical enemy, chance increases when sneaking.
    - Endmaster
-     - Applies to Axes
+     - Applies to Sword
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Double damage to mobs in End.
    - Exalted
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: IV
+     - Description: A chance of removing bad potion effects.
    - Fuddle
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Disorganize opponent's hotbar.
    - Guardians
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: X
+     - Description: A chance to spawn iron golems to assist you and watch over you.
    - Heavy
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: V
+     - Description: Decreases damage from enemy bows by 2% per level.
+
    - Hellfire
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Bow
+     - Max level: V
+     - Description: Arrows turn into fireballs.
    - Hook (The Name should be "Lucky)
-     - Applies to Axes
+     - Applies to Fishing Rod
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to increase luck while fishing.
    - Ice Aspect
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: A chance of causing the slowness effect on your enemy.
    - Immolation
-     - Applies to Axes
+     - Applies to Sowrds
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Set all mobs in radius on fire.
    - Implants
-     - Applies to Axes
+     - Applies to Helmets
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to restore food every few seconds.
    - Interrupt
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: II
+     - Description: Chance to give your enemy mining fatigue.
    - Jelly Legs
-     - Applies to Axes
+     - Applies to Boots
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to negate fall damage.
    - Longbow
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Bow
+     - Max level: IV
+     - Description: Greatly increases damage dealt to enemy players that have a bow in their hands.
    - Netherling
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Double damage to mobs in Nether.
    - Night Owl
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: I
+     - Description: Deal more damage to mobs at night.
    - Obsidianshield
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: I
+     - Description: Gives permanent fire resistance.
    - Permafrost
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: V
+     - Description: Chance slow and bleed opponents.
    - Piercing
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Bow, CrossBow
+     - Max level: V
+     - Description: Inflicts more damage
    - Planter
-     - Applies to Axes
+     - Applies to Hoes
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Plant seeds in a 3x3 area by shift+right-clicking.
    - Plummet
-     - Applies to Axes
+     - Applies to Boots
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Deal damage to nearby mobs when taking fall damage.
    - Ragdoll
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: IV
+     - Description: Chance to be pushed back when getting hit.
    - Reinforced
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Elytra
+     - Max level: IV
+     - Description: Reduces damage dealt to you.
    - Safeguard
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to II
+     - Max level: II
+     - Description: Chance to gain Damage Resistance when defending.
    - Shatter
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
-   - Ultimate
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: IV
+     - Description: Chance to deal extra durability damage to all enemy armor with every attack.
+   - Sniper
+     - Applies to Bow
+     - Max level: V
+     - Description: Headshots with bows deal double damage.
    - Spirits
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: X
+     - Description: Chance to spawn guard blazes.
    - Striker
-     - Applies to Axes
+     - Applies to Bow
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Rain arrows over opponent.
    - Swordsman
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: V
+     - Description: Chance to reduces incoming damage while wielding a sword by up to 22% at max level.
    - Tank
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: IV
+     - Description: Chance to decreases damage from enemy axes by 2% per level.
    - Timber
      - Applies to Axes
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to break a tree in one hit
    - Trench
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Pickaxes, Shovels
+     - Max level: IX
+     - Description: Chance to break in 3x3 area.
 
 
 
