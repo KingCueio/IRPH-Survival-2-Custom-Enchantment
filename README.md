@@ -677,91 +677,186 @@
      - Applies to Axes
      - Max level: VI
      - Description: Chance for arrows to bounce off you while holding item with this enchant.
+       - Level I | Chance: 15% | Cooldown: 8 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
+       - Level II | Chance: 25% | Cooldown: 8 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
+       - Level III | Chance: 35% | Cooldown: 8 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
+       - Level IV | Chance: 45% | Cooldown: 9 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
+       - Level V | Chance: 55% | Cooldown: 9 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
+       - Level VI | Chance: 65% | Cooldown: 10 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
    - Arrow Deflect
      - Applies to Armor
      - Max level: IV
-     - Description: Chance to prevent enemy arrow from dealing damage.
+     - Description: Chance to prevent enemy arrow from dealing damage
+       - Level I | Chance: 15% | Cooldown: 8 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
+       - Level II | Chance: 25% | Cooldown: 8 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
+       - Level III | Chance: 35% | Cooldown: 8 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
+       - Level IV | Chance: 45% | Cooldown: 9 secs | Effects: Your Enemy's Arrow will canceled due to the CE.
    - Bleed
      - Applies to Axes
      - Max level: VI
      - Description: Make your opponent bleed.
+       - Level I | Chance: 8%  | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level II | Chance: 15% | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level III | Chance: 23%  | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level IV | Chance: 30%  | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level III | Chance: 44% | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level IV | Chance: 60% | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
    - Block
      - Applies to Swords
      - Max level: III
      - Description: A chance to negate an attack and deal up to 4 damage back.
+       - Level I | Chance: 16%  | Cooldown: 4 secs | Effects: Your Enemy's Attack will decrease by 50% and  1 to 4 Harm Damage Randomly.
+       - Level II | Chance: 22%  | Cooldown: 4 secs | Effects: Your Enemy's Attack will decrease by 50% and  1 to 4 Harm Damage Randomly.
+       - Level III | Chance: 30%  | Cooldown: 4 secs | Effects: Your Enemy's Attack will decrease by 50% and  1 to 4 Harm Damage Randomly.
+
    - Cleave
      - Applies to Axes
      - Max level: VII
      - Description: Damages players within a radius that increases with the level of enchant.
+       - Level I | Chance: 4% | Cooldown: 8 secs | Effects: Enemy that are in your radius of 1 block will receive 1 to 2 Harm Damage randomly.
+       - Level II | Chance: 5% | Cooldown: 8 secs | Effects: Enemy that are in your radius of 2 blocks will receive 1 to 2 Harm Damage randomly.
+       - Level III | Chance: 6% | Cooldown: 9 secs | Effects: Enemy that are in your radius of 3 blocks will receive 1 to 3 Harm Damage randomly.
+       - Level IV | Chance: 7% | Cooldown: 9 secs | Effects: Enemy that are in your radius of 4 blocks will receive 2 to 3 Harm Damage randomly.
+       - Level V | Chance: 9% | Cooldown: 10 secs | Effects: Enemy that are in your radius of 5 blocks will receive 2 to 3 Harm Damage randomly.
+       - Level VI | Chance: 12% | Cooldown: 12 secs | Effects: Enemy that are in your radius of 6 blocks will receive 2 to 3 Harm Damage randomly.
+       - Level VII | Chance: 15% | Cooldown: 14 secs | Effects: Enemy that are in your radius of 7 blocks will receive 2 to 3 Harm Damage randomly.
+
    - Confuse
      - Applies to Swords
      - Max level: IV
      - Description: Chance to give nausea effect.
+       - Level I | Chance: 12%  | Cooldown: 6 secs | Effects: Your Enemy will receive 3 secs of nausea effect.
+       - Level II | Chance: 14%  | Cooldown: 7 secs | Effects: Your Enemy will receive 3 secs of Level 2 nausea effect.
+       - Level III | Chance: 16%  | Cooldown: 8 secs | Effects: Your Enemy will receive 3 secs of Level 3 nausea effect.
+       - Level IV | Chance: 18%  | Cooldown: 8 secs | Effects: Your Enemy will receive 3 secs of Level 4 nausea effect.
    - Creeper Armor
      - Applies to Armor
      - Max level: III
      - Description: Chance to be immune to explosive damage, at higher levels you have a chance to heal
+       - Level I | Chance: 25% | Effects: Creeper's Explosion Damage will be canceled
+       - Level I | Chance: 50% | Effects: Creeper's Explosion Damage will be canceled
+       - Level I | Chance: 75% | Effects: Creeper's Explosion Damage will be canceled and Your health bar will increase by 1 to 2 health heart randomly.
    - Diminish
      - Applies to Axes
      - Max level: I
      - Description: Chance to give your enemy mining fatigue.
+       - Level I | Chance: 13% | Effects: Your Enemy will receive 5 secs of mining fatigue.
    - Disappear
      - Applies to Armor
      - Max level: IV
      - Description: Chance to become invisible when low on health.
+       - Level I | Chance: 20% | Cooldown: 20 secs | Condition: It will only effect if your health bar is less than 5 | Effects: You will receive 3 secs of level 3 invisibility.
+       - Level II | Chance: 23% | Cooldown: 20 secs | Condition: It will only effect if your health bar is less than 5 | Effects: You will receive 4 secs of level 3 invisibility.
+       - Level III | Chance: 26% | Cooldown: 20 secs | Condition: It will only effect if your health bar is less than 5 | Effects: You will receive 5 secs of level 3 invisibility.
+       - Level IV | Chance: 30% | Cooldown: 20 secs | Condition: It will only effect if your health bar is less than 5 | Effects: You will receive 6 secs of level 3 invisibility.
    - Disintegrate
      - Applies to Swords
      - Max level: IV
      - Description: Chance to deal extra durability damage to all enemy armor with every attack.
+       - Level I | Chance: 12% | Cooldown: 2 secs | Effects: Your Enemy's Armor will receive Extra Damage Armor by 2 amount of durability
+       - Level II | Chance: 25% | Cooldown: 2 secs | Effects: Your Enemy's Armor will receive Extra Damage Armor by 2 amount of durability
+       - Level III | Chance: 39% | Cooldown: 2 secs | Effects: Your Enemy's Armor will receive Extra Damage Armor by 2 amount of durability
+       - Level IV | Chance: 46% | Cooldown: 2 secs | Effects: Your Enemy's Armor will receive Extra Damage Armor by 2 amount of durability
    - Distance
      - Applies to Axes, Swords (Weapons)
      - Max level: IV
      - Description: Chance to distance yourself from your enemies and gain regeneration.
+       - Level I | Chance: 16% | Cooldown: 6 secs | Effects: Your Enemy will be pull away at least 3 blocks away and You will receive 1 sec of Regeneration.
+       - Level II | Chance: 20% | Cooldown: 6 secs | Effects: Your Enemy will be pull away at least 4.5 blocks away and You will receive 1 sec of Regeneration.
+       - Level III | Chance: 24% | Cooldown: 6 secs | Effects: Your Enemy will be pull away at least 5 blocks away and You will receive 1 sec of Level 2 Regeneration.
+       - Level IV | Chance: 28% | Cooldown: 6 secs | Effects: Your Enemy will be pull away at least 6.5 blocks away and You will receive 2 sec of Level 2 Regeneration.
    - Dodge
      - Applies to Armor
      - Max level: V
      - Description: Chance to dodge physical enemy, chance increases when sneaking.
+       - Level I | Chance: 7% | Cooldown: 8 secs | Condition: It will only effect and have a bonus chance if you sneak. (14%) | Effects: Your Enemy's Attack will be canceled.
+       - Level II | Chance: 12% | Cooldown: 8 secs | Condition: It will only effect and have a bonus chance if you sneak. (19%) | Effects: Your Enemy's Attack will be canceled.
+       - Level III | Chance: 16% | Cooldown: 8 secs | Condition: It will only effect and have a bonus chance if you sneak. (23%) | Effects: Your Enemy's Attack will be canceled.
+       - Level IV | Chance: 22% | Cooldown: 8 secs | Condition: It will only effect and have a bonus chance if you sneak. (29%) | Effects: Your Enemy's Attack will be canceled.
+       - Level V | Chance: 27% | Cooldown: 8 secs | Condition: It will only effect and have a bonus chance if you sneak. (34%) | Effects: Your Enemy's Attack will be canceled.
    - Endmaster
      - Applies to Sword
      - Max level: III
      - Description: Double damage to mobs in End.
+       - Level I | Chance: 25% | Condition: It will only effect if you are in End | Effects: Your attack damage increases by 50%
+       - Level I | Chance: 50% | Condition: It will only effect if you are in End | Effects: Your attack damage increases by 50%
+       - Level I | Chance: 75% | Condition: It will only effect if you are in End | Effects: Your attack damage increases by 50%
    - Exalted
      - Applies to Swords
      - Max level: IV
      - Description: A chance of removing bad potion effects.
+       - Level I | Chance: 12% | Cooldown: 8 secs | Effects: Your Bad Potion effects will be cured such as Slowness, Confusion, Blindness, Poison, WIther, Hunger, Weakness, and mining fatigue.
+       - Level II | Chance: 16% | Cooldown: 8 secs | Effects: Your Bad Potion effects will be cured such as Slowness, Confusion, Blindness, Poison, WIther, Hunger, Weakness, and mining fatigue.
+       - Level III | Chance: 22% | Cooldown: 8 secs | Effects: Your Bad Potion effects will be cured such as Slowness, Confusion, Blindness, Poison, WIther, Hunger, Weakness, and mining fatigue.
+       - Level IV | Chance: 36% | Cooldown: 8 secs | Effects: Your Bad Potion effects will be cured such as Slowness, Confusion, Blindness, Poison, WIther, Hunger, Weakness, and mining fatigue.
    - Fuddle
      - Applies to Swords
      - Max level: III
      - Description: Disorganize opponent's hotbar.
+       - Level I | Chance: 5% | Cooldown: 15 secs | Effects: Your Enemy's Hotbar Items will Randomize.
+       - Level I | Chance: 7% | Cooldown: 15 secs | Effects: Your Enemy's Hotbar Items will Randomize.
+       - Level I | Chance: 9% | Cooldown: 15 secs | Effects: Your Enemy's Hotbar Items will Randomize.
    - Guardians
      - Applies to Armor
      - Max level: X
      - Description: A chance to spawn iron golems to assist you and watch over you.
+       - Level I | Chance: 6% | Cooldown: 8 secs | Effects: You will spawn a 8 secs of 1 iron golem.
+       - Level II | Chance: 9% | Cooldown: 8 secs | Effects: You will spawn a 8 secs of 1 iron golem.
+       - Level III | Chance: 13% | Cooldown: 8 secs | Effects: You will spawn a 8 secs of 1 iron golem.
+       - Level IV | Chance: 14% | Cooldown: 8 secs | Effects: You will spawn a 8 secs of 1 iron golem.
+       - Level V | Chance: 16% | Cooldown: 9 secs | Effects: You will spawn a 8 secs of 1 iron golem.
+       - Level VI | Chance: 17% | Cooldown: 10 secs | Effects: You will spawn a 8 secs of 2 iron golem.
+       - Level VII | Chance: 18% | Cooldown: 12 secs | Effects: You will spawn a 8 secs of 2 iron golem.
+       - Level VIII | Chance: 20% | Cooldown: 12 secs | Effects: You will spawn a 8 secs of 2 iron golem.
+       - Level IX | Chance: 22% | Cooldown: 15 secs | Effects: You will spawn a 8 secs of 2 iron golem.
+       - Level X | Chance: 24% | Cooldown: 15 secs | Effects: You will spawn a 8 secs of 4 iron golem.
    - Heavy
      - Applies to Armor
      - Max level: V
      - Description: Decreases damage from enemy bows by 2% per level.
+       - Level I | Chance: 4% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 2%
+       - Level II | Chance: 9% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 4%
+       - Level III | Chance: 12% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 6%
+       - Level IV | Chance: 16% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 8%
+       - Level V | Chance: 21% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 10%
 
    - Hellfire
      - Applies to Bow
      - Max level: V
      - Description: Arrows turn into fireballs.
+       - Level I | Chance: 10% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
+       - Level II | Chance: 25% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
+       - Level III | Chance: 35% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
+       - Level IV | Chance: 50% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
+       - Level V | Chance: 70% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
    - Hook (The Name should be "Lucky)
      - Applies to Fishing Rod
      - Max level: III
      - Description: Chance to increase luck while fishing.
+       - Level I | Chance: 75% | Cooldown: 12 secs | Effects: You will receive 10 secs of Level 2 Luck
+       - Level I | Chance: 85% | Cooldown: 12 secs | Effects: You will receive 10 secs of Level 2 Luck
+       - Level I | Chance: 95% | Cooldown: 12 secs | Effects: You will receive 10 secs of Level 2 Luck
    - Ice Aspect
      - Applies to Swords
      - Max level: III
      - Description: A chance of causing the slowness effect on your enemy.
+       - Level I | Chance: 15% | Cooldown: 2 secs | Effects: Your Enemy will receive 5 secs of Level 2 Slowness
+       - Level II | Chance: 23% | Cooldown: 2 secs | Effects: Your Enemy will receive 5 secs of Level 2 Slowness
+       - Level III | Chance: 31% | Cooldown: 2 secs | Effects: Your Enemy will receive 5 secs of Level 2 Slowness
    - Immolation
      - Applies to Sowrds
      - Max level: III
      - Description: Set all mobs in radius on fire.
+       - Level I | Chance: 10% | Cooldown: 4 secs | Effects: Enemy that are in your radius of 2 blocks will receive 2 secs of Flame.
+       - Level II | Chance: 12% | Cooldown: 4 secs | Effects: Enemy that are in your radius of 6 blocks will receive 2.5 secs of Flame.
+       - Level III | Chance: 16% | Cooldown: 4 secs | Effects: Enemy that are in your radius of 4 blocks will receive 3 secs of Flame.
    - Implants
      - Applies to Helmets
      - Max level: III
      - Description: Chance to restore food every few seconds.
+       - Level I | Chance: 30% | No Cooldown | Effects: Your Food bar will increase 1 food.
+       - Level II | Chance: 50% | No Cooldown | Effects: Your Food bar will increase 1 food.
+       - Level III | Chance: 70% | No Cooldown | Effects: Your Food bar will increase 1 food.
    - Interrupt
      - Applies to Swords
      - Max level: II
@@ -807,62 +902,131 @@
      - Applies to Swords
      - Max level: V
      - Description: Chance slow and bleed opponents.
+       - Level I | Chance: 15% | Cooldown: 12 secs | Effects: Your Enemy will receive 1 sec of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level II | Chance: 18% | Cooldown: 12 secs | Effects: Your Enemy will receive 2 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level III | Chance: 19% | Cooldown: 12 secs | Effects: Your Enemy will receive 2.5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level IV | Chance: 21% | Cooldown: 13 secs | Effects: Your Enemy will receive 3 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level IV | Chance: 25% | Cooldown: 13 secs | Effects: Your Enemy will receive 3 secs of Level 2 Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
    - Piercing
      - Applies to Bow, CrossBow
      - Max level: V
      - Description: Inflicts more damage
+       - Level I | Chance: 13% | Cooldown: 3 secs | Effects: Your Attack Damage will Increase by 50 to 150% randomly
+       - Level II | Chance: 19% | Cooldown: 3 secs | Effects: Your Attack Damage will Increase by 50 to 150% randomly
+       - Level III | Chance: 25% | Cooldown: 3 secs | Effects: Your Attack Damage will Increase by 50 to 150% randomly
+       - Level IV | Chance: 32% | Cooldown: 3 secs | Effects: Your Attack Damage will Increase by 50 to 150% randomly
+       - Level V | Chance: 37% | Cooldown: 3 secs | Effects: Your Attack Damage will Increase by 50 to 150% randomly
    - Planter
      - Applies to Hoes
      - Max level: III
      - Description: Plant seeds in a 3x3 area by shift+right-clicking.
+       - Level I | Cooldown: 3 secs | Condition: Will only effect if you Sneak | Effects: It will plant seeds in 3x3 area.
+       - Level II | Cooldown: 2 secs | Condition: Will only effect if you Sneak | Effects: It will plant seeds in 3x3 area.
+       - Level III | No Cooldown | Condition: Will only effect if you Sneak | Effects: It will plant seeds in 3x3 area.
    - Plummet
      - Applies to Boots
      - Max level: III
      - Description: Deal damage to nearby mobs when taking fall damage.
+       - Level I | Chance: 40% | Effects: Mobs will receive 2 Harm Damage, They will also get hit in radius of 3 blocks.
+       - Level II | Chance: 80% | Effects: Mobs will receive 3 Harm Damage, They will also get hit in radius of 5 blocks.
+       - Level III | Chance: 100% | Effects: Mobs will receive 5 Harm Damage, They will also get hit in radius of 8 blocks.
    - Ragdoll
      - Applies to Armor
      - Max level: IV
      - Description: Chance to be pushed back when getting hit.
+       - Level I | Chance: 10% | Cooldown: 4 secs | Effects: Your Enemy will pull away at least 0.1 block away.
+       - Level II | Chance: 20% | Cooldown: 4 secs | Effects: Your Enemy will pull away at least 0.2 block away.
+       - Level III | Chance: 30% | Cooldown: 4 secs | Effects: Your Enemy will pull away at least 0.3 block away.
+       - Level IV | Chance: 50% | Cooldown: 4 secs | Effects: Your Enemy will pull away at least 0.4 block away.
    - Reinforced
      - Applies to Elytra
      - Max level: IV
      - Description: Reduces damage dealt to you.
+       - Level I | Chance: 15% | Cooldown: 1 sec | Effects: Your Enemy's Attack Damage will decrease by 15%
+       - Level II | Chance: 45% | Cooldown: 1 sec | Effects: Your Enemy's Attack Damage will decrease by 25%
+       - Level III | Chance: 60% | Cooldown: 1 sec | Effects: Your Enemy's Attack Damage will decrease by 35%
+       - Level IV | Chance: 75% | Cooldown: 1 sec | Effects: Your Enemy's Attack Damage will decrease by 45%
    - Safeguard
      - Applies to II
      - Max level: II
      - Description: Chance to gain Damage Resistance when defending.
+       - Level I | Chance: 5% | Cooldown: 5 secs | Effects: You will receive 3 secs of Damage Resistance.
+       - Level II | Chance: 9% | Cooldown: 5 secs | Effects: You will receive 3 secs of Level 2 Damage Resistance.
    - Shatter
      - Applies to Axes
      - Max level: IV
      - Description: Chance to deal extra durability damage to all enemy armor with every attack.
+       - Level I | Chance: 12% | Cooldown: 2 secs | Effects: Your Enemy's Armor will receive Extra Damage Armor by 2 amount of durability
+       - Level II | Chance: 25% | Cooldown: 2 secs | Effects: Your Enemy's Armor will receive Extra Damage Armor by 2 amount of durability
+       - Level III | Chance: 39% | Cooldown: 2 secs | Effects: Your Enemy's Armor will receive Extra Damage Armor by 2 amount of durability
+       - Level IV | Chance: 46% | Cooldown: 2 secs | Effects: Your Enemy's Armor will receive Extra Damage Armor by 2 amount of durability
    - Sniper
      - Applies to Bow
      - Max level: V
      - Description: Headshots with bows deal double damage.
+       - Level I | Chance: 15% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Arrow | Effects: Your Attack Damage will Increase by 100%
+       - Level II | Chance: 20% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Arrow | Effects: Your Attack Damage will Increase by 100%
+       - Level III | Chance: 25% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Arrow | Effects: Your Attack Damage will Increase by 100%
+       - Level IV | Chance: 30% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Arrow | Effects: Your Attack Damage will Increase by 100%
+       - Level V | Chance: 35% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Arrow | Effects: Your Attack Damage will Increase by 100%
    - Spirits
      - Applies to Armor
      - Max level: X
      - Description: Chance to spawn guard blazes.
+       - Level I | Chance: 2% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 3 Blaze.
+       - Level II | Chance: 2% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 4 Blaze.
+       - Level III | Chance: 3% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 4 Blaze.
+       - Level IV | Chance: 5% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 4 Blaze.
+       - Level V | Chance: 8% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 4 Blaze.
+       - Level VI | Chance: 12% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 4 Blaze.
+       - Level VII | Chance: 15% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 4 Blaze.
+       - Level VIII | Chance: 19% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 4 Blaze.
+       - Level IX | Chance: 22% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 4 Blaze.
+       - Level X | Chance: 27% | Cooldown: 8 secs | Effects: You will spawn 8 secs of 5 Blaze.
+
    - Striker
      - Applies to Bow
      - Max level: III
      - Description: Rain arrows over opponent.
+       - Level I | Chance: 15% | Cooldown: 8 secs | Effects: Spawns arrows on top of your enemy/mobs.
+       - Level II | Chance: 18% | Cooldown: 8 secs | Effects: Spawns arrows on top of your enemy/mobs.
+       - Level III | Chance: 22% | Cooldown: 8 secs | Effects: Spawns arrows on top of your enemy/mobs.
    - Swordsman
      - Applies to Armor
      - Max level: V
      - Description: Chance to reduces incoming damage while wielding a sword by up to 22% at max level.
-   - Tank
+       - Level I | Chance: 4% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will decrease 1% to 4% Damage randomly
+       - Level II | Chance: 9% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will decrease 8% to 12% Damage randomly
+       - Level III | Chance: 13% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will decrease 12% to 15% Damage randomly
+       - Level IV | Chance: 16% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will decrease 15% to 18% Damage randomly
+       - Level V | Chance: 21% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will decrease 18% to 22% Damage randomly
      - Applies to Armor
      - Max level: IV
      - Description: Chance to decreases damage from enemy axes by 2% per level.
+       - Level I | Chance: 5% | Cooldown: 3 secs | Condition: Will only effect if the Enemy is holding an Axe. | Effects: Your Enemy's Attack will Decreases Damage by 2%
+       - Level II | Chance: 8% | Cooldown: 3 secs | Condition: Will only effect if the Enemy is holding an Axe. | Effects: Your Enemy's Attack will Decreases Damage by 4%
+       - Level III | Chance: 12% | Cooldown: 3 secs | Condition: Will only effect if the Enemy is holding an Axe. | Effects: Your Enemy's Attack will Decreases Damage by 6%
+       - Level IV | Chance: 16% | Cooldown: 3 secs | Condition: Will only effect if the Enemy is holding an Axe. | Effects: Your Enemy's Attack will Decreases Damage by 8%
    - Timber
      - Applies to Axes
      - Max level: III
      - Description: Chance to break a tree in one hit
+       - Level I | Chance: 15% | Cooldown: 5 secs | Effects: Break an entire tree in one hit
+       - Level II | Chance: 35% | Cooldown: 5 secs | Effects: Break an entire tree in one hit
+       - Level III | Chance: 55% | Cooldown: 5 secs | Effects: Break an entire tree in one hit
    - Trench
      - Applies to Pickaxes, Shovels
      - Max level: IX
      - Description: Chance to break in 3x3 area.
+       - Level I | Chance: 15% | Effects: It mines 3x3 Blocks Area.
+       - Level II | Chance: 26% | Effects: It mines 3x3 Blocks Area.
+       - Level III | Chance: 36% | Effects: It mines 3x3 Blocks Area.
+       - Level VI | Chance: 49% | Effects: It mines 3x3 Blocks Area.
+       - Level V | Chance: 59% | Effects: It mines 3x3 Blocks Area.
+       - Level VI | Chance: 72% | Effects: It mines 3x3 Blocks Area.
+       - Level VII | Chance: 85% | Effects: It mines 3x3 Blocks Area.
+       - Level VIII | Chance: 90% | Effects: It mines 3x3 Blocks Area.
+       - Level IX | Chance: 100% | Effects: It mines 3x3 Blocks Area.
 
 
 
