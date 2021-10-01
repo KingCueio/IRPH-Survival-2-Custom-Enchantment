@@ -339,6 +339,11 @@
      - Applies to Axes, Swords (Weapons)
      - Max level: V
      - Description: Increases damage dealt to Enderman and Ender dragons.
+       - Level I | Chance: 16% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level II | Chance: 21% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level III | Chance: 29% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level IV | Chance: 34% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level V | Chance: 41% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
    - Extinguish
      - Applies to Leggings
      - Max level: III
@@ -357,6 +362,11 @@
      - Applies to Sword
      - Max level: V
      - Description: Multiplies damage against players who are wielding a Bow at the time they are hit.
+       - Level I | Chance: 15% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level II | Chance: 25% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level III | Chance: 35% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level IV | Chance: 45% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level V | Chance: 55% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
    - Hook
      - Applies to Fishing Rod
      - Max level: III
@@ -366,8 +376,11 @@
        - Level III | Chance: 35% | Cooldown: 12 secs | Effects: You will recieve random XP
    - Immolate
      - Applies to Axes, Swords
-     - Max level: IV
+     - Max level: III
      - Description: Increases damage dealt to Spiders.
+       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will Only Spiders | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level II | Chance: 50% | Cooldown: 2 secs | Condition: Will Only Spiders | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level III | Chance: 75% | Cooldown: 2 secs | Condition: Will Only Spiders | Effects: Your Attack will increase 10% to 40% damage randomly
    - Impact
      - Applies to Trident
      - Max level: III
@@ -379,7 +392,7 @@
    - Infernal
      - Applies to Axes, Swords
      - Max level: III
-     - Description: Explosive fire effect..
+     - Description: Explosive fire effect.
        - Level I | Chance: 15% | Cooldown: 2 secs | Effects: Your Victim will recieve Flame for 2 secs
        - Level II	|  Chance: 30% | Cooldown: 2 secs |  Effects: Your Victim will recieve Flame for 4 secs
        - Level III | Chance: 50% | Cooldown: 2 secs | Effects: Your Victim will recieve Flame for 6 secs
@@ -391,9 +404,13 @@
        - Level II	|  Chance: 60% | No Cooldown |  Effects: The attack will pull players closer to you.
        - Level III | Chance: 100% | No Cooldown | Effects: The attack will pull players closer to you.
    - Marksman
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to CrossBow
+     - Max level: IV
+     - Description: Increases damage dealt with Crossbows
+       - Level I | Chance: 13% | Cooldown: 3 secs | Condition: Will Only Affect the Enemy that is holding a CrossBow. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level II | Chance: 19% | Cooldown: 3 secs | Condition: Will Only Affect the Enemy that is holding a CrossBow. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level III | Chance: 25% | Cooldown: 3 secs | Condition: Will Only Affect the Enemy that is holding a CrossBow. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level IV | Chance: 32% | Cooldown: 3 secs | Condition: Will Only Affect the Enemy that is holding a CrossBow. | Effects: Your Attack will increase 10% to 40% damage randomly
    - Missile
      - Applies to Crossbow
      - Max level: V
@@ -404,21 +421,37 @@
        - Level IV	|  Chance: 50% | Cooldown: 3 secs |  Effects: Your Attack will turn into Fireball.
        - Level V | Chance: 70% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
    - Momentum
-     - Applies to Axes
+     - Applies to Elytra
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to gain speed boost\nwith fireworks
+       - Level I | Chance: 15% | Cooldown: 3 secs | Condition: Will Only Affect If you are holding Firework Rocket | Effects: You will get 2 secs of Speed.
+       - Level II | Chance: 35% | Cooldown: 3 secs | Condition: Will Only Affect If you are holding Firework Rocket | Effects: You will get 3 secs of Level 1 Speed.
+       - Level III | Chance: 65% | Cooldown: 3 secs | Condition: Will Only Affect If you are holding Firework Rocket | Effects: You will get 4 secs of Level 2 Speed.
    - Nether Slayer
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Axes, Swords (Weapons)
+     - Max level: V
+     - Description: Increases damage dealt to nether mobs.
+       - Level I | Chance: 16% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level II | Chance: 21% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level III | Chance: 29% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level IV | Chance: 34% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
+       - Level V | Chance: 41% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
    - Nightwalker
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Freeze mobs at night.
+       - Level I | Chance: 40% | No Cooldown | Condition: Will Only Effect if Its Night Time. | Effects: The Attack to Mobs, They will receive 20 secs of Level 20
+       - Level II | Chance: 70% | No Cooldown | Condition: Will Only Effect if Its Night Time. | Effects: The Attack to Mobs, They will receive 20 secs of Level 20
+       - Level III | Chance: 100% | No Cooldown | Condition: Will Only Effect if Its Night Time. | Effects: The Attack to Mobs, They will receive 20 secs of Level 20
+
    - Paralyze
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Axes, Swords (Weapons)
+     - Max level: IV
+     - Description: Gives lightning effect and a chance for slowness and slow swinging.
+       - Level I | Chance: 7% | Cooldown: 3 secs | Effects: Your Enemy wil Recieve Lightning, 3 secs of slowness, and 3 secs of fatigue.
+       - Level II | Chance: 7% | Cooldown: 3 secs | Effects: Your Enemy wil Recieve Lightning, 5 secs of slowness, and 5 secs of fatigue.
+       - Level III | Chance: 7% | Cooldown: 3 secs | Effects: Your Enemy wil Recieve Lightning, 3 secs of Level 1 slowness, and 3 secs of Level 1 fatigue.
+       - Level IV | Chance: 7% | Cooldown: 3 secs | Effects: Your Enemy wil Recieve Lightning, 5 secs of Level 1 slowness, and 5 secs of Level 1 fatigue.
    - Poison
      - Applies to Axes, Swords
      - Max level: III
@@ -447,9 +480,20 @@
        - Level III | Chance: 12% | Cooldown: 12 secs | Effects: Your Enemy will recieve 2.5 secs of Wither and 2.5 secs of Blindness
        - Level IV	|  Chance: 14% | Cooldown: 10 secs |  Effects: Your Enemy will recieve 3 secs of Wither and 3 secs of Blindness
    - Reforged
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Axes, Swords, Pickaxe, Shovels
+     - Max level: X
+     - Description: Protects weapons and tools durability, items will be take longer to break.
+       - Level I | Chance: 10% | Effects: Your Tools, Weapons will get 1 Durability Amount.
+       - Level II | Chance: 20% | Effects: Your Tools, Weapons will get 1 Durability Amount.
+       - Level III | Chance: 30% | Effects: Your Tools, Weapons will get 2 Durability Amount.
+       - Level IV | Chance: 40% | Effects: Your Tools, Weapons will get 2 Durability Amount.
+       - Level V | Chance: 50% | Effects: Your Tools, Weapons will get 3 Durability Amount.
+       - Level VI | Chance: 60% | Effects: Your Tools, Weapons will get 3 Durability Amount.
+       - Level VII | Chance: 70% | Effects: Your Tools, Weapons will get 4 Durability Amount.
+       - Level VIII | Chance: 80% | Effects: Your Tools, Weapons will get 4 Durability Amount.
+       - Level IX | Chance: 90% | Effects: Your Tools, Weapons will get 5 Durability Amount.
+       - Level X | Chance: 100% | Effects: Your Tools, Weapons will get 5 Durability Amount.
+
    - Replenish
      - Applies to Pickaxes
      - Max level: III
@@ -458,17 +502,33 @@
        - Level II	|  Chance: 40% |  Effects: Your food bar will increase by 2 food
        - Level III | Chance: 60% | Effects: Your food bar will increase by 3 food
    - Rocket Escape
-     - Applies to Axes
+     - Applies to Boots
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Blast off into the air at low HP.
+       - Level I | Chance: 20% | Cooldown: 8 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will get boost above 
+       - Level II | Chance: 34% | Cooldown: 8 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will get boost above 
+       - Level III | Chance: 40% | Cooldown: 8 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will get boost above 
    - Shockwave
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Chestplates
+     - Max level: V
+     - Description: Chance to push back your attacker when your health is low.
+       - Level I | Chance: 10% | Cooldown: 4 secs | Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 0.5 block away.
+       - Level I | Chance: 20% | Cooldown: 4 secs| Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 1 block away.
+       - Level I | Chance: 30% | Cooldown: 4 secs | Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 1.5 blocks away.
+       - Level I | Chance: 40% | Cooldown: 4 secs | Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 2 blocks away.
+       - Level I | Chance: 50% | Cooldown: 4 secs | Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 2.5 block away.
    - Smoke Bomb
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Helmet
+     - Max level: VIII
+     - Description: When you are near death, you will spawn a smoke bomb to distract your enemies.
+       - Level I | Chance: 9% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 4 | Effects: You will spawn Cloud Particles and Your Enemy will receive 3 secs of Blindness
+       - Level II | Chance: 15% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 4 | Effects: You will spawn Cloud Particles and Your Enemy will receive 3 secs of Blindness
+       - Level III | Chance: 23% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 4 | Effects: You will spawn Cloud Particles and Your Enemy will receive 5 secs of Blindness
+       - Level IV | Chance: 28% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 5 | Effects: You will spawn Cloud Particles and Your Enemy will receive 5 secs of Blindness
+       - Level V | Chance: 30% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 5 | Effects: You will spawn Cloud Particles and Your Enemy will receive 3 secs of Level 1 Blindness
+       - Level VI | Chance: 34% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 5 | Effects: You will spawn Cloud Particles and Your Enemy will receive 5 secs of Level 1 Blindness
+       - Level VII | Chance: 36% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will spawn Cloud Particles and Your Enemy will receive 7 secs of Level 1 Blindness
+       - Level VIII | Chance: 38% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will spawn Cloud Particles and Your Enemy will receive 6 secs of Level 2 Blindness
    - Snap
      - Applies to Fishing Rod
      - Max level: III
@@ -509,10 +569,29 @@
      - Applies to Armor
      - Max level: VIII
      - Description: When hit you have a chance to teleport directly behind you opponent.
+       - Level I | Chance: 8% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
+       - Level II | Chance: 14% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
+       - Level III | Chance: 17% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
+       - Level IV | Chance: 21% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
+       - Level V | Chance: 29% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
+       - Level VI | Chance: 37% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
+       - Level VII | Chance: 46% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
+       - Level VIII | Chance: 51% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
    - Undead Ruse
-     - Applies to Axes
+     - Applies to Boots
      - Max level: X
      - Description: When hit you have a chance to spawn zombie hordes to distract and disorient your opponents.
+       - Level I | Chance: 3% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
+       - Level II | Chance: 4% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
+       - Level III | Chance: 5% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
+       - Level IV | Chance: 6% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
+       - Level V | Chance: 7% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
+       - Level VI | Chance: 8% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 3 Zombies.
+       - Level VII | Chance: 19% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 3 Zombies.
+       - Level VIII | Chance: 14% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 4 Zombies.
+       - Level IX | Chance: 18% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 4 Zombies.
+       - Level X | Chance: 22% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 5 Zombies.
+
    - Vampire
      - Applies to Swords
      - Max level: III
