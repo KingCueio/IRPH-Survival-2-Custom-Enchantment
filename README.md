@@ -327,7 +327,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
      - Max level: V
      - Description: Multiplies damage against players who are wielding a Sword at the time they are hit.
    - Critical
-     - Applies to Armor
+     - Applies to Swords
      - Max level: III
      - Description: Increase damage done with critical hit.
        - Level I | Chance: 7% | Cooldown: 5 secs | Effects: Your Attack will increase 10% with Critical Damage.
