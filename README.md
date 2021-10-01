@@ -1,5 +1,7 @@
 # Survival-2-s-CE-Information
-  
+   These are the Custom Enchantments Discriptions, Chances, Conditions, Effects at Immortal Realms Survival 2.
+   Server IP: play.immortalrealms.co
+   
 - **Simple Custom Enchantments**
   -
  
@@ -1464,7 +1466,7 @@
        - Level I | Effects: The Tool's Durability will be repaired.
 
 
+___________________________________________________________________________________
 
-
-
+   **If you do have any issue or you see a mistakes regarding about the  Custom Enchantments Discriptions, Chances, Conditions, Effects in Survival 2. You may DM me on my Discord: KingCueio#1130**
 
