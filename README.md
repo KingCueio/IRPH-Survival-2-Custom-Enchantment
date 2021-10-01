@@ -1,7 +1,7 @@
 # IRPH Survival 2 Custom Enchantment Information
 These are the Custom Enchantments Discriptions, Chances, Conditions, Effects at Immortal Realms Survival 2.            
 **Server IP: play.immortalrealms.co**                          
-If you want to find the specific word, just do **F3**, and type the word you want and hit **Enter**. Good luck! 🙂
+If you want to find the specific word, just do **F3**, and type the word you want. Good luck! 🙂
  
 - **Simple Custom Enchantments**
   -
