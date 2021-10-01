@@ -19,7 +19,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
      - Description: Increases damage dealt to skeletons.   
         - Level I	 | Cooldown: 2 secs | Contidion: Will only affect Skeleton | Effects: Your Attack Damage increases by 10% to 40% randomly
         - Level II	| Cooldown: 1 sec | Contidion: Will only affect Skeleton  | Effects: Your Attack Damage increases by 10% to 40% randomly
-        - Level III | Cooldown: 0 | Contidion: Will only affect Skeleton  | Effects: Your Attack Damage increases by 10% to 40% randomly
+        - Level III | Cooldown: 0 sec | Contidion: Will only affect Skeleton  | Effects: Your Attack Damage increases by 10% to 40% randomly
 
    - Carrot Planter
      - Applies to Hoes
