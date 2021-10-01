@@ -14,9 +14,9 @@
      - Applies to Swords, Axes
      - Max Level: III
      - Description: Increases damage dealt to skeletons.   
-        - Level I	 | Cooldown: 2 secs | Contidion: Will only affect Skeleton | Effects: Increase Damage 10% - 40% Randomly (Atacker)
-        - Level II	| Cooldown: 1 sec | Contidion: Will only affect Skeleton  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
-        - Level III | Cooldown: 0 | Contidion: Will only affect Skeleton  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
+        - Level I	 | Cooldown: 2 secs | Contidion: Will only affect Skeleton | Effects: Your Attack Damage increases by 10% to 40% randomly
+        - Level II	| Cooldown: 1 sec | Contidion: Will only affect Skeleton  | Effects: Your Attack Damage increases by 10% to 40% randomly
+        - Level III | Cooldown: 0 | Contidion: Will only affect Skeleton  | Effects: Your Attack Damage increases by 10% to 40% randomly
 
    - Carrot Planter
      - Applies to Hoes
@@ -30,11 +30,11 @@
      - Applies to Swords, Axes
      - Max level: V
      - Description: Increases damage dealt to zombies.
-       - Level I | Chance: 16% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
-       - Level II	|  Chance: 20% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
-       - Level III | Chance: 40% | Cooldown: 2 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
-       - Level IV | Chance: 60% | Cooldown: 1 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
-       - Level V	| Chance: 80% | Cooldown: 0 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
+       - Level I | Chance: 16% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
+       - Level II	|  Chance: 20% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
+       - Level III | Chance: 40% | Cooldown: 2 sec | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
+       - Level IV | Chance: 60% | Cooldown: 1 sec | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
+       - Level V	| Chance: 80% | Cooldown: 0 sec | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
          
    - Decapitation
      - Applies to Swords, Axes
@@ -44,7 +44,7 @@
        - Level II	|  Chance: 10% | Cooldown: 10 secs | Effects: Drop Head (Victim)
        - Level III | Chance: 15% | Cooldown: 10 sec | Effects: Drop Head (Victim)
 
-   - Epicness (Not Done Yet)
+   - Epicness 
      - Applies to Swords
      - Max level: III
      - Description: Gives particles and sound effects.
@@ -66,11 +66,11 @@
      - Applies to Swords
      - Max level: V
      - Description: Chance to push away your opponent.
-       - Level I | Chance: 30% | Cooldown: 12 secs | Effects: Pull away the victim at least 1 block away
-       - Level II	|  Chance: 36% | Cooldown: 12 secs | Effects: Pull away the victim at least 1.5 blocks away 
-       - Level III | Chance: 42% | Cooldown: 12 secs | Effects: Pull away the victim at least 2.0 blocks away 
-       - Level IV | Chance: 48% | Cooldown: 13 secs | Effects: Pull away the victim at least 2.5 blocks away
-       - Level V	| Chance: 56% | Cooldown: 13 secs | Effects: Pull away the victim at least 3 blocks away
+       - Level I | Chance: 30% | Cooldown: 12 secs | Effects: Your Enemy will push away at least 1 block away
+       - Level II	|  Chance: 36% | Cooldown: 12 secs | Effects: Your Enemy will push away at least 1.5 blocks away 
+       - Level III | Chance: 42% | Cooldown: 12 secs | Effects: Your Enemy will push away at least 2.0 blocks away 
+       - Level IV | Chance: 48% | Cooldown: 13 secs | Effects: Your Enemy will push away at least 2.5 blocks away
+       - Level V	| Chance: 56% | Cooldown: 13 secs | Effects: Your Enemy will push away at least 3 blocks away
 
    - Glowing
      - Applies to Helmets
@@ -82,9 +82,9 @@
      - Applies to Tools
      - Max level: III
      - Description: Chance to gain Haste after breaking blocks.
-         - Level I | Chance: 15% | Cooldown: 3 secs | Duration: 40 secs | Effects: Fast Digging
-         - Level II	| Chance: 25% | Cooldown: 3 secs  | Duration: 40 secs | Effects: Fast Digging
-         - Level III	| Chance: 45% | Cooldown: 3 secs  | Duration: 40 secs | Effects: Fast Digging
+         - Level I | Chance: 15% | Cooldown: 3 secs | Duration: 40 secs | Effects: You will receive 2 secs of Haste
+         - Level II	| Chance: 25% | Cooldown: 3 secs  | Duration: 40 secs | Effects: You will receive 3 secs of Level 2 Haste
+         - Level III	| Chance: 45% | Cooldown: 3 secs  | Duration: 40 secs | Effects: You will receive 4 secs of Level 3 Haste
 
    - Potato Planter
      - Applies to Hoes
@@ -112,9 +112,9 @@
       - Applies to Swords, Bows, Crossbows, Tridents
       - Max level: III
       - Description: Chance to strike lightning at the opponents.
-         - Level I | Chance: 24% | Cooldown: 3 secs | Effects: Lightning (victim)
-         - Level II	|  Chance: 32% | Cooldown: 3 secs | Effects: Lightning (victim)
-         - Level III | Chance: 40% | Cooldown: 3 sec | Effects: Lightning (victim)
+         - Level I | Chance: 24% | Cooldown: 3 secs | Effects: Your Enemy will receive Lightning.
+         - Level II	|  Chance: 32% | Cooldown: 3 secs | Effects: Your Enemy will receive Lightning.
+         - Level III | Chance: 40% | Cooldown: 3 sec | Effects: Your Enemy will receive Lightning.
    - Aquatic 
      - Applies to Helmets
      - Max Level: I
