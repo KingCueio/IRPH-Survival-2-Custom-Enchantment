@@ -836,153 +836,156 @@
   -
 
    - Abiding
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords, Bow
+     - Max level: I
+     - Description: Weapons with this enchant become unbreakable
    - Aqua
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Boots
+     - Max level: IV
+     - Description: Deal double damage while in water.
    - Armored
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: IV
+     - Description: Decreases damage from enemy swords by 2% per level.
    - Bait
-     - Applies to Axes
+     - Applies to Fishing Rod
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to receive double fishing drops.
    - Barbarian
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: IV
+     - Description: Chance to inflicts more axe damage.
    - Beastslayer
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords, Axes
+     - Max level: IV
+     - Description: Increases damage dealt to Hostile Mobs.
    - Blacksmith
      - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Max level: V
+     - Description: Repair your weapon in exchange for dealing less damage.
    - Chaos
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Trident
+     - Max level: V
+     - Description: Deal weakness and wither effects.
    - Chunky
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Chestplates
+     - Max level: VI
+     - Description: Chance to receive less damage.
    - Convulse
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Boots
+     - Max level: VI
+     - Description: Chance to throw your attackers into the air.
    - Deadshot
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Trident
+     - Max level: V
+     - Description: Headshots with tridents deal double damage.
    - Deranged
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Strike lightning at nearby players.
    - Disarmor
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: VII
+     - Description: Chance of unequipping random armor piece from your opponent.
+
    - Divert
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: V
+     - Description: Chance of poisoning opponent and gaining regeneration.
    - Double Strike
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: A chance to strike twice.
    - Fumble
-     - Applies to Axes
+     - Applies to Chestplates
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to explode enemy when hit by their arrows.
    - Gears
-     - Applies to Axes
+     - Applies to Boots
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Added speed when equipped.
    - Hardened
-     - Applies to Axes
+     - Applies to Armor
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to recover durability when damaged by players.
    - Inflame
      - Applies to Axes
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Set all players in radius on fire.
    - Inquisitive
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: IV
+     - Description: Chance to increase EXP drops from mobs.
    - Judgement
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Elytra
+     - Max level: V
+     - Description: Chance of poisoning opponent and gaining regeneration.
    - Kill Aura
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: V
+     - Description: Chance to kill multiple monsters in radius.
+
    - Launch
-     - Applies to Axes
+     - Applies to Swords
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Launch yourself by right-clicking.
    - Lava Walker
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Boots
+     - Max level: I
+     - Description: Walk on Lava.
    - Lifesteal
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Swords
+     - Max level: V
+     - Description: A chance to steal health when attacking.
    - Lucid
-     - Applies to Axes
+     - Applies to Armor
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to cure blindness and gain night vision when hit.
    - Overload
-     - Applies to Axes
+     - Applies to Armor
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Unlocks additional hearts.
    - Patch
-     - Applies to Axes
+     - Applies to Armor
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to recover durability when damaged by mobs.
    - Rebound
-     - Applies to Axes
+     - Applies to Axes, Swords (Weapons)
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Gain some health back after kills.
+
    - Slingshot
-     - Applies to Axes
+     - Applies to Elytra
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Boost yourself into flight by right-clicking..
    - Strife
-     - Applies to Axes
+     - Applies to Trident
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Increases Trident melee damage.
    - Thunderlord
-     - Applies to Axes
+     - Applies to Axes, Swords (Weapons)
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Strike monsters with lightning every 3 consecutive hits.
    - Turmoil
-     - Applies to Axes
+     - Applies to Armor
      - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Description: Chance to prevent opponents guards from spawning.
    - Twinge
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Trident
+     - Max level: IV
+     - Description: Make your enemy bleed, if hit using melee attack.
    - Unholy
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Armor
+     - Max level: V
+     - Description: Defend with weakness and wither effects.
    - WaterWalker
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Boots
+     - Max level: I
+     - Description: Walk on Water.
    - Wings
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
+     - Applies to Boots
+     - Max level: I
+     - Description: Allows flying when worn.
 
 
 
