@@ -611,21 +611,21 @@
      - Applies to Armor
      - Max level: VI
      - Description: Gives a chance to deal weakness.
-       - Level I | Chance: 5% | Cooldown: 2 secs | Effects: The Attacker will recieve 3 secs of Weakness.
-       - Level II	|  Chance: 7% | Cooldown: 2 secs |  Effects: The Attacker will recieve 5 secs of Weakness.
-       - Level III | Chance: 9% | Cooldown: 2 secs | Effects: The Attacker will recieve 7 secs of Weakness.
-       - Level IV | Chance: 13% | Cooldown: 2 secs | Effects: The Attacker will recieve 3 secs of Level 1 Weakness.
-       - Level V	|  Chance: 16% | Cooldown: 2 secs |  Effects: The Attacker will recieve 5 secs of Level 1 Weakness.
-       - Level V	|  Chance: 21% | Cooldown: 2 secs |  Effects: The Attacker will recieve 6 secs of Level 1 Weakness.
+       - Level I | Chance: 5% | Cooldown: 2 secs | Effects: Your Enemy will recieve 3 secs of Weakness.
+       - Level II	|  Chance: 7% | Cooldown: 2 secs |  Effects: Your Enemy will recieve 5 secs of Weakness.
+       - Level III | Chance: 9% | Cooldown: 2 secs | Effects: Your Enemy will recieve 7 secs of Weakness.
+       - Level IV | Chance: 13% | Cooldown: 2 secs | Effects: Your Enemy will recieve 3 secs of Level 2 Weakness.
+       - Level V	|  Chance: 16% | Cooldown: 2 secs |  Effects: Your Enemy will recieve 5 secs of Level 2 Weakness.
+       - Level V	|  Chance: 21% | Cooldown: 2 secs |  Effects: Your Enemy will recieve 6 secs of Level 2 Weakness.
    - Wither
      - Applies to Armor
      - Max level: V
      - Description: A chance to give the wither effect.
-       - Level I | Chance: 9% | Cooldown: 3 secs | Effects: The Attacker will recieve 3 secs of Wither.
-       - Level II	|  Chance: 11% | Cooldown: 3 secs |  Effects: The Attacker will recieve 5 secs of Wither.
-       - Level III | Chance: 14% | Cooldown: 3 secs | Effects: The Attacker will recieve 7 secs of Wither.
-       - Level IV | Chance: 17% | Cooldown: 3 secs | Effects: The Attacker will recieve 3 secs of Level 1 Wither.
-       - Level V	|  Chance: 21% | Cooldown: 3 secs |  Effects: The Attacker will recieve 5 secs of Level 1 Wither.
+       - Level I | Chance: 9% | Cooldown: 3 secs | Effects: Your Enemy will recieve 3 secs of Wither.
+       - Level II	|  Chance: 11% | Cooldown: 3 secs |  Effects: Your Enemy will recieve 5 secs of Wither.
+       - Level III | Chance: 14% | Cooldown: 3 secs | Effects: Your Enemy will recieve 7 secs of Wither.
+       - Level IV | Chance: 17% | Cooldown: 3 secs | Effects: Your Enemy will recieve 3 secs of Level 2 Wither.
+       - Level V	|  Chance: 21% | Cooldown: 3 secs |  Effects: Your Enemy will recieve 5 secs of Level 2 Wither.
 
 
 
@@ -641,18 +641,38 @@
      - Applies to Boots
      - Max level: III
      - Description: Chance to gain speed when taking fall damage.
+       - Level I | Chance: 40% | Cooldown: 3 secs | Effects: You will receive 3 Secs of Speed.
+       - Level II | Chance: 60% | Cooldown: 3 secs | Effects: You will receive 3 Secs of Level 2 Speed.
+       - Level III | Chance: 70% | Cooldown: 3 secs | Effects: You will receive 3 Secs of Level 3 Speed.
    - Ambit
      - Applies to Axes, Swords
      - Max level: VII
      - Description: Damages mobs within a radius that increases with the level of enchant.
+       - Level I | Chance: 4% | Cooldown: 8 secs | Effects: Mobs will receive 1 to 2 Harm Damage Randomly, They will also get hit in radius of 1 block.
+       - Level II | Chance: 5% | Cooldown: 8 secs | Effects: Mobs will receive 1 to 3 Harm Damage Randomly, They will also get hit in radius of 2 blocks.
+       - Level III | Chance: 6% | Cooldown: 9 secs | Effects: Mobs will receive 1 to 3 Harm Damage Randomly, They will also get hit in radius of 3 blocks.
+       - Level IV | Chance: 7% | Cooldown: 9 secs | Effects: Mobs will receive 1 to 2 Harm Damage Randomly, They will also get hit in radius of 4 blocks.
+       - Level V | Chance: 9% | Cooldown: 10 secs | Effects: Mobs will receive 2 to 3 Harm Damage Randomly, They will also get hit in radius of 5 blocks.
+       - Level VI | Chance: 12% | Cooldown: 12 secs | Effects: Mobs will receive 2 to 3 Harm Damage Randomly, They will also get hit in radius of 6 blocks.
+       - Level VII | Chance: 15% | Cooldown: 14 secs | Effects: Mobs will receive 2 to 3 Harm Damage Randomly, They will also get hit in radius of 7 blocks.
    - Angelic
      - Applies to Armor
      - Max level: V
      - Description: Heals health when damaged.
+       - Level I | Chance: 9% | Cooldown: 7 secs | Effects: Your Health Bar will increase by 1 to 3 Hearts randomly.
+       - Level II | Chance: 14% | Cooldown: 9 secs | Effects: Your Health Bar will increase by 1 to 3 Hearts randomly.
+       - Level III | Chance: 17% | Cooldown: 11 secs | Effects: Your Health Bar will increase by 1 to 3 Hearts randomly.
+       - Level IV | Chance: 26% | Cooldown:13 secs | Effects: Your Health Bar will increase by 1 to 4 Hearts randomly.
+       - Level V | Chance: 34% | Cooldown: 15 secs | Effects: Your Health Bar will increase by 1 to 4 Hearts randomly.
    - Archer
      - Applies to Bow
      - Max level: IV
      - Description: Increases damage dealt with bows.
+       - Level I | Chance: 13% | Cooldown: 3 secs | Condition: Will only effect if you are holding a bow | Effects: Your Attack Damage will Increase by 50 to 150% randomly
+       - Level II | Chance: 19% | Cooldown: 3 secs | Condition: Will only effect if you are holding a bow | Effects: Your Attack Damage will Increase by 50 to 150% randomly
+       - Level III | Chance: 25% | Cooldown: 3 secs | Condition: Will only effect if you are holding a bow | Effects: Your Attack Damage will Increase by 50 to 150% randomly
+       - Level IV | Chance: 32% | Cooldown: 3 secs | Condition: Will only effect if you are holding a bow | Effects: Your Attack Damage will Increase by 50 to 150% randomly
+
    - Arrow Break
      - Applies to Axes
      - Max level: VI
@@ -746,26 +766,43 @@
      - Applies to Swords
      - Max level: II
      - Description: Chance to give your enemy mining fatigue.
+       - Level I | Chance: 13% |Coo| Effects: Your Enemy will receive 5 secs of Mining fatigue
+       - Level II | Chance: 17% | Cooldown: 15 secs | Effects: Your Enemy will receive 5 secs of Level 2 Mining fatigue
+
    - Jelly Legs
      - Applies to Boots
      - Max level: III
      - Description: Chance to negate fall damage.
+       - Level I | Chance: 40% | Effects: Fall Damage will be canceled.
+       - Level II | Chance: 60% | Effects: Fall Damage will be canceled.
+       - Level III | Chance: 100% | Effects: Fall Damage will be canceled.
    - Longbow
      - Applies to Bow
      - Max level: IV
      - Description: Greatly increases damage dealt to enemy players that have a bow in their hands.
+       - Level I | Chance: 12% | Cooldown: 4 secs| Condition: It will only effect if your enemy is holding a bow | Effects: Your attack damage increases by 25% to 50% randomly.
+       - Level II | Chance: 17% | Cooldown: 4 secs| Condition: It will only effect if your enemy is holding a bow | Effects: Your attack damage increases by 25% to 50% randomly.
+       - Level III | Chance: 25% | Cooldown: 4 secs| Condition: It will only effect if your enemy is holding a bow | Effects: Your attack damage increases by 50% to 100% randomly.
+       - Level IV | Chance: 33% | Cooldown: 4 secs| Condition: It will only effect if your enemy is holding a bow | Effects: Your attack damage increases by 50% to 100% randomly.
    - Netherling
      - Applies to Swords
      - Max level: III
      - Description: Double damage to mobs in Nether.
+       - Level I | Chance: 25% | Condition: It will only effect if you are in nether | Effects: Your attack damage increases by 50%
+       - Level I | Chance: 50% | Condition: It will only effect if you are in nether | Effects: Your attack damage increases by 50%
+       - Level I | Chance: 75% | Condition: It will only effect if you are in nether | Effects: Your attack damage increases by 50%
    - Night Owl
      - Applies to Swords
      - Max level: I
      - Description: Deal more damage to mobs at night.
+       - Level I | Chance: 40% | Condition: It will only effect if its night time | Effects: Your attack damage increases by 25%
+       - Level I | Chance: 60% | Condition: It will only effect if its night time | Effects: Your attack damage increases by 35%
+       - Level I | Chance: 80% | Condition: It will only effect if its night time | Effects: Your attack damage increases by 45%
    - Obsidianshield
      - Applies to Armor
      - Max level: I
      - Description: Gives permanent fire resistance.
+       - Level I | Effects: You will receive fire resistance effect.
    - Permafrost
      - Applies to Swords
      - Max level: V
