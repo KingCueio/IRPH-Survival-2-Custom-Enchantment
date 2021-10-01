@@ -1,4 +1,4 @@
-# Survival-2-s-CE-Information
+# IRPH Survival 2 Custom Enchantment Information
 These are the Custom Enchantments Discriptions, Chances, Conditions, Effects at Immortal Realms Survival 2.            
 **Server IP: play.immortalrealms.co**
    
