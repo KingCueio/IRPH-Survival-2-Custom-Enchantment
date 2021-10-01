@@ -14,9 +14,9 @@
      - Applies to Swords, Axes
      - Max Level: III
      - Description: Increases damage dealt to skeletons.   
-        - Level I	 | Cooldown: 2 secs | Contidion: Will only affect Skeleton | Effects: Increase Damage 10 - 40 Randomly (Atacker)
-        - Level II	| Cooldown: 1 sec | Contidion: Will only affect Skeleton  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
-        - Level III | Cooldown: 0 | Contidion: Will only affect Skeleton  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+        - Level I	 | Cooldown: 2 secs | Contidion: Will only affect Skeleton | Effects: Increase Damage 10% - 40% Randomly (Atacker)
+        - Level II	| Cooldown: 1 sec | Contidion: Will only affect Skeleton  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
+        - Level III | Cooldown: 0 | Contidion: Will only affect Skeleton  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
 
    - Carrot Planter
      - Applies to Hoes
@@ -30,11 +30,11 @@
      - Applies to Swords, Axes
      - Max level: V
      - Description: Increases damage dealt to zombies.
-       - Level I | Chance: 16% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+       - Level I | Chance: 16% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
        - Level II	|  Chance: 20% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
-       - Level III | Chance: 40% | Cooldown: 2 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
-       - Level IV | Chance: 60% | Cooldown: 1 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
-       - Level V	| Chance: 80% | Cooldown: 0 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10 - 40 Randomly (Atacker)
+       - Level III | Chance: 40% | Cooldown: 2 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
+       - Level IV | Chance: 60% | Cooldown: 1 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
+       - Level V	| Chance: 80% | Cooldown: 0 sec | Contidion: Will only affect zombie  | Effects: Increase Damage 10% - 40% Randomly (Atacker)
          
    - Decapitation
      - Applies to Swords, Axes
@@ -119,6 +119,7 @@
      - Applies to Helmets
      - Max Level: I
      - Description: Breath underwater.
+         - Level I | Effects: You will receive Water Breathing Effect.
 
 
 
@@ -196,10 +197,10 @@
      - Applies to Bow, Crossbow, Trident
      - Max level: IV
      - Description: Increases damage dealt to Passive Mobs.
-       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10% to 40% damage
+       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
+       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
+       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
    - Molten
      - Applies to Armor
      - Max level: IV
@@ -238,10 +239,10 @@
      - Applies to Axes, Swords
      - Max level: IV
      - Description: Increases damage dealt to Passive Mobs.
-       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
+       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10% to 40% damage
+       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
+       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
+       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
    - Soulless
      - Applies to Bow, Crossbow, Trident
      - Max level: IV
@@ -839,153 +840,292 @@
      - Applies to Swords, Bow
      - Max level: I
      - Description: Weapons with this enchant become unbreakable
+       - Level I | Effects: The Item will repair itself.
    - Aqua
      - Applies to Boots
      - Max level: IV
      - Description: Deal double damage while in water.
+       - Level I | Chance: 8% | Cooldown: 3 secs | Condition: Will only effect if you are under water. | Effects: Your Attack will receive Double Damage.
+       - Level II | Chance: 13% | Cooldown: 3 secs | Condition: Will only effect if you are under water. | Effects: Your Attack will receive Double Damage.
+       - Level III | Chance: 19% | Cooldown: 3 secs | Condition: Will only effect if you are under water. | Effects: Your Attack will receive Double Damage.
+       - Level IV | Chance: 23% | Cooldown: 3 secs | Condition: Will only effect if you are under water. | Effects: Your Attack will receive Double Damage.
    - Armored
      - Applies to Armor
      - Max level: IV
      - Description: Decreases damage from enemy swords by 2% per level.
+       - Level I | Chance: 6% | Cooldown: 8 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 2%
+       - Level II | Chance: 12% | Cooldown: 8 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 4%
+       - Level III | Chance: 16% | Cooldown: 8 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 6%
+       - Level IV | Chance: 20% | Cooldown: 8 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will Decreases Damage by 8%
    - Bait
      - Applies to Fishing Rod
      - Max level: III
      - Description: Chance to receive double fishing drops.
+       - Level I | Chance: 15% | Cooldown: 10 secs | Effects: You will get 1 more fishing drops.
+       - Level II | Chance: 18% | Cooldown: 15 secs | Effects: You will get 1 more fishing drops.
+       - Level III | Chance: 26% | Cooldown: 20 secs | Effects: You will get 1 more fishing drops.
+
    - Barbarian
      - Applies to Axes
      - Max level: IV
      - Description: Chance to inflicts more axe damage.
+       - Level I | Chance: 8% | Cooldown: 2 secs | Condition: Will only effect if the Enemy is holding an Axe. | Effects: Your Attack Damage will Increase by 25% to 100% randomly
+       - Level II | Chance: 15% | Cooldown: 2 secs | Condition: Will only effect if the Enemy is holding an Axe. | Effects: Your Attack Damage will Increase by 25% to 100% randomly
+       - Level III | Chance: 19% | Cooldown: 2 secs | Condition: Will only effect if the Enemy is holding an Axe. | Effects: Your Attack Damage will Increase by 25% to 100% randomly
+       - Level IV | Chance: 25% | Cooldown: 2 secs | Condition: Will only effect if the Enemy is holding an Axe. | Effects: Your Attack Damage will Increase by 25% to 100% randomly
+
    - Beastslayer
      - Applies to Swords, Axes
      - Max level: IV
      - Description: Increases damage dealt to Hostile Mobs.
+       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Hostile Mobs. | Effects: Your Attack Damage will Increase by 10% to 40% randomly
+       - Level I | Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Hostile Mobs. | Effects: Your Attack Damage will Increase by 10% to 40% randomly
+       - Level I | Chance: 75% | No Cooldown | Condition: Will only affect Hostile Mobs. | Effects: Your Attack Damage will Increase by 10% to 40% randomly
+       - Level I | Chance: 100% | No Cooldown | Condition: Will only affect Hostile Mobs. | Effects: Your Attack Damage will Increase by 10% to 40% randomly
    - Blacksmith
      - Applies to Axes
      - Max level: V
      - Description: Repair your weapon in exchange for dealing less damage.
+       - Level I | Chance: 9% | Cooldown: 3 secs | Effects: Your Item will receive 1 amount of Durability and reduces attack damage by half.
+       - Level II | Chance: 15% | Cooldown: 3 secs | Effects: Your Item will receive 1 amount of Durability and reduces attack damage by half.
+       - Level III | Chance: 23% | Cooldown: 3 secs | Effects: Your Item will receive 1 amount of Durability and reduces attack damage by half.
+       - Level IV | Chance: 31% | Cooldown: 3 secs | Effects: Your Item will receive 2 amount of Durability and reduces attack damage by half.
+       - Level V | Chance: 39% | Cooldown: 3 secs | Effects: Your Item will receive 2 amount of Durability and reduces attack damage by half.
    - Chaos
      - Applies to Trident
      - Max level: V
      - Description: Deal weakness and wither effects.
+       - Level I | Chance: 2% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 Secs of Wither and 5 secs of Weakness
+       - Level II | Chance: 4% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 Secs of Level 2 Wither and 5 secs of Weakness
+       - Level III | Chance: 6% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 Secs of Level 2 Wither and 5 secs of Weakness
+       - Level IV | Chance: 8% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 Secs of Level 2 Wither and 5 secs of Weakness
+       - Level V | Chance: 10% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 Secs of Level 2 Wither and 5 secs of Weakness
    - Chunky
      - Applies to Chestplates
      - Max level: VI
      - Description: Chance to receive less damage.
+       - Level I | Chance: 5% | Cooldown: 10 secs | Effects: Your Enemy's Attack Damage will decrease by 10%
+       - Level II | Chance: 10% | Cooldown: 10 secs | Effects: Your Enemy's Attack Damage will decrease by 20%
+       - Level III | Chance: 12% | Cooldown: 10 secs | Effects: Your Enemy's Attack Damage will decrease by 30%
+       - Level IV | Chance: 15% | Cooldown: 10 secs | Effects: Your Enemy's Attack Damage will decrease by 40%
+       - Level V | Chance: 18% | Cooldown: 10 secs | Effects: Your Enemy's Attack Damage will decrease by 50%
+       - Level VI | Chance: 20% | Cooldown: 10 secs | Effects: Your Enemy's Attack Damage will decrease by 60%
    - Convulse
      - Applies to Boots
      - Max level: VI
      - Description: Chance to throw your attackers into the air.
+       - Level I | Chance: 8% | Cooldown: 10 secs | Effects: Your Enemy will be forced to boost upward of Speed 5 (Throwed Upward).
+       - Level II | Chance: 8% | Cooldown: 10 secs | Effects: Your Enemy will be forced to boost upward of Speed 6 (Throwed Upward).
+       - Level III | Chance: 8% | Cooldown: 10 secs | Effects: Your Enemy will be forced to boost upward of Speed 7 (Throwed Upward).
+       - Level IV | Chance: 8% | Cooldown: 10 secs | Effects: Your Enemy will be forced to boost upward of Speed 8 (Throwed Upward).
+       - Level V | Chance: 8% | Cooldown: 10 secs | Effects: Your Enemy will be forced to boost upward of Speed 9 (Throwed Upward).
+       - Level VI | Chance: 8% | Cooldown: 10 secs | Effects: Your Enemy will be forced to boost upward of Speed 10 (Throwed Upward).
    - Deadshot
      - Applies to Trident
      - Max level: V
      - Description: Headshots with tridents deal double damage.
+       - Level I | Chance: 15% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Trident or Arrow | Effects: Your Attack Damage will Increase by 100%
+       - Level II | Chance: 20% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Trident or Arrow | Effects: Your Attack Damage will Increase by 100%
+       - Level III | Chance: 25% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Trident or Arrow | Effects: Your Attack Damage will Increase by 100%
+       - Level IV | Chance: 30% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Trident or Arrow | Effects: Your Attack Damage will Increase by 100%
+       - Level V | Chance: 35% | Cooldown: 5 secs | Condition: Will only effect if the Enemy got hit by Trident or Arrow | Effects: Your Attack Damage will Increase by 100%
    - Deranged
      - Applies to Swords
      - Max level: III
      - Description: Strike lightning at nearby players.
+       - Level I | Chance: 5% | Cooldown: 10 secs | Effects: Enemy that are in your radius of 5 blocks will Lightning
+       - Level II | Chance: 8% | Cooldown: 12 secs | Effects: Enemy that are in your radius of 6 blocks will Lightning
+       - Level III | Chance: 12% | Cooldown: 14 secs | Effects: Enemy that are in your radius of 7 blocks will Lightning
    - Disarmor
      - Applies to Swords
-     - Max level: VII
+     - Max level: VIII
      - Description: Chance of unequipping random armor piece from your opponent.
+       - Level I | Chance: 0.4% | Cooldown: 6 secs | Effects: The Enemy will be Disarmed (Enemy's Armor Item will be forced unequipped)
+       - Level II | Chance: 0.8% | Cooldown: 6 secs | Effects: The Enemy will be Disarmed (Enemy's Armor Item will be forced unequipped)
+       - Level III | Chance: 1% | Cooldown: 6 secs | Effects: The Enemy will be Disarmed (Enemy's Armor Item will be forced unequipped)
+       - Level IV | Chance: 1.2% | Cooldown: 6 secs | Effects: The Enemy will be Disarmed (Enemy's Armor Item will be forced unequipped)
+       - Level V | Chance: 1.4% | Cooldown: 6 secs | Effects: The Enemy will be Disarmed (Enemy's Armor Item will be forced unequipped)
+       - Level VI | Chance: 1.6% | Cooldown: 6 secs | Effects: The Enemy will be Disarmed (Enemy's Armor Item will be forced unequipped)
+       - Level VII | Chance: 1.8% | Cooldown: 6 secs | Effects: The Enemy will be Disarmed (Enemy's Armor Item will be forced unequipped)
+       - Level VIII | Chance: 2% | Cooldown: 6 secs | Effects: The Enemy will be Disarmed (Enemy's Armor Item will be forced unequipped)
 
    - Divert
      - Applies to Armor
      - Max level: V
      - Description: Chance of poisoning opponent and gaining regeneration.
+       - Level I | Chance: 6% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 5 secs of Regeneration.
+       - Level II | Chance: 8% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 5 secs of Regeneration.
+       - Level III | Chance: 10% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 5 secs of Regeneration.
+       - Level IV | Chance: 12% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 3 secs of Level 1 Regeneration.
+       - Level V | Chance: 16% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 5 secs of Level 1 Regeneration.
    - Double Strike
      - Applies to Swords
      - Max level: III
      - Description: A chance to strike twice.
+       - Level I | Chance: 8% | Cooldown: 15 secs | Effects: Your Enemy will Receive Harm Damage and Blood Effect.
+       - Level II | Chance: 13% | Cooldown: 15 secs | Effects: Your Enemy will Receive Harm Damage and Blood Effect.
+       - Level III | Chance: 19% | Cooldown: 15 secs | Effects: Your Enemy will Receive Harm Damage and Blood Effect.
    - Fumble
      - Applies to Chestplates
      - Max level: III
      - Description: Chance to explode enemy when hit by their arrows.
+       - Level I | Chance: 10% | Cooldown: 8 secs | Effects: Your Enemy will receive TNT explosion.
+       - Level II | Chance: 15% | Cooldown: 8 secs | Effects: Your Enemy will receive TNT explosion.
+       - Level III | Chance: 25% | Cooldown: 8 secs | Effects: Your Enemy will receive TNT explosion.
    - Gears
      - Applies to Boots
      - Max level: III
      - Description: Added speed when equipped.
+       - Level I | Effects: You will Receive Level 1 Speed.
+       - Level II | Effects: You will Receive Level 2 Speed.
+       - Level II | Effects: You will Receive Level 3 Speed.
    - Hardened
      - Applies to Armor
      - Max level: III
      - Description: Chance to recover durability when damaged by players.
+       - Level I | Chance: 25% | Cooldown: 7 secs | Effects: Your Item will receive 1 amount of Durability
+       - Level II | Chance: 35% | Cooldown: 7 secs | Effects: Your Item will receive 1 amount of Durability
+       - Level III | Chance: 45% | Cooldown: 7 secs | Effects: Your Item will receive 2 amount of Durability
    - Inflame
      - Applies to Axes
      - Max level: III
      - Description: Set all players in radius on fire.
+       - Level I | Chance: 10% | Cooldown: 4 secs | Effects: Enemy that are in your radius of 2 blocks will receive 2 secs of Flame.
+       - Level I | Chance: 12% | Cooldown: 4 secs | Effects: Enemy that are in your radius of 2 blocks will receive 2.5 secs of Flame.
+       - Level I | Chance: 16% | Cooldown: 4 secs | Effects: Enemy that are in your radius of 2 blocks will receive 3 secs of Flame.
    - Inquisitive
      - Applies to Swords
      - Max level: IV
      - Description: Chance to increase EXP drops from mobs.
+       - Level I | Chance: 30% | Cooldown: 4 secs | Effects: You will receive 1 + 0.25 "The Level EXP you gonna get in Mobs"
+       - Level II | Chance: 35% | Cooldown: 4 secs | Effects: You will receive 1 + 0.25 "The Level EXP you gonna get in Mobs"
+       - Level III | Chance: 40% | Cooldown: 4 secs | Effects: You will receive 1 + 0.25 "The Level EXP you gonna get in Mobs"
+       - Level IV | Chance: 45% | Cooldown: 4 secs | Effects: You will receive 1 + 0.25 "The Level EXP you gonna get in Mobs"
    - Judgement
      - Applies to Elytra
      - Max level: V
      - Description: Chance of poisoning opponent and gaining regeneration.
+       - Level I | Chance: 6% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 5 secs of Regeneration.
+       - Level II | Chance: 8% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 5 secs of Regeneration.
+       - Level III | Chance: 10% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 5 secs of Regeneration.
+       - Level IV | Chance: 12% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 3 secs of Level 1 Regeneration.
+       - Level V | Chance: 16% | Cooldown: 20 secs | Effects: The Enemy will receive 5 secs of Poison and You will Receive 5 secs of Level 1 Regeneration.
    - Kill Aura
      - Applies to Swords
      - Max level: V
      - Description: Chance to kill multiple monsters in radius.
+       - Level I | Chance: 5% | Cooldown: 3 secs | Effects: Your Attack will target mobs that is in radius of 2 blocks
+       - Level II | Chance: 8% | Cooldown: 4 secs | Effects: Your Attack will target mobs that is in radius of 2 blocks
+       - Level III | Chance: 12% | Cooldown: 5 secs | Effects: Your Attack will target mobs that is in radius of 3 blocks
+       - Level IV | Chance: 15% | Cooldown: 5 secs | Effects: Your Attack will target mobs that is in radius of 3 blocks
+       - Level V | Chance: 18% | Cooldown: 6 secs | Effects: Your Attack will target mobs that is in radius of 4 blocks
 
    - Launch
      - Applies to Swords
      - Max level: III
      - Description: Launch yourself by right-clicking.
+       - Level I | Chance: 20% | Cooldown: 20 secs | Condition: Will Only Effect if you are holding Firework | Effects: You will boost upward by speed 
+       - Level II | Chance: 27% | Cooldown: 15 secs | Condition: Will Only Effect if you are holding Firework | Effects: You will boost upward by speed 
+       - Level III | Chance: 35% | Cooldown: 10 secs | Condition: Will Only Effect if you are holding Firework | Effects: You will boost upward by speed 
    - Lava Walker
      - Applies to Boots
      - Max level: I
      - Description: Walk on Lava.
+       - Level I | Effects: The lava will be placed by osidian so you can walk on it.
    - Lifesteal
      - Applies to Swords
      - Max level: V
      - Description: A chance to steal health when attacking.
+       - Level I | Chance: 9% | Cooldown: 15 secs | Effects: The Enemy will receive stolen health by 1 to 3 health randomly.
+       - Level II | Chance: 13% | Cooldown: 15 secs | Effects: The Enemy will receive stolen health by 1 to 3 health randomly.
+       - Level III | Chance: 17% | Cooldown: 15 secs | Effects: The Enemy will receive stolen health by 1 to 4 health randomly.
+       - Level IV | Chance: 21% | Cooldown: 15 secs | Effects: The Enemy will receive stolen health by 1 to 5 health randomly.
+       - Level V | Chance: 25% | Cooldown: 15 secs | Effects: The Enemy will receive stolen health by 1 to 5 health randomly.
    - Lucid
      - Applies to Armor
      - Max level: III
      - Description: Chance to cure blindness and gain night vision when hit.
+       - Level I | Chance: 22% | Cooldown: 5 secs | Effects: You will receive 2 secs of night vision and your blindness will be cured.
+       - Level I | Chance: 32% | Cooldown: 5 secs | Effects: You will receive 3 secs of night vision and your blindness will be cured.
+       - Level I | Chance: 42% | Cooldown: 5 secs | Effects: You will receive 4 secs of night vision and your blindness will be cured.
    - Overload
      - Applies to Armor
      - Max level: III
      - Description: Unlocks additional hearts.
+       - Level I | Effects: You will receive Health Boost
+       - Level II | Effects: You will receive Level 1 Health Boost
+       - Level III | Effects: You will receive Level 2 Health Boost
    - Patch
      - Applies to Armor
      - Max level: III
      - Description: Chance to recover durability when damaged by mobs.
+       - Level I | Chance: 25% | Cooldown: 7 secs | Effects: Your Item will receive 1 amount of Durability
+       - Level I | Chance: 35% | Cooldown: 7 secs | Effects: Your Item will receive 1 amount of Durability
+       - Level I | Chance: 45% | Cooldown: 7 secs | Effects: Your Item will receive 2 amount of Durability
    - Rebound
      - Applies to Axes, Swords (Weapons)
      - Max level: III
      - Description: Gain some health back after kills.
-
+       - Level I | Chance: 25% | Cooldown: 5 secs | Effects: Your Health Bar will receive 2 Health.
+       - Level I | Chance: 35% | Cooldown: 5 secs | Effects: Your Health Bar will receive 4 Health.
+       - Level I | Chance: 45% | Cooldown: 5 secs | Effects: Your Health Bar will receive 6 Health.
    - Slingshot
      - Applies to Elytra
      - Max level: III
-     - Description: Boost yourself into flight by right-clicking..
+     - Description: Boost yourself into flight by right-clicking.
+       - Level I | Chance: 20% | Cooldown: 15 secs | Condition: Will Only Effect if you are holding Firework | Effects: You will boost upward by speed 
+       - Level II | Chance: 40% | Cooldown: 10 secs | Condition: Will Only Effect if you are holding Firework | Effects: You will boost upward by speed 
+       - Level III | Chance: 50% | Cooldown: 5 secs | Condition: Will Only Effect if you are holding Firework | Effects: You will boost upward by speed 
    - Strife
      - Applies to Trident
      - Max level: III
      - Description: Increases Trident melee damage.
+       - Level I | Chance: 5% | Cooldown: 3 secs | Effects: Your Trident's Meele Attack Damage increases by 15%
+       - Level II | Chance: 10% | Cooldown: 6 secs | Effects: Your Trident's Meele Attack Damage increases by 25%
+       - Level III | Chance: 15% | Cooldown: 8 secs | Effects: Your Trident's Meele Attack Damage increases by 30%
    - Thunderlord
      - Applies to Axes, Swords (Weapons)
      - Max level: III
      - Description: Strike monsters with lightning every 3 consecutive hits.
+       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Mobs | Effects: The Mobs will receive 3 consecutive hits with lightning.
+       - Level II | Chance: 45% | Cooldown: 2 secs | Condition: Will only affect Mobs | Effects: The Mobs will receive 3 consecutive hits with lightning.
+       - Level III | Chance: 75% | Cooldown: 2 secs | Condition: Will only affect Mobs | Effects: The Mobs will receive 3 consecutive hits with lightning.
+
    - Turmoil
      - Applies to Armor
      - Max level: III
      - Description: Chance to prevent opponents guards from spawning.
+       - Level I | Chance: 10% | Cooldown: 8 secs | Effects: Your Enemy's Guardian, Spirits, Explosive Demise, and Undead Ruse CE will disable at least 4 secs.
+       - Level I | Chance: 14% | Cooldown: 8 secs | Effects: Your Enemy's Guardian, Spirits, Explosive Demise, and Undead Ruse CE will disable at least 4 secs.
+       - Level I | Chance: 18% | Cooldown: 8 secs | Effects: Your Enemy's Guardian, Spirits, Explosive Demise, and Undead Ruse CE will disable at least 4 secs.
+
    - Twinge
      - Applies to Trident
      - Max level: IV
      - Description: Make your enemy bleed, if hit using melee attack.
+       - Level I | Chance: 5% | Cooldown: 3 secs | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level II | Chance: 8% | Cooldown: 4 secs | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level III | Chance: 11% | Cooldown: 5 secs | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
+       - Level IV | Chance: 14% | Cooldown: 6 secs | Effects: Your Enemy will receive 5 secs of Slowness and will receive 3 rounds of 1 to 3 Harm Damage Randomly.
    - Unholy
      - Applies to Armor
      - Max level: V
      - Description: Defend with weakness and wither effects.
+       - Level I | Chance: 2% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 secs of Wither and 5 secs of Weakness.
+       - Level II | Chance: 4% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 secs of Level 1 Wither and 5 secs of Weakness.
+       - Level III | Chance: 6% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 secs Level 1 of Wither and 5 secs of Weakness.
+       - Level IV | Chance: 8% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 secs of Level 1 Wither and 5 secs of Weakness.
+       - Level V | Chance: 10% | Cooldown: 40 secs | Effects: Your Enemy will receive 3 secs of Level 1 Wither and 5 secs of Weakness.
    - WaterWalker
      - Applies to Boots
      - Max level: I
      - Description: Walk on Water.
+       - Level I | Effects: The water will be placed by osidian so you can walk on it.
    - Wings
      - Applies to Boots
      - Max level: I
      - Description: Allows flying when worn.
+       - Level I | Effects: You will get Fly Effect
 
 
 
