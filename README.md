@@ -1003,6 +1003,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
        - Level III | Chance: 13% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will decrease 12% to 15% Damage randomly
        - Level IV | Chance: 16% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will decrease 15% to 18% Damage randomly
        - Level V | Chance: 21% | Cooldown: 4 secs | Condition: Will only effect if the Enemy is holding a sword. | Effects: Your Enemy's Attack will decrease 18% to 22% Damage randomly
+   - Tank
      - Applies to Armor
      - Max level: IV
      - Description: Chance to decreases damage from enemy axes by 2% per level.
