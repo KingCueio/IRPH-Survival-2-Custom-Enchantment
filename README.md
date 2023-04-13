@@ -1030,6 +1030,18 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 5 sec| 29%|  II for 5 sec| 110
 | VI| 6 sec| 31%|  II for 5 sec| 130
 
+<b> Wither (V) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Attacking player will get a wither effect <br>
+<i> A chance to give the wither effect </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 3 sec| 14%| I for 3 sec| 40
+| II| 4 sec| 19%|  I for 5 sec| 60
+| III| 4 sec| 23%|  I for 7 sec| 80
+| IV| 5 sec| 27%|  II for 3 sec| 100
+| V| 5 sec| 31%|  II for 5 se| 120
+
 
 
 
