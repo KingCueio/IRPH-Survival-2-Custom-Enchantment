@@ -3,9 +3,7 @@ These are the Custom Enchantments Discriptions, Chances, Conditions, Effects at 
 **Server IP: play.immortalrealms.co**                          
 If you want to find the specific word, just do **F3**, and type the word you want. Good luck! 🙂
  
-- **Simple Custom Enchantments**
-  -
- 
+**Simple Custom Enchantments**
 
 <b> Bone Crusher (III) </b><br>
 <b> Applies to: </b> Swords, Axes <br>
@@ -155,13 +153,10 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 
+ **Unique Custom Enchantments**
+ 
 
-
-- **Unique Custom Enchantments**
-  -
-
-
-   <b> Aegis (III) </b><br>
+<b> Aegis (III) </b><br>
 <b> Applies to: </b> Boots <br>
 <b> Effects: </b> Gain speed effect with potency depending on level <br>
 <b> Condition: </b> Take fall damage <br>
