@@ -7,122 +7,151 @@ If you want to find the specific word, just do **F3**, and type the word you wan
   -
  
 
-   - Aquatic 
-     - Applies to Helmets
-     - Max Level: I
-     - Description: Breath underwater.
-       - Level I	| Effects: Infinite Night Vision
-      
-   - Bone Crusher
-     - Applies to Swords, Axes
-     - Max Level: III
-     - Description: Increases damage dealt to skeletons.   
-        - Level I	 | Cooldown: 2 secs | Contidion: Will only affect Skeleton | Effects: Your Attack Damage increases by 10% to 40% randomly
-        - Level II	| Cooldown: 1 sec | Contidion: Will only affect Skeleton  | Effects: Your Attack Damage increases by 10% to 40% randomly
-        - Level III | Cooldown: 0 sec | Contidion: Will only affect Skeleton  | Effects: Your Attack Damage increases by 10% to 40% randomly
+<b> Bone Crusher (III) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effect: </b> Randomly increases damage by 10% to 40% <br>
+<i> Increases damage dealt to Skeletons. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 2 sec| 25%
+| II| 2 sec| 50%
+| III| 1 sec| 75%
 
-   - Carrot Planter
-     - Applies to Hoes
-     - Max level: III
-     - Description: Plant carrots in a 3x3 area by shift + right-clicking.
-         - Level I | Cooldown: 2 secs | Contidion: Need to Sneak and Right Click  | Effects: Carrot seeds will be planted on 3x3
-         - Level II	| Cooldown: 2 secs | Contidion: Need to Sneak and Right Click  | Effects: Carrot seeds will be planted on 3x3
-         - Level III	| Cooldown: 1 sec | Contidion: Need to Sneak and Right Click  | Effects: Carrot seeds will be planted on 3x3
+<b> Carrot Planter (III) </b><br>
+<b> Applies to: </b> Hoes <br>
+<b> Effect: </b> Plant crops in a certain area <br>
+<i> Plant carrots in a 3x3 area by shift+right-clicking. </i><br>
+| Level | Cooldown 
+| :-: | :-: 
+| I| 3 sec
+| II| 2 sec
+| III| 0 sec
 
-   - Death Punch
-     - Applies to Swords, Axes
-     - Max level: V
-     - Description: Increases damage dealt to zombies.
-       - Level I | Chance: 16% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
-       - Level II	|  Chance: 20% | Cooldown: 2 secs | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
-       - Level III | Chance: 40% | Cooldown: 2 sec | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
-       - Level IV | Chance: 60% | Cooldown: 1 sec | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
-       - Level V	| Chance: 80% | Cooldown: 0 sec | Contidion: Will only affect zombie  | Effects: Your Attack Damage increases by 10% to 40% randomly
-         
-   - Decapitation
-     - Applies to Swords, Axes
-     - Max level: III
-     - Description: Chance to have the opponents head drop on death.
-       - Level I | Chance: 5% | Cooldown: 10 secs  | Effects: Drop Head (Victim)
-       - Level II	|  Chance: 10% | Cooldown: 10 secs | Effects: Drop Head (Victim)
-       - Level III | Chance: 15% | Cooldown: 10 sec | Effects: Drop Head (Victim)
+<b> Death Punch (V) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effect: </b> Randomly increases damage by 10% to 40% <br>
+<i> Increases damage dealt to Zombies. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 2 sec| 16%
+| II| 2 sec| 20%
+| III| 2 sec| 40%
+| IV| 1 sec| 60%
+| V| 0 sec| 80%
 
-   - Epicness 
-     - Applies to Swords
-     - Max level: III
-     - Description: Gives particles and sound effects.
-       - Level I | Chance: 20% | Cooldown: 3 secs  | Effects: Large Smoke Particles and Ghast Scream
-       - Level II	|  Chance: 40% | Cooldown: 3 secs | Effects: Large Smoke Particles and Ghast Scream
-       - Level III | Chance: 60% | Cooldown: 3 sec  | Effects: Large Smoke Particles and Ghast Scream
+<b> Decapitation (III) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effect: </b> Drops the head of the killed player <br>
+<i> Chance to have opponents head drop on death. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 10 sec| 3%
+| II| 10 sec| 6%
+| III| 10 sec| 9%
 
-   - Experience
-     - Applies to Tools
-     - Max level: V
-     - Description: Chance to get more experience from ores.
-       - Level I | Chance: 15% | Cooldown: 1 sec | Contidion: Will only affect on Ores  | Effects: Increase EXP 2 - 5 Randomly 
-       - Level II	|  Chance: 30% | Cooldown: 2 secs | Contidion: Will only affect on Ores  | Effects: Increase EXP 2 - 5 Randomly 
-       - Level III | Chance: 45% | Cooldown: 3 secs | Contidion: Will only affect on Ores  | Effects: Increase EXP 2 - 5 Randomly 
-       - Level IV | Chance: 60% | Cooldown: 4 secs | Contidion: Will only affect on Ores  | Effects: Increase EXP 2 - 5 Randomly 
-       - Level V	| Chance: 75% | Cooldown: 5 sec | Contidion: Will only affect on Ores  | Effects: Increase EXP 2 - 5 Randomly 
+<b> Epicness (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effect: </b> Smoke particles will appear and ghast sounds will play <br>
+<i> Gives particles and sound effects. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 3 sec| 20%
+| II| 3 sec| 40%
+| III| 3 sec| 60%
 
-   - Forcefield
-     - Applies to Swords
-     - Max level: V
-     - Description: Chance to push away your opponent.
-       - Level I | Chance: 30% | Cooldown: 12 secs | Effects: Your Enemy will push away at least 1 block away
-       - Level II	|  Chance: 36% | Cooldown: 12 secs | Effects: Your Enemy will push away at least 1.5 blocks away 
-       - Level III | Chance: 42% | Cooldown: 12 secs | Effects: Your Enemy will push away at least 2.0 blocks away 
-       - Level IV | Chance: 48% | Cooldown: 13 secs | Effects: Your Enemy will push away at least 2.5 blocks away
-       - Level V	| Chance: 56% | Cooldown: 13 secs | Effects: Your Enemy will push away at least 3 blocks away
+<b> Experience (V) </b><br>
+<b> Applies to: </b> Pickaxes, Shovels, Axes <br>
+<b> Effects: </b> Gives the player 2-5 EXP when breaking ores. <br>
+<i> Chance to get more experience from ores. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 1 sec| 15%
+| II| 2 sec| 30%
+| III| 3 sec| 45%
+| IV| 4 sec| 60%
+| V| 5 sec| 75%
 
-   - Glowing
-     - Applies to Helmets
-     - Max Level: I
-     - Description: Gives permanent night vision.
-        - Level I	| Effects: Infinite Night Vision
+<b> Forcefield (V) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Pulls away the victim by a certain distance relative to the level <br>
+<i> Chance to push away your opponent. </i><br>
+| Level | Cooldown | Chance | Pull Strength 
+| :-: | :-: | :-: | :-: 
+| I| 12 sec| 30%| 1.0
+| II| 12 sec| 36%| 1.5
+| III| 12 sec| 42%| 2.0
+| IV| 13 sec| 48%| 2.5
+| V| 13 sec| 54%| 3.0
 
-   - Hasten
-     - Applies to Tools
-     - Max level: III
-     - Description: Chance to gain Haste after breaking blocks.
-         - Level I | Chance: 15% | Cooldown: 3 secs | Duration: 40 secs | Effects: You will receive 2 secs of Haste
-         - Level II	| Chance: 25% | Cooldown: 3 secs  | Duration: 40 secs | Effects: You will receive 3 secs of Level 2 Haste
-         - Level III	| Chance: 45% | Cooldown: 3 secs  | Duration: 40 secs | Effects: You will receive 4 secs of Level 3 Haste
+<b> Immolate (III) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effects: </b> Randomly increases damage by 10% to 40% <br>
+<i> Increases damage dealt to Spiders </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 2 sec| 25%
+| II| 2 sec| 50%
+| III| 0 sec| 75%
 
-   - Potato Planter
-     - Applies to Hoes
-     - Max level: III
-     - Description: Plants potatoes in a 3x3 area by shift + right-clicking.
-         - Level I | Cooldown: 2 secs | Contidion: Need to Sneak and Right Click  | Effects: Potato seeds will be planted on 3x3
-         - Level II	| Cooldown: 2 secs | Contidion: Need to Sneak and Right Click  | Effects: Potato seeds will be planted on 3x3
-         - Level III	| Cooldown: 1 sec | Contidion: Need to Sneak and Right Click  | Effects: Potato seeds will be planted on 3x3
+<b> Infernal (III) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effects: </b> Sets the attacked entity on fire <br>
+<i> Explosive fire effect </i><br>
+| Level | Cooldown | Chance | Flame strength | Flame duration 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 2 sec| 15%| 2| 1 sec
+| II| 2 sec| 30%| 4| 2 sec
+| III| 2 sec| 50%| 6| 1 sec
 
-   - Rebreather
-     - Applies to Pickaxe
-     - Max level: II
-     - Description: Chance to regain air when mining underwater.
-        - Level I | Chance: 30% | Cooldown: 3 secs  | Effects: Fill Oxygen on the Oxygen bar
-        - Level II	| Chance: 60%  | Cooldown: 3 secs  | Effects: Fill Oxygen on the Oxygen bar
+<b> Plummet (III) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> Damages nearby mobs after taking fall damage <br>
+<i> Deal damage to nearby mobs\nwhen taking fall damage </i><br>
+| Level | Cooldown | Chance | Radius | Damage Strength 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 0 sec| 40%| 3| 2
+| II| 0 sec| 80%|  5| 3
+| III| 0 sec| 100%|  8| 5
 
-   - Smelting
-     - Applies to Pickaxe
-     - Max level: III
-     - Description: Chance to smelt mined blocks.
-        - Level I | Chance: 33%| Effects: Smelt
-        - Level II	| Chance: 66% | Effects: Smelt
-        - Level III	| Chance: 100%| Effects: Smelt
-   - Strike
-      - Applies to Swords, Bows, Crossbows, Tridents
-      - Max level: III
-      - Description: Chance to strike lightning at the opponents.
-         - Level I | Chance: 24% | Cooldown: 3 secs | Effects: Your Enemy will receive Lightning.
-         - Level II	|  Chance: 32% | Cooldown: 3 secs | Effects: Your Enemy will receive Lightning.
-         - Level III | Chance: 40% | Cooldown: 3 sec | Effects: Your Enemy will receive Lightning.
-   - Aquatic 
-     - Applies to Helmets
-     - Max Level: I
-     - Description: Breath underwater.
-         - Level I | Effects: You will receive Water Breathing Effect.
+<b> Potato Planter (III) </b><br>
+<b> Applies to: </b> Hoes <br>
+<b> Effects: </b> Plants seeds on a 3x3 area <br>
+<i> Plant potatoes in a 3x3 area\nby shift+right-clicking. </i><br>
+| Level | Cooldown 
+| :-: | :-: 
+| I| 3 sec
+| II| 2 sec
+| III| 0 sec
+
+<b> Rebreather (II) </b><br>
+<b> Applies to: </b> Pickaxes <br>
+<b> Effects: </b> Fills your oxygen bar <br>
+<i> Chance to regain air when mining underwater </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 3 sec| 30%
+| II| 3 sec| 60%
+
+<b> Strike (III) </b><br>
+<b> Applies to: </b> Tridents, Bows, Crossbows, Swords <br>
+<b> Effects: </b> Strikes the opponent with lightning <br>
+<i> Chance to strike lightning at the opponent. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 3 sec| 24%
+| II| 3 sec| 32%
+| III| 4 sec| 40%
+
+<b> Thunderlord (III) </b><br>
+<b> Applies to: </b> Axes, Swords <br>
+<b> Effects: </b> Strikes the mob with lightning <br>
+<b> Condition: </b> Have a 3-hit combo against the mob <br>
+<i> Strike monsters with lightning every 3 consecutive hits </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 2 sec| 25%
+| II| 2 sec| 45%
+| III| 2 sec| 75%
 
 
 
