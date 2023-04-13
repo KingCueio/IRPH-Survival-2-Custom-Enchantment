@@ -161,151 +161,392 @@ If you want to find the specific word, just do **F3**, and type the word you wan
   -
 
 
-   - Berserk
-     - Applies to Axes, Swords
-     - Max level: V
-     - Description: Chance of strength and mining fatigue.
-       - Level I | Chance: 4% | Cooldown: 8 secs | Effects: You will get 3 Secs of Level 0 of Mining Fatigue and Level 0 of Strength.
-       - Level II	|  Chance: 8% | Cooldown: 7 secs | Effects: You will get 4 Secs of Level 0 of Mining Fatigue and Level 0 of Strength.
-       - Level III | Chance: 12% | Cooldown: 6 secs | Effects: You will get 5 Secs of Level 0 of Mining Fatigue and Level 0 of Strength.
-       - Level IV	|  Chance: 16% | Cooldown: 5 secs | Effects: You will get 4 Secs of Level 1 of Mining Fatigue and Level 1 of Strength.
-       - Level V | Chance: 20% | Cooldown: 4 secs | Effects: You will get 5 Secs of Level 1 of Mining Fatigue and Level 1 of Strength.
-   - Devour
-     - Applies to Axes, Swords (Weapons)
-     - Max level: III
-     - Description: Chance to restore food while killing mobs.
-       - Level I | Chance: 10% | No Cooldown | Effects: Your Food bar will increase 1 food.
-       - Level II	|  Chance: 15% | No Cooldown | Effects: Your Food bar will increase 1 food.
-       - Level III | Chance: 20% | No Cooldown | Effects: Your Food bar will increase 1 food.
-   - Explosive
-     - Applies to Bow
-     - Max level: V
-     - Description: Chance for arrows to explode.
-       - Level I | Chance: 20% | Cooldown: 7 secs | Effects: Your Target will receive a tnt explosion.
-       - Level II	|  Chance: 30% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
-       - Level III | Chance: 40% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
-       - Level IV	|  Chance: 50% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
-       - Level V | Chance: 60% | Cooldown: 9 secs | Effects: Your Target will receive a tnt explosion.
+   <b> Aegis (III) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> Gain speed effect with potency depending on level <br>
+<b> Condition: </b> Take fall damage <br>
+<i> Chance to gain speed when taking fall damage </i><br>
+| Level | Cooldown | Chance | Speed Level | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 3 sec| 40%| I| 25 souls
+| II| 3 sec| 60%| II| 50 souls
+| III| 3 sec| 70%| III| 75 souls
 
-   - Explosive Demise
-     - Applies to Leggings
-     - Max level: VIII
-     - Description: Summon creepers as your guards when near death.
-       - Level I | Chance: 13% | Cooldown: 3 secs | Condition: Will only activate if you have less than 6 hearts |  Effects: You will spawn at least 1 creeper that lasts 8 secs and the Attaker will get 2 secs of level 0 blindness
-       - Level II	|  Chance: 17% | Cooldown: 3 secs | Condition: Will only activate if you have less than 6 hearts |  Effects: You will spawn at least 1 creeper that lasts 8 secs and the Attaker will get 3 secs of level 0 blindness
-       - Level III | Chance: 24% | Cooldown: 3 secs | Condition: Will only activate if you have less than 7 hearts |  Effects: You will spawn at least 1 creeper that lasts 8 secs and the Attaker will get 5 secs of level 0 blindness
-       - Level IV	|  Chance: 30% | Cooldown: 3 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 1 creeper that lasts 8 secs and the Attaker will get 2 sec of level 1 blindness
-       - Level V | Chance: 38% | Cooldown: 3 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 4 sec of level 1 blindness
-       - Level VI | Chance: 46% | Cooldown: 3 secs | Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 6 sec of level 1 blindness
-       - Level VII	|  Chance: 55% | Cooldown: 5 secs | Condition: Will only activate if you have less than 8 hearts |  Effects: You will spawn at least 2 creepers that lasts 8 secs and the Attaker will get 3 sec of level 2 blindness
-       - Level VIII | Chance: 69% | Cooldown: 3 secs | Condition: Will Only Affect Ores |  Effects: You will spawn at least 3 creepers that lasts 8 secs and the Attaker will get 5 sec of level 2 blindness
+<b> Allure (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Pulls the mob closer <br>
+<i> Your attack pulls mobs towards you </i><br>
+| Level | Cooldown | Chance | Pull Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 0 sec| 30%| 0.1| 5
+| II| 0 sec| 60%| 0.2| 7
+| III| 0 sec| 100%| 0.3| 10
 
-   - Famine
-     - Applies to Axes, Swords (Weapons)
-     - Max level: IV
-     - Description: A chance to give your opponent the hunger effect.
-       - Level I | Chance: 12% | Cooldown: 8 secs | Effects: Your Target will get 4 secs of level 0 hunger.
-       - Level II	|  Chance: 15% | Cooldown: 8 secs | Effects: Your Target will get 6 secs of level 0 hunger.
-       - Level III | Chance: 18% | Cooldown: 8 secs | Effects: Your Target will get 4 secs of level 1 hunger.
-       - Level IV	|  Chance: 22% | Cooldown: 8 secs | Effects: Your Target will get 6 secs of level 1 hunger.
+<b> Axe of Spirits (III) </b><br>
+<b> Applies to: </b> axes <br>
+<b> Effects: </b> Chance to get 1 extra soul from killing players <br>
+<i> Chance to get more souls from killing players </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 0 sec| 45%
+| II| 0 sec| 65%
+| III| 0 sec| 75%
 
-   - FeatherWeight
-     - Applies to Swords, Axes
-     - Max level: III
-     - Description: Chance to get a burst of haste.
-       - Level I | Chance: 35% | Cooldown: 8 secs | Effects: You will get 3 secs of Level 0 Fast Swing
-       - Level II	|  Chance: 55% | Cooldown: 8 secs | Effects: You will get 4 secs of Level 1 Fast Swing
-       - Level III | Chance: 75% | Cooldown: 8 secs | Effects: You will get 5 secs of Level 2 Fast Swing
-   - Frenzy
-     - Applies to Crossbow
-     - Max level: V
-     - Description: Chance for arrows to explode.
-       - Level I | Chance: 20% | Cooldown: 7 secs | Effects: Your Target will receive a tnt explosion.
-       - Level II	|  Chance: 30% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
-       - Level III | Chance: 40% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
-       - Level IV	|  Chance: 50% | Cooldown: 8 secs | Effects: Your Target will receive a tnt explosion.
-       - Level V | Chance: 60% | Cooldown: 9 secs | Effects: Your Target will receive a tnt explosion.
-   - Hunter
-     - Applies to Bow, Crossbow, Trident
-     - Max level: IV
-     - Description: Increases damage dealt to Passive Mobs.
-       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10% to 40% damage
-       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
-       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
-       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
-   - Molten
-     - Applies to Armor
-     - Max level: IV
-     - Description: Chance of setting your attacker ablaze.
-       - Level I | Chance: 21% | Cooldown: 2 secs | Effects: Your Attacker will bet set on fire on 2 secs
-       - Level II	|  Chance: 32% | Cooldown: 2 secs | Effects: Your Attacker will bet set on fire on 4 secs
-       - Level III | Chance: 49% | Cooldown: 2 secs | Effects: Your Attacker will bet set on fire on 6 secs
-       - Level IV	|  Chance: 63% | Cooldown: 2 secs | Effects: Your Attacker will bet set on fire on 8 secs
-   - Perish
-     - Applies to Bow, Crossbow, Trident
-     - Max level: V
-     - Description: A chance to give the wither effect.
-       - Level I | Chance: 9% | Cooldown: 3 secs | Effects: Your Attack will have 3 secs of Level 0 Wither
-       - Level II	|  Chance: 11% | Cooldown: 3 secs |  Effects: Your Attack will have 5 secs of Level 0 Wither
-       - Level III | Chance: 14% | Cooldown: 3 secs | Effects: Your Attack will have 7 secs of Level 0 Wither
-       - Level IV	|  Chance: 17% | Cooldown: 3 secs | Effects: Your Attack will have 3 secs of Level 1 Wither
-       - Level V	|  Chance: 21% | Cooldown: 3 secs |  Effects: Your Attack will have 5 secs of Level 1 Wither
-   - Ravenous
-     - Applies to Axes, Swords
-     - Max level: IV
-     - Description: Chance to regain hunger while fighting.
-       - Level I | Chance: 14% | Cooldown: 2 secs | Effects: Your Food bar will increase 1 to 4 food randomly.
-       - Level II	|  Chance: 18% | Cooldown: 2 secs | Effects: Your Food bar will increase 1 to 4 food randomly.
-       - Level III | Chance: 22% | Cooldown: 2 secs | Effects: Your Food bar will increase 1 to 4 food randomly.
-       - Level IV | Chance: 26% | Cooldown: 2 secs | Effects: Your Food bar will increase 1 to 4 food randomly.
-   - Reflect
-     - Applies to Armor
-     - Max level: V
-     - Description: Absorb enemy damage and reflect it back.
-   - Replanter
-     - Applies to Hoes
-     - Max level: I
-     - Description: Replants crops when harvested
-         - Level I | Contidion: You have to break if it's already harvested | Effects: The crop seed will be replanted.
-   - Slayer
-     - Applies to Axes, Swords
-     - Max level: IV
-     - Description: Increases damage dealt to Passive Mobs.
-       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10% to 40% damage
-       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
-       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
-       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10% to 40% damage
-   - Soulless
-     - Applies to Bow, Crossbow, Trident
-     - Max level: IV
-     - Description: Increases damage dealt to Hostile Mobs.
-       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will only affect Passive Mobs |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level II	|  Chance: 50% | Cooldown: 2 secs | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level III | Chance: 75% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-       - Level IV	|  Chance: 100% | No Cooldown | Condition: Will only affect Passive Mob |  Effects: Your Attack will increase damage randomly 10 to 40 damage
-   - Telepathy
-     - Applies to Tools
-     - Max level: IV
-     - Description: Automatically places blocks broken by tools in your inventory.
-         - Level I | Effects: Teleports block drops into player's inventory
-         - Level II | Effects: TTeleports block drops into player's inventory
-         - Level III | Effects: Teleports block drops into player's inventory
-         - Level IV | Effects: Teleports block drops into player's inventory
-   - Virus
-     - Applies to Bow, Crossbow, Trident
-     - Max level: III
-     - Description: A chance of giving poison effect.
-       - Level I | Chance: 6% | Cooldown: 2 secs | Effects: Your Attack will have 4 secs of Level 0 Poison
-       - Level II	|  Chance: 22% | Cooldown: 2 secs |  Effects: Your Attack will have 6 secs of Level 0 Poison
-       - Level III | Chance: 35% | Cooldown: 2 secs | Effects: Your Attack will have 4 secs of Level 1 Poison
-   - Ward
-     - Applies to Armor
-     - Max level: IV
-     - Description: A chance to absorb enemy damage
-       - Level I | Chance: 3% | Cooldown: 5 secs | Effects: It will cancel the attack
-       - Level II	|  Chance: 7% | Cooldown: 5 secs |  Effects: It will cancel the attack
-       - Level III | Chance: 11% | Cooldown: 5 secs | Effects: It will cancel the attack
-       - Level IV | Chance: 15% | Cooldown: 5 secs | Effects: It will cancel the attack
+<b> Berserk (V) </b><br>
+<b> Applies to: </b> Axes, Swords <br>
+<b> Effects: </b> Player holding the weapon will get mining fatigue and strength <br>
+<i> Chance of strength and mining fatigue </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 8 sec| 4%| I for 3 sec| 30
+| II| 7 sec| 8%|  I for 4 sec| 35
+| III| 6 sec| 12%|  I for 5 sec| 40
+| IV| 5 sec| 16%|  II for 4 sec| 45
+| V| 4 sec| 20%|  II for 5 sec| 50
+
+<b> Blacksmith (V) </b><br>
+<b> Applies to: </b> Axes <br>
+<b> Effects: </b> Deal half damage, but increase weapon durability by 1 <br>
+<i> Repair your weapon in exchange of dealing less damage </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 3 sec| 9%| 5
+| II| 3 sec| 15%| 10
+| III| 3 sec| 23%| 15
+| IV| 3 sec| 31%| 20
+| V| 3 sec| 39%| 25
+
+<b> Convulse (VI) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> Boosts the attacker upwards <br>
+<i> Chance to throw your attackers into the air </i><br>
+| Level | Cooldown | Chance | Boost Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 10 sec| 8%| 5| 5
+| II| 10 sec| 10%| 6| 10
+| III| 10 sec| 12%| 7| 15
+| IV| 10 sec| 14%| 8| 20
+| V| 10 sec| 16%| 9| 25
+| VI| 10 sec| 18%| 10| 30
+
+<b> Extinguish (III) </b><br>
+<b> Applies to: </b> Leggings <br>
+<i> Chance to extinguish yourself when on fire </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 0 sec| 20%| 3
+| II| 0 sec| 60%| 5
+| III| 0 sec| 80%| 8
+
+<b> Famine (IV) </b><br>
+<b> Applies to: </b> Axes, Swords <br>
+<b> Effect: </b> Gives the opponent hunger <br>
+<i> A chance to give your opponent the hunger effect. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 8 sec| 12%| I for 4 sec| 10
+| II| 8 sec| 15%|  I for 6 sec| 15
+| III| 8 sec| 18%|  II for 4 sec| 20
+| IV| 8 sec| 22%|  II for 6 sec| 25
+
+<b> Featherweight (III) </b><br>
+<b> Applies to: </b> Axes, Swords <br>
+<b> Effect: </b> Gives the player haste effect <br>
+<i> Chance to get a burst of haste </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 2 sec| 35%| I for 3 sec| 10
+| II| 2 sec| 55%| II for 4 sec| 15
+| III| 2 sec| 75%| III for 5 sec| 20
+
+<b> Frenzy (V) </b><br>
+<b> Applies to: </b> Crossbows <br>
+<b> Effect: </b> Create a TNT explosion on the target <br>
+<i> Chance for arrows to explode </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 7 sec| 20%| 5
+| II| 8 sec| 30%| 10
+| III| 8 sec| 40%| 15
+
+<b> Hasten (III) </b><br>
+<b> Applies to: </b> Pickaxes, Shovels, Axes <br>
+<b> Effect: </b> Chance to give player haste effect after breaking a block <br>
+<i> Chance to gain Haste after breaking blocks </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 3 sec| 15%| I for 2 sec| 3
+| II| 3 sec| 25%| II for 3 sec| 5
+| III| 3 sec| 45%| III for 4 sec| 8
+
+<b> Hellfire (V) </b><br>
+<b> Applies to: </b> Bows <br>
+<b> Effect: </b> Attacked player is hit with a fireball <br>
+<i> Arrows turn into fireballs </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 3 sec| 10%| 3
+| II| 3 sec| 25%| 5
+| III| 3 sec| 35%| 8
+| IV| 3 sec| 50%| 12
+| V| 3 sec| 70%| 18
+
+<b> Hook (III) </b><br>
+<b> Applies to: </b> Fishing Rods <br>
+<b> Effect: </b> Chance to double exp gained from fishing <br>
+<i> Get more exp from fishing </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 12 sec| 15%| 2
+| II| 12 sec| 25%| 4
+| III| 12 sec| 35%| 6
+
+<b> Hunter (IV) </b><br>
+<b> Applies to: </b> Bows, Crossbows, Tridents <br>
+<b> Effect: </b> Randomly increases damage by 10% to 40% <br>
+<b> Condition: </b> Mob must be not hostile <br>
+<i> Increases damage dealt to Passive Mobs </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 2 sec| 25%| 5
+| II| 2 sec| 50%| 7
+| III| 0 sec| 75%| 8
+| IV| 0 sec| 100%| 10
+
+<b> Immolation (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effect: </b> Burns all mobs in a specific radius that scales with level <br>
+<i> Set all mobs in radius on fire </i><br>
+| Level | Cooldown | Chance | Burn Radius and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 10%| 2 blocks for 2 sec| 5
+| II| 5 sec| 12%| 6 blocks for 2.5 sec| 6
+| III| 5 sec| 16%| 4 blocks for 3 sec| 8
+
+<b> Inflame (III) </b><br>
+<b> Applies to: </b> Axes <br>
+<b> Effect: </b> Burns players in a specific radius that scales with level <br>
+<i> Set all players in radius on fire </i><br>
+| Level | Cooldown | Chance | Burn Radius and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 10%| 2 blocks for 2 sec| 5
+| II| 5 sec| 12%|  4 blocks for 2.5 sec| 7
+| III| 5 sec| 16%|  4 blocks for 3 sec| 9
+
+<b> Judgement (V) </b><br>
+<b> Applies to: </b> Elytra <br>
+<b> Effect: </b> Gives the player regeneration effect and the opposing player Poison I for 5 seconds <br>
+<i> Chance of poisoning opponeng and gaining regeneration </i><br>
+| Level | Cooldown | Chance | Regen Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 20 sec| 6%| I for 5 sec| 10
+| II| 20 sec| 8%| I for 5 sec| 12
+| III| 20 sec| 10%| I for 5 sec| 15
+| IV| 20 sec| 12%| II for 3 sec| 17
+| V| 25 sec| 16%|  II for 5 sec| 20
+
+<b> Launch (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effect: </b> Chance to boost the player upwards by a certain amount of blocks <br>
+<i> Launch yourself by right-clicking </i><br>
+| Level | Cooldown | Chance | Boost Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 15 sec| 20%| 8| 5
+| II| 15 sec| 27%| 9| 10
+| III| 10 sec| 35%| 10| 15
+
+<b> Missile (V) </b><br>
+<b> Applies to: </b> Crossbows <br>
+<b> Effect: </b> Hits the opposing player with a fireball <br>
+<i> Arrows turn into fireballs </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 3 sec| 10%| 5
+| II| 3 sec| 25%| 7
+| III| 3 sec| 35%| 9
+| IV| 3 sec| 50%| 12
+| V| 3 sec| 70%| 15
+
+<b> Molten (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Sets the attacker on flames <br>
+<i> Chance of setting your attacker ablaze </i><br>
+| Level | Cooldown | Chance | Flame Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 2 sec| 21%| 2| 5
+| II| 2 sec| 32%| 4| 7
+| III| 2 sec| 49%| 6| 9
+| IV| 2 sec| 63%| 8| 11
+
+<b> Nether Slayer (V) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effect: </b> Randomly increases damage dealt to mobs by 10% to 40% <br>
+<b> Condition: </b> The mob must be a Blaze, Zombified Piglin, or a Ghast <br>
+<i> Increases damage dealt to nether mobs </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 2 sec| 16%| 9
+| II| 2 sec| 21%| 12
+| III| 2 sec| 29%| 15
+| IV| 2 sec| 34%| 17
+| V| 2 sec| 41%| 20
+
+<b> Patch (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Chance to raise the armor durability by a certain amount <br>
+<b> Condition: </b> Must be hit by a mob <br>
+<i> Chance to recover durability when damaged by mobs </i><br>
+| Level | Cooldown | Chance | Durability Restored | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 7 sec| 25%| 1| 10
+| II| 7 sec| 35%| 1| 15
+| III| 7 sec| 45%| 2| 20
+
+<b> Perish (V) </b><br>
+<b> Applies to: </b> Tridents, Bows, Crossbows <br>
+<b> Effects: </b> Gives the attacked entity wither effect <br>
+<i> A chance to give the wither effect </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 3 sec| 9%| I for 3 sec| 15
+| II| 3 sec| 11%| I for 5 sec| 25
+| III| 3 sec| 14%| I for 7 sec| 35
+| IV| 3 sec| 17%| II for 3 sec| 45
+| V| 3 sec| 21%| II for 5 sec| 55
+
+<b> Poison (III) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effects: </b> Gives the attacked entity poison effect <br>
+<i> A chance of giving poison effect </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 2 sec| 6%| I for 4 sec| 25
+| II| 2 sec| 22%|  I for 6 sec| 35
+| III| 2 sec| 35%|  II for 4 sec| 50
+
+<b> Poisoned (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Gives the attacker poison effect. Also works against projectiles. <br>
+<i> Chance to give poison to your attacker </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 6 sec| 8%| I for 3 sec| 15
+| II| 6 sec| 12%|  I for 6 sec| 20
+| III| 6 sec| 17%|  II for 3 sec| 25
+| IV| 6 sec| 23%|  II for 6 sec| 30
+
+<b> Ravenous (IV) </b><br>
+<b> Applies to: </b> Axes, Swords <br>
+<b> Effects: </b> Randomly increases the hunger bar by 1 to 4 when hitting an entity <br>
+<i> Chance to regain hunger while fighting </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 2 sec| 14%| 7
+| II| 2 sec| 18%| 10
+| III| 2 sec| 22%| 13
+| IV| 2 sec| 26%| 15
+
+<b> Rocket Escape (III) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> When HP reaches equal to or below 3 hearts, the player will be boosted up <br>
+<i> Blast off into the air at low HP </i><br>
+| Level | Cooldown | Chance | Boost Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 8 sec| 20%| 30| 10
+| II| 8 sec| 34%| 45| 15
+| III| 8 sec| 40%| 50| 20
+
+<b> Slayer (IV) </b><br>
+<b> Applies to: </b> Axes, Swords <br>
+<b> Effects: </b> Randomly increases damage by 10% to 40% <br>
+<b> Condition: </b> Attacked mob must be passive <br>
+<i> Increases damage dealt to Passive Mobs </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 2 sec| 25%| 2
+| II| 2 sec| 50%| 5
+| III| 0 sec| 75%| 7
+| IV| 0 sec| 100%| 10
+
+<b> Slingshot (III) </b><br>
+<b> Applies to: </b> Elytra <br>
+<b> Effects: </b> Boosts the player by a certain amount of blocks <br>
+<i> Boost yourself into flight by right-clicking </i><br>
+| Level | Cooldown | Chance | Boost Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 15 sec| 20%| 10| 10
+| II| 10 sec| 40%| 12| 20
+| III| 5 sec| 50%| 16| 30
+
+<b> Smelting (III) </b><br>
+<b> Applies to: </b> Pickaxes <br>
+<b> Effects: </b> Smelts the mined blocks. Works with some non-ore blocks. <br>
+<i> Chance to smelt mined blocks </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 0 sec| 33%| 5
+| II| 0 sec| 66%| 7
+| III| 0 sec| 100%| 10
+
+<b> Snap (III) </b><br>
+<b> Applies to: </b> Fishing Rods <br>
+<b> Effects: </b> Pulls the entity closer to you <br>
+| Level | Cooldown | Chance | Pull Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 15%| 1| 5
+| II| 6 sec| 25%| 1.5| 7
+| III| 8 sec| 35%| 2| 10
+
+<b> Spark (III) </b><br>
+<b> Applies to: </b> Tridents <br>
+<b> Effects: </b> Sets the attacked entity on fire. Works with melee and ranged attacks. <br>
+<i> Light opponents on fire. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 3 sec| 15%| 10
+| II| 6 sec| 25%| 15
+| III| 8 sec| 35%| 20
+
+<b> Spiritmaster (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Gives the player 1 extra soul per kill <br>
+<i> Chance to get more souls from killing players </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 0 sec| 35%
+| II| 0 sec| 45%
+| III| 0 sec| 55%
+
+<b> Suspend (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Removes knockback dealt to mobs <br>
+<i> Chance to cause no knockback to mobs </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 0 sec| 40%| 5
+| II| 0 sec| 80%| 10
+| III| 0 sec| 100%| 15
+
+<b> Virus (III) </b><br>
+<b> Applies to: </b> Tridents, Bows, Crossbows <br>
+<b> Effects: </b> Chance to give the attacked mob poison effect <br>
+<i> A chance of giving poison effect </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 2 sec| 6%| I for 4 sec| 5
+| II| 2 sec| 22%| I for 6 sec| 10
+| III| 2 sec| 35%| II for 4sec| 15
+
+<b> Ward (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Stops incoming attack. Does not deal damage nor knockback. <br>
+<i> A chance to absorb enemy damage </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 5 sec| 3%| 25
+| II| 5 sec| 7%| 40
+| III| 5 sec| 11%| 50
+| IV| 5 sec| 15%| 60
   
   
   
