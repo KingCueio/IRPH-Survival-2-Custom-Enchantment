@@ -561,339 +561,474 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 
-- **Elite Custom Enchantments**
-  -
+## **Elite Custom Enchantments**
+ <b> Aquatic (I) </b><br>
+<b> Applies to: </b> Helmets <br>
+<b> Effects: </b> Gives you water breathing effect  <br>
+<i> Breathe underwater. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 0 sec| 100%
 
+<b> Armored (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Reduces incoming damage by percentage <br>
+<b> Conditions: </b> Attacker must be holding a sword <br>
+<i> Decreases damage from enemy swords by 2% per level. </i><br>
+| Level | Cooldown | Chance | Damage Reduction | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 8 sec| 6%| 2%| 10
+| II| 8 sec| 12%| 4%| 20
+| III| 8 sec| 16%| 6%| 30
+| IV| 8 sec| 20%| 8%| 40
 
-   - Allure
-     - Applies to Swords
-     - Max level: III
-     - Description: Your attack pulls mobs towards you.
-       - Level I | Chance: 30% | No Cooldown | Effects: The attack will pull mobs closer to you.
-       - Level II	|  Chance: 60% | No Cooldown |  Effects: The attack will pull mobs closer to you.
-       - Level III | Chance: 100% | No Cooldown | Effects: The attack will pull mobs closer to you.
-   - Blind
-     - Applies to Swords
-     - Max level: III
-     - Description: A chance of causing blindness when attacking.
-       - Level I | Chance: 17% | Cooldown: 3 secs | Effects: The Enemy will receive 3 secs of blindness.
-       - Level II	|  Chance: 25% | Cooldown: 3 secs |  Effects: The Enemy will receive 4 secs of level 1 blindness.
-       - Level III | Chance: 33% | Cooldown: 3 secs | Effects: The Enemy will receive 5 secs of level 2 blindness.
-   - Blunt Force
-     - Applies to Axes
-     - Max level: IV
-     - Description: Chance to strike with great force.
-       - Level I | Chance: 5% | Cooldown: 5 secs | Effects: Your Attack will have 1 Extra Damage 
-       - Level II	|  Chance: 8% | Cooldown: 5 secs |  Effects: Your Attack will have 2 Extra Damage 
-       - Level III | Chance: 10% | Cooldown: 5 secs | Effects: Your Attack will have 3 Extra Damage 
-       - Level IV | Chance: 12% | Cooldown: 5 secs | Effects: Your Attack will have 4 Extra Damage 
-   - Bowmaster
-     - Applies to Bow, Crossbow, Trident
-     - Max level: V
-     - Description: Multiplies damage against players who are wielding a Sword at the time they are hit.
-   - Critical
-     - Applies to Swords
-     - Max level: III
-     - Description: Increase damage done with critical hit.
-       - Level I | Chance: 7% | Cooldown: 5 secs | Effects: Your Attack will increase 10% with Critical Damage.
-       - Level II	|  Chance: 8% | Cooldown: 5 secs |  Effects: Your Attack will increase 15% with Critical Damage.
-       - Level III | Chance: 12% | Cooldown: 5 secs | Effects: Your Attack will increase 20% with Critical Damage.
-   - Curse
-     - Applies to Axes
-     - Max level: II
-     - Description: Chance to give your enemy mining fatigue.
-       - Level I | Chance: 13% | No Cooldown | Effects: The Enemy will receive 5 secs of Mining Fatigue
-       - Level II	|  Chance: 17% | Cooldown: 15 secs |  Effects: The Enemy will receive 5 secs of Level 1 Mining Fatigue
-   - Ender Slayer
-     - Applies to Axes, Swords (Weapons)
-     - Max level: V
-     - Description: Increases damage dealt to Enderman and Ender dragons.
-       - Level I | Chance: 16% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level II | Chance: 21% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level III | Chance: 29% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level IV | Chance: 34% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level V | Chance: 41% | Cooldown: 2 secs | Condition: Will onfly affect Enderman and Ender Dragon | Effects: Your Attack will increase 10% to 40% damage randomly
-   - Extinguish
-     - Applies to Leggings
-     - Max level: III
-     - Description: Chance to extinguish yourself when on fire.
-       - Level I | Chance: 20% | No Cooldown | Effects: Fire will be removed by the CE.
-       - Level II	|  Chance: 60% | No Cooldown |  Effects: Fire will be removed by the CE.
-       - Level III | Chance: 80% | No Cooldown | Effects: Fire will be removed by the CE.
-   - Frozen
-     - Applies to Armor
-     - Max level: III
-     - Description: Can cause slowness to attacker when defending.
-       - Level I | Chance: 19% | Cooldown: 6 secs | Effects: Your Enemy will receive 2 secs of Slowness
-       - Level II	|  Chance: 19% | Cooldown: 6 secs |  Effects: Your Enemy will receive 2.5 secs of Level 1 Slowness
-       - Level III | Chance: 26% | Cooldown: 6 secs | Effects: Your Enemy will receive 3 secs of Level 2 Slowness
-   - Greatsword
-     - Applies to Sword
-     - Max level: V
-     - Description: Multiplies damage against players who are wielding a Bow at the time they are hit.
-       - Level I | Chance: 15% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level II | Chance: 25% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level III | Chance: 35% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level IV | Chance: 45% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level V | Chance: 55% | Cooldown: 2 secs | Condition: Will Only Affect the Enemy that is holding a bow. | Effects: Your Attack will increase 10% to 40% damage randomly
-   - Hook
-     - Applies to Fishing Rod
-     - Max level: III
-     - Description: Get more exp from fishing.
-       - Level I | Chance: 15% | Cooldown: 12 secs | Effects: You will recieve random XP
-       - Level II	|  Chance: 25% | Cooldown: 12 secs |  Effects: You will recieve random XP
-       - Level III | Chance: 35% | Cooldown: 12 secs | Effects: You will recieve random XP
-   - Immolate
-     - Applies to Axes, Swords
-     - Max level: III
-     - Description: Increases damage dealt to Spiders.
-       - Level I | Chance: 25% | Cooldown: 2 secs | Condition: Will Only Spiders | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level II | Chance: 50% | Cooldown: 2 secs | Condition: Will Only Spiders | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level III | Chance: 75% | Cooldown: 2 secs | Condition: Will Only Spiders | Effects: Your Attack will increase 10% to 40% damage randomly
-   - Impact
-     - Applies to Trident
-     - Max level: III
-     - Description: Chance to double dealt damage.
-       - Level I | Chance: 5% | Cooldown: 3 secs | Effects: Your Attack will Double Damage
-       - Level II	|  Chance: 8% | Cooldown: 3 secs |  Effects:Your Attack will Double Damage
-       - Level III | Chance: 11% | Cooldown: 5 secs | Effects: Your Attack will Double Damage
-       - Level IV | Chance: 14% | Cooldown: 6 secs | Effects: YYour Attack will Double Damage
-   - Infernal
-     - Applies to Axes, Swords
-     - Max level: III
-     - Description: Explosive fire effect.
-       - Level I | Chance: 15% | Cooldown: 2 secs | Effects: Your Victim will recieve Flame for 2 secs
-       - Level II	|  Chance: 30% | Cooldown: 2 secs |  Effects: Your Victim will recieve Flame for 4 secs
-       - Level III | Chance: 50% | Cooldown: 2 secs | Effects: Your Victim will recieve Flame for 6 secs
-   - Magnet
-     - Applies to Swords
-     - Max level: III
-     - Description: Your attack pulls players towards you.
-       - Level I | Chance: 30% | No Cooldown | Effects: The attack will pull players closer to you.
-       - Level II	|  Chance: 60% | No Cooldown |  Effects: The attack will pull players closer to you.
-       - Level III | Chance: 100% | No Cooldown | Effects: The attack will pull players closer to you.
-   - Marksman
-     - Applies to CrossBow
-     - Max level: IV
-     - Description: Increases damage dealt with Crossbows
-       - Level I | Chance: 13% | Cooldown: 3 secs | Condition: Will Only Affect the Enemy that is holding a CrossBow. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level II | Chance: 19% | Cooldown: 3 secs | Condition: Will Only Affect the Enemy that is holding a CrossBow. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level III | Chance: 25% | Cooldown: 3 secs | Condition: Will Only Affect the Enemy that is holding a CrossBow. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level IV | Chance: 32% | Cooldown: 3 secs | Condition: Will Only Affect the Enemy that is holding a CrossBow. | Effects: Your Attack will increase 10% to 40% damage randomly
-   - Missile
-     - Applies to Crossbow
-     - Max level: V
-     - Description: Arrows turn into fireballs.
-       - Level I | Chance: 10% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
-       - Level II	|  Chance: 25% | Cooldown: 3 secs |  Effects: Your Attack will turn into Fireball.
-       - Level III | Chance: 35% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
-       - Level IV	|  Chance: 50% | Cooldown: 3 secs |  Effects: Your Attack will turn into Fireball.
-       - Level V | Chance: 70% | Cooldown: 3 secs | Effects: Your Attack will turn into Fireball.
-   - Momentum
-     - Applies to Elytra
-     - Max level: III
-     - Description: Chance to gain speed boost\nwith fireworks
-       - Level I | Chance: 15% | Cooldown: 3 secs | Condition: Will Only Affect If you are holding Firework Rocket | Effects: You will get 2 secs of Speed.
-       - Level II | Chance: 35% | Cooldown: 3 secs | Condition: Will Only Affect If you are holding Firework Rocket | Effects: You will get 3 secs of Level 1 Speed.
-       - Level III | Chance: 65% | Cooldown: 3 secs | Condition: Will Only Affect If you are holding Firework Rocket | Effects: You will get 4 secs of Level 2 Speed.
-   - Nether Slayer
-     - Applies to Axes, Swords (Weapons)
-     - Max level: V
-     - Description: Increases damage dealt to nether mobs.
-       - Level I | Chance: 16% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level II | Chance: 21% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level III | Chance: 29% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level IV | Chance: 34% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
-       - Level V | Chance: 41% | Cooldown: 2 secs | Condition: Will Only Affect Blaze, Zombie Pigman, and Pig Zombie. | Effects: Your Attack will increase 10% to 40% damage randomly
-   - Nightwalker
-     - Applies to Swords
-     - Max level: III
-     - Description: Freeze mobs at night.
-       - Level I | Chance: 40% | No Cooldown | Condition: Will Only Effect if Its Night Time. | Effects: The Attack to Mobs, They will receive 20 secs of Level 20
-       - Level II | Chance: 70% | No Cooldown | Condition: Will Only Effect if Its Night Time. | Effects: The Attack to Mobs, They will receive 20 secs of Level 20
-       - Level III | Chance: 100% | No Cooldown | Condition: Will Only Effect if Its Night Time. | Effects: The Attack to Mobs, They will receive 20 secs of Level 20
+<b> Bait (III) </b><br>
+<b> Applies to: </b> Fishing Rod <br>
+<b> Effects: </b> Doubles the drop from fishing <br>
+<i> Chance to receive double fishing drops. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 10 sec| 15%| 10
+| II| 15 sec| 18%| 10
+| III| 20 sec| 26%| 10
 
-   - Paralyze
-     - Applies to Axes, Swords (Weapons)
-     - Max level: IV
-     - Description: Gives lightning effect and a chance for slowness and slow swinging.
-       - Level I | Chance: 7% | Cooldown: 3 secs | Effects: Your Enemy wil Recieve Lightning, 3 secs of slowness, and 3 secs of fatigue.
-       - Level II | Chance: 7% | Cooldown: 3 secs | Effects: Your Enemy wil Recieve Lightning, 5 secs of slowness, and 5 secs of fatigue.
-       - Level III | Chance: 7% | Cooldown: 3 secs | Effects: Your Enemy wil Recieve Lightning, 3 secs of Level 1 slowness, and 3 secs of Level 1 fatigue.
-       - Level IV | Chance: 7% | Cooldown: 3 secs | Effects: Your Enemy wil Recieve Lightning, 5 secs of Level 1 slowness, and 5 secs of Level 1 fatigue.
-   - Poison
-     - Applies to Axes, Swords
-     - Max level: III
-     - Description: A chance of giving poison effect.
-       - Level I | Chance: 6% | Cooldown: 2 secs | Effects: Your Enemy will recieve 4 secs of Poison
-       - Level II	|  Chance: 22% | Cooldown: 2 secs |  Effects: Your Enemy will recieve 6 secs of Poison
-       - Level III | Chance: 35% | Cooldown: 2 secs | Effects: Your Enemy will recieve 4 secs of Level 1 Poison
-   - Poisoned
-     - Applies to Armor
-     - Max level: IV
-     - Description: Chance to give poison to your attacker.
-       - Level I | Chance: 8% | Cooldown: 6 secs | Effects: Your Enemy will recieve 3 secs of Poison
-       - Level II	|  Chance: 12% | Cooldown: 6 secs |  Effects: Your Enemy will recieve 6 secs of Poison
-       - Level III | Chance: 17% | Cooldown: 6 secs | Effects: Your Enemy will recieve 3 secs of Level 1 Poison
-       - Level IV	|  Chance: 23% | Cooldown: 6 secs |  Effects: Your Enemy will recieve 6 secs of level 1 Poison
-   - Poseidon
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
-   - Reaper
-     - Applies to Axes
-     - Max level: IV
-     - Description: A chance to give your opponent the Wither and Blindness effects while dealing damage
-       - Level I | Chance: 8% | Cooldown: 16 secs | Effects: Your Enemy will recieve 1.75 secs of Wither and 1.75 secs of Blindness
-       - Level II	|  Chance: 10% | Cooldown: 14 secs |  Effects: Your Enemy will recieve 2 secs of Wither and 2 secs of Blindness
-       - Level III | Chance: 12% | Cooldown: 12 secs | Effects: Your Enemy will recieve 2.5 secs of Wither and 2.5 secs of Blindness
-       - Level IV	|  Chance: 14% | Cooldown: 10 secs |  Effects: Your Enemy will recieve 3 secs of Wither and 3 secs of Blindness
-   - Reforged
-     - Applies to Axes, Swords, Pickaxe, Shovels
-     - Max level: X
-     - Description: Protects weapons and tools durability, items will be take longer to break.
-       - Level I | Chance: 10% | Effects: Your Tools, Weapons will get 1 Durability Amount.
-       - Level II | Chance: 20% | Effects: Your Tools, Weapons will get 1 Durability Amount.
-       - Level III | Chance: 30% | Effects: Your Tools, Weapons will get 2 Durability Amount.
-       - Level IV | Chance: 40% | Effects: Your Tools, Weapons will get 2 Durability Amount.
-       - Level V | Chance: 50% | Effects: Your Tools, Weapons will get 3 Durability Amount.
-       - Level VI | Chance: 60% | Effects: Your Tools, Weapons will get 3 Durability Amount.
-       - Level VII | Chance: 70% | Effects: Your Tools, Weapons will get 4 Durability Amount.
-       - Level VIII | Chance: 80% | Effects: Your Tools, Weapons will get 4 Durability Amount.
-       - Level IX | Chance: 90% | Effects: Your Tools, Weapons will get 5 Durability Amount.
-       - Level X | Chance: 100% | Effects: Your Tools, Weapons will get 5 Durability Amount.
+<b> Beastslayer (IV) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effects: </b> Randomly increases damage by 10% to 40% <br>
+<b> Conditions: </b> Mob must be hostile <br>
+<i> Increases damage dealt to Hostile Mobs. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 2 sec| 25%| 20
+| II| 2 sec| 50%| 30
+| III| 0 sec| 75%| 40
+| IV| 0 sec| 100%| 50
 
-   - Replenish
-     - Applies to Pickaxes
-     - Max level: III
-     - Description: Chance to restore food while mining.
-       - Level I | Chance: 30% | Effects: Your food bar will increase by 1 food
-       - Level II	|  Chance: 40% |  Effects: Your food bar will increase by 2 food
-       - Level III | Chance: 60% | Effects: Your food bar will increase by 3 food
-   - Rocket Escape
-     - Applies to Boots
-     - Max level: III
-     - Description: Blast off into the air at low HP.
-       - Level I | Chance: 20% | Cooldown: 8 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will get boost above 
-       - Level II | Chance: 34% | Cooldown: 8 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will get boost above 
-       - Level III | Chance: 40% | Cooldown: 8 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will get boost above 
-   - Shockwave
-     - Applies to Chestplates
-     - Max level: V
-     - Description: Chance to push back your attacker when your health is low.
-       - Level I | Chance: 10% | Cooldown: 4 secs | Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 0.5 block away.
-       - Level I | Chance: 20% | Cooldown: 4 secs| Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 1 block away.
-       - Level I | Chance: 30% | Cooldown: 4 secs | Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 1.5 blocks away.
-       - Level I | Chance: 40% | Cooldown: 4 secs | Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 2 blocks away.
-       - Level I | Chance: 50% | Cooldown: 4 secs | Condition: Will only effect if your health bar is less than 5 | Effects: Your Enemy will Pull away to you at least 2.5 block away.
-   - Smoke Bomb
-     - Applies to Helmet
-     - Max level: VIII
-     - Description: When you are near death, you will spawn a smoke bomb to distract your enemies.
-       - Level I | Chance: 9% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 4 | Effects: You will spawn Cloud Particles and Your Enemy will receive 3 secs of Blindness
-       - Level II | Chance: 15% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 4 | Effects: You will spawn Cloud Particles and Your Enemy will receive 3 secs of Blindness
-       - Level III | Chance: 23% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 4 | Effects: You will spawn Cloud Particles and Your Enemy will receive 5 secs of Blindness
-       - Level IV | Chance: 28% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 5 | Effects: You will spawn Cloud Particles and Your Enemy will receive 5 secs of Blindness
-       - Level V | Chance: 30% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 5 | Effects: You will spawn Cloud Particles and Your Enemy will receive 3 secs of Level 1 Blindness
-       - Level VI | Chance: 34% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 5 | Effects: You will spawn Cloud Particles and Your Enemy will receive 5 secs of Level 1 Blindness
-       - Level VII | Chance: 36% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will spawn Cloud Particles and Your Enemy will receive 7 secs of Level 1 Blindness
-       - Level VIII | Chance: 38% | Cooldown: 2 secs | Condition: Will only effect if your health bar is less than 6 | Effects: You will spawn Cloud Particles and Your Enemy will receive 6 secs of Level 2 Blindness
-   - Snap
-     - Applies to Fishing Rod
-     - Max level: III
-     - Description: Pull hit entity towards you.
-       - Level I | Chance: 15% | Cooldown: 4 secs | Effects: Any Entity that you hitted will pull closer to you.
-       - Level II	|  Chance: 25% | Cooldown: 6 secs |  Effects: Any Entity that you hitted will pull closer to you.
-       - Level III | Chance: 35% | Cooldown: 8 secs | Effects: Any Entity that you hitted will pull closer to you.
-   - Snare
-     - Applies to Bow and CrossBow
-     - Max level: IV
-     - Description: Chance to slow and fatigue enemies with projectiles.
-       - Level I | Chance: 12% | Cooldown: 3 secs | Effects: Your Enemy will recieve 4 secs of fatigue and 4 secs of slowness.
-       - Level II	|  Chance: 19% | Cooldown: 3 secs |  Effects: Your Enemy will recieve 6 secs of fatigue and 6 secs of slowness.
-       - Level III | Chance: 24% | Cooldown: 3 secs | Effects: Your Enemy will recieve 4 secs of level 1  fatigue and 4 secs of level 1 slowness.
-       - Level IV | Chance: 29% | Cooldown: 3 secs | Effects: Your Enemy will recieve 6 secs of level 1  fatigue and 6 secs of level 1 slowness.
-   - Spark
-     - Applies to Trident
-     - Max level: III
-     - Description: Light opponents on fire.
-       - Level I | Chance: 25% | Cooldown: 3 secs | Effects: Your Enemy will recieve 40 secs of Flame
-       - Level II	|  Chance: 35% | Cooldown: 6 secs |  Effects: Your Enemy will recieve 40 secs of Flame
-       - Level III | Chance: 15% | Cooldown: 8 secs | Effects: Your Enemy will recieve 40 secs of Flame
-   - Springs
-     - Applies to Boots
-     - Max level: III
-     - Description: Gives jump boost.
-       - Level I | Effects: You will receive High Jump
-       - Level II	|  Effects: You will receive Level 1 High Jump
-       - Level III | Effects: You will receive Level 2 High Jump
-   - Suspend
-     - Applies to Swords
-     - Max level: III
-     - Description: Chance to cause no knockback to mobs.
-       - Level I | Chance: 40% | Effects: Your attack will have no knockback to mobs.
-       - Level II	|  Chance: 80%   Effects: Your attack will have no knockback to mobs.
-       - Level III | Chance: 100% | Effects: Your attack will have no knockback to mobs.
-   - Trickster
-     - Applies to Armor
-     - Max level: VIII
-     - Description: When hit you have a chance to teleport directly behind you opponent.
-       - Level I | Chance: 8% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
-       - Level II | Chance: 14% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
-       - Level III | Chance: 17% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
-       - Level IV | Chance: 21% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
-       - Level V | Chance: 29% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
-       - Level VI | Chance: 37% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
-       - Level VII | Chance: 46% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
-       - Level VIII | Chance: 51% | Cooldown: 5 secs | Effects: You will be teleported behind your enemy.
-   - Undead Ruse
-     - Applies to Boots
-     - Max level: X
-     - Description: When hit you have a chance to spawn zombie hordes to distract and disorient your opponents.
-       - Level I | Chance: 3% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
-       - Level II | Chance: 4% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
-       - Level III | Chance: 5% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
-       - Level IV | Chance: 6% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
-       - Level V | Chance: 7% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 2 Zombies.
-       - Level VI | Chance: 8% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 3 Zombies.
-       - Level VII | Chance: 19% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 3 Zombies.
-       - Level VIII | Chance: 14% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 4 Zombies.
-       - Level IX | Chance: 18% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 4 Zombies.
-       - Level X | Chance: 22% | Cooldown: 6 secs | Effects: You will spawn 8 secs of 5 Zombies.
+<b> Bowmaster (V) </b><br>
+<b> Applies to: </b> Bow, Crossbow, Trident <br>
+<b> Effects: </b> Increase bow damage against bow users <br>
+<b> Conditions: </b> Both attacking and defending players must be holding a bow <br>
+<i> Multiplies damage against players who are wielding a Bow at the time they are hit. </i><br>
+| Level | Cooldown | Chance | Damage Increase Range | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 15%| 20%-40%| 50
+| II| 6 sec| 20%| 45%-70%| 75
+| III| 8 sec| 25%| 75%-100%| 100
+| IV| 10 sec| 30%| 105-130%| 150
+| V| 10 sec| 35%| 105-130%| 175
 
-   - Vampire
-     - Applies to Swords
-     - Max level: III
-     - Description: A chance to heal you for up to 3hp a few seconds after you strike.
-       - Level I | Chance: 7% | Cooldown: 4 secs | Effects: You will receive 1-6 hearts
-       - Level II	|  Chance: 12% | Cooldown: 4 secs |  Effects: You will receive 1-6 hearts
-       - Level III | Chance: 15% | Cooldown: 4 secs | Effects: You will receive 1-6 hearts
-   - Vein Miner
-     - Applies to Pickaxes
-     - Max level: III
-     - Description: "Mine entire vein of ores.
-       - Level I | Chance: 15% | Cooldown: 4 secs | Effects: Breaking all blocks in a vein of ore
-       - Level II	|  Chance: 35% | Cooldown: 3 secs |  Effects: Breaking all blocks in a vein of ore
-       - Level III | Chance: 100% | No Cooldown | Effects: Breaking all blocks in a vein of ore
-   - Voodoo
-     - Applies to Armor
-     - Max level: VI
-     - Description: Gives a chance to deal weakness.
-       - Level I | Chance: 5% | Cooldown: 2 secs | Effects: Your Enemy will recieve 3 secs of Weakness.
-       - Level II	|  Chance: 7% | Cooldown: 2 secs |  Effects: Your Enemy will recieve 5 secs of Weakness.
-       - Level III | Chance: 9% | Cooldown: 2 secs | Effects: Your Enemy will recieve 7 secs of Weakness.
-       - Level IV | Chance: 13% | Cooldown: 2 secs | Effects: Your Enemy will recieve 3 secs of Level 2 Weakness.
-       - Level V	|  Chance: 16% | Cooldown: 2 secs |  Effects: Your Enemy will recieve 5 secs of Level 2 Weakness.
-       - Level V	|  Chance: 21% | Cooldown: 2 secs |  Effects: Your Enemy will recieve 6 secs of Level 2 Weakness.
-   - Wither
-     - Applies to Armor
-     - Max level: V
-     - Description: A chance to give the wither effect.
-       - Level I | Chance: 9% | Cooldown: 3 secs | Effects: Your Enemy will recieve 3 secs of Wither.
-       - Level II	|  Chance: 11% | Cooldown: 3 secs |  Effects: Your Enemy will recieve 5 secs of Wither.
-       - Level III | Chance: 14% | Cooldown: 3 secs | Effects: Your Enemy will recieve 7 secs of Wither.
-       - Level IV | Chance: 17% | Cooldown: 3 secs | Effects: Your Enemy will recieve 3 secs of Level 2 Wither.
-       - Level V	|  Chance: 21% | Cooldown: 3 secs |  Effects: Your Enemy will recieve 5 secs of Level 2 Wither.
+<b> Confuse (IV) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Give the attacked player nausea effect <br>
+<i> Chance to give nausea effect. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 6 sec| 12%| I for 3 sec| 50
+| II| 7 sec| 14%|  II for 3 sec| 80
+| III| 8 sec| 16%|  III for 3 sec| 110
+| IV| 8 sec| 18%|  IV for 3 sec| 130
+
+<b> Curse (II) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Gives the attacking player mining fatigue effect that scales with level <br>
+<i> Chance to give your enemy mining fatigue. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 10 sec| 13%| I for 5 sec| 100
+| II| 15 sec| 17%|  II for 5 sec| 100
+
+<b> Deadshot (V) </b><br>
+<b> Applies to: </b> Trident <br>
+<b> Effects: </b> Increase damage by 100% <br>
+<b> Conditions: </b> Projectile must hit the head <br>
+<i> Headshots with tridents deal double damage. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 5 sec| 15%| 50
+| II| 5 sec| 20%| 75
+| III| 5 sec| 25%| 100
+| IV| 5 sec| 30%| 125
+| V| 5 sec| 35%| 150
+
+<b> Devour (III) </b><br>
+<b> Applies to: </b> Weapons <br>
+<b> Effects: </b> Increase food bar by 1 when killing mobs <br>
+<i> Chance to restore food while killing mobs. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 0 sec| 10%| 10
+| II| 0 sec| 15%| 10
+| III| 0 sec| 20%| 10
+
+<b> Diminish (III) </b><br>
+<b> Applies to: </b> Axes <br>
+<b> Effects: </b> Gives the attacked entity mining fatigue effect that scales with level <br>
+<i> Chance to give your enemy mining fatigue. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 8 sec| 13%| I for 5 sec| 50
+| II| 8 sec| 19%|  II for 3 sec| 75
+| III| 9 sec| 25%|  II for 5 sec| 100
+
+<b> Disintegrate (IV) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Removes 2 durability from the opponent's armor pieces <br>
+<i> Chance to deal extra durability damage to all enemy armor with every attack. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 2 sec| 12%| 20
+| II| 2 sec| 25%| 30
+| III| 2 sec| 39%| 40
+| IV| 2 sec| 46%| 50
+
+<b> Distance (IV) </b><br>
+<b> Applies to: </b> Weapons <br>
+<b> Effects: </b> Pulls the attacked unit away and give regeneration effect to the attacking player <br>
+<i> Chance to distance yourself from your enemies and gain regeneration. </i><br>
+| Level | Cooldown | Chance | Pull Distance | Regen Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 6 sec| 16%| 2| I for 1 sec| 50
+| II| 6 sec| 20%| 2.5|  I for 1 sec| 75
+| III| 6 sec| 24%| 3|  II for 1 sec| 100
+| IV| 6 sec| 28%| 3.5|  II for 2 sec| 125
+
+<b> Frozen (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Gives the attacker slowness effect <br>
+<i> Can cause slowness to attacker when defending. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 6 sec| 19%| I for 2 sec| 25
+| II| 6 sec| 19%|  II for 2.5 sec| 35
+| III| 6 sec| 26%|  III for 3 sec| 60
+
+<b> Glowing (I) </b><br>
+<b> Applies to: </b> Helmet <br>
+<b> Effects: </b> When wearing the helmet, gain a night vision effect <br>
+<i> Gives permanent night vision. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 0 sec| 100%
+
+<b> Greatsword (V) </b><br>
+<b> Applies to: </b> Sword <br>
+<b> Effects: </b> Increased damage against bow users <br>
+<b> Conditions: </b> Opponent must be using a bow <br>
+<i> Multiplies damage against players who are wielding a Bow at the time they are hit. </i><br>
+| Level | Cooldown | Chance | Damage Range | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 15%| 20%-40%| 50
+| II| 5 sec| 20%| 45%-70%| 75
+| III| 5 sec| 25%| 75%-100%| 100
+| IV| 5 sec| 30%| 105%-130%| 125
+| V| 5 sec| 35%| 105%-130%| 150
+
+<b> Hardened (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Regain durability when damaged by players <br>
+<i> Chance to recover durability when damaged by players. </i><br>
+| Level | Cooldown | Chance | Recovered Durability | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 7 sec| 25%| 1| 10
+| II| 7 sec| 35%| 1| 20
+| III| 7 sec| 45%| 2| 30
+
+<b> Heavy (V) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Reduces damage based on enchant level <br>
+<b> Conditions: </b> Attacker must be holding a bow <br>
+<i> Decreases damage from enemy bows by 2% per level. </i><br>
+| Level | Cooldown | Chance | Damage Reduction | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 4%| 2%| 25
+| II| 4 sec| 9%| 4%| 40
+| III| 4 sec| 12%| 6%| 60
+| IV| 4 sec| 16%| 8%| 80
+| V| 4 sec| 21%| 10%| 100
+
+<b> Lucky (III) </b><br>
+<b> Applies to: </b> Fishing Rod <br>
+<b> Effects: Right clicking will give the player a luck potion effect </b>  <br>
+<i> Chance to increase luck while fishing. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 12 sec| 75%| II for 10 sec| 50
+| II| 12 sec| 85%|  III for 10 sec| 75
+| III| 12 sec| 95%|  IV for 10 sec| 100
+
+<b> Ice Aspect (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Attacked player will gain Slowness II for 5 seconds <br>
+<i> A chance of causing the slowness effect on your enemy. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 5 sec| 15%| 50
+| II| 5 sec| 23%| 60
+| III| 5 sec| 31%| 70
+
+<b> Impact (IV) </b><br>
+<b> Applies to: </b> Trident <br>
+<b> Effects: </b> Doubles the damage dealt to the attacked entity. Trident must be thrown. <br>
+<i> Chance to double dealt damage. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 3 sec| 10%| 40
+| II| 3 sec| 15%| 60
+| III| 5 sec| 20%| 80
+| IV| 6 sec| 25%| 100
+
+<b> Interrupt (II) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Gives the attacked player mining fatigue effect <br>
+<i> Chance to give your enemy mining fatigue. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 9 sec| 9%| I for 5 sec| 50
+| II| 9 sec| 17%|  II for 5 sec| 75
+
+<b> Jelly Legs (III) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> When falling, there is a chance to not take fall damage <br>
+<i> Chance to negate fall damage. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 0 sec| 40%
+| II| 0 sec| 80%
+| III| 0 sec| 100%
+
+<b> Learn (III) </b><br>
+<b> Applies to: </b> Leggings <br>
+<b> Effects: </b> Randomly gain exp every 45 seconds.  <br>
+<i> Gain Xp randomly </i><br>
+| Level | Cooldown | Chance | Exp Amount | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 45 sec| 100%| 2| 5
+| II| 45 sec| 100%| 5| 5
+| III| 45 sec| 100%| 10| 5
+
+<b> Longbow (IV) </b><br>
+<b> Applies to: </b> Bow <br>
+<b> Effects: </b> Increased damage against bow users that scale with level <br>
+<b> Conditions: </b> Targeted player must be holding a bow <br>
+<i> Greatly increases damage dealt to enemy players that have a bow in their hands. </i><br>
+| Level | Cooldown | Chance | Damage Increase Range | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 7 sec| 12%| 25%-50%| 50
+| II| 9 sec| 17%| 25%-50%| 120
+| III| 10 sec| 25%| 50%-100%| 150
+| IV| 12 sec| 33%| 50%-100%| 200
+
+<b> Netherling (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Increases damage by 50% <br>
+<b> Conditions: </b> Player must be in the nether <br>
+<i> Double damage to mobs in Nether. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 0 sec| 25%| 10
+| II| 0 sec| 50%| 20
+| III| 0 sec| 75%| 30
+
+<b> Nightwalker (III) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Gives attacked mobs Slowness 11 for 20 seconds at night. <br>
+<b> Conditions: </b> Minecraft time must be between 12300 and 23850 <br>
+<i> Freeze mobs at night. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 0 sec| 40%| 10
+| II| 0 sec| 70%| 20
+| III| 0 sec| 100%| 30
+
+<b> Obsidianshield (I) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> When worn, gives the player fire resistance effect. <br>
+<b> Conditions: </b>  <br>
+<i> Gives permanent fire resistance. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 0 sec| 100%
+
+<b> Planter (III) </b><br>
+<b> Applies to: </b> Hoes <br>
+<b> Effects: </b> Plants crops in a 3x3 area <br>
+<b> Conditions: </b> Player must be sneaking  <br>
+<i> Plant seeds in a 3x3 area by shift+right-clicking. </i><br>
+| Level | Cooldown 
+| :-: | :-: 
+| I| 3 sec
+| II| 2 sec
+| III| 0 sec
+
+<b> Poseidon (IV) </b><br>
+<b> Applies to: </b> Trident <br>
+<b> Effects: </b> Increases shooting damage by 50% to 150% <br>
+<i> Increases damage dealt with Tridents. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 3 sec| 13%| 30
+| II| 3 sec| 19%| 35
+| III| 3 sec| 25%| 40
+| IV| 3 sec| 32%| 45
+
+<b> Ragdoll (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Player will be pulled away in a direction opposite to the attacker <br>
+<i> Chance to be pushed back when getting hit. </i><br>
+| Level | Cooldown | Chance | Pull Away Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 10%| 0.5| 10
+| II| 4 sec| 20%| 0.6| 15
+| III| 4 sec| 30%| 0.7| 20
+| IV| 4 sec| 50%| 0.8| 25
+
+<b> Reforged (X) </b><br>
+<b> Applies to: </b> Weapons, tools <br>
+<b> Effects: </b> When used, regains a certain amount of durability that scales with level <br>
+<i> Protects weapons and tools durability, items will be take longer to break. </i><br>
+| Level | Cooldown | Chance | Durability Restored | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 10 sec| 10%| 1| 5
+| II| 10 sec| 20%| 1| 5
+| III| 8 sec| 30%| 2| 5
+| IV| 8 sec| 40%| 2| 5
+| V| 6 sec| 50%| 2| 5
+| VI| 6 sec| 60%| 3| 5
+| VII| 4 sec| 70%| 3| 5
+| VIII| 4 sec| 80%| 4| 5
+| IX| 2 sec| 90%| 4| 5
+| X| 1 sec| 100%| 5| 5
+
+<b> Reinforced (IV) </b><br>
+<b> Applies to: </b> Elytra <br>
+<b> Effects: </b> Decrease incoming damage by a certain percentage that scales with level <br>
+<i> Reduces damage dealt to you. </i><br>
+| Level | Cooldown | Chance | Damage Reduction | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 1 sec| 15%| 15%| 10
+| II| 1 sec| 25%| 25%| 20
+| III| 1 sec| 35%| 35%| 30
+| IV| 1 sec| 45%| 45%| 40
+
+<b> Replenish (III) </b><br>
+<b> Applies to: </b> Pickaxes <br>
+<b> Effects: </b> Chance to gain food when mining a block <br>
+<i> Chance to restore food while mining. </i><br>
+| Level | Cooldown | Chance | Amount Restored | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 0 sec| 30%| 1| 10
+| II| 0 sec| 40%| 2| 15
+| III| 0 sec| 60%| 3| 20
+
+<b> Restore (IV) </b><br>
+<b> Applies to: </b> Tools <br>
+<b> Conditions: </b> Item must break <br>
+<i> Upon breaking, item has a chance to lose this enchantment and repair half of its durability. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 0 sec| 40%| 50
+| II| 0 sec| 60%| 100
+| III| 0 sec| 80%| 150
+| IV| 0 sec| 100%| 200
+
+<b> Shatter (IV) </b><br>
+<b> Applies to: </b> Axes <br>
+<b> Effects: </b> Damages the durability of the armor of the attacked player by 2 <br>
+<i> Chance to deal extra durability damage to all enemy armor with every attack. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 2 sec| 15%| 50
+| II| 2 sec| 20%| 60
+| III| 2 sec| 25%| 70
+| IV| 2 sec| 30%| 80
+
+<b> Shockwave (V) </b><br>
+<b> Applies to: </b> Chestplates <br>
+<b> Effects: </b> Pulls away the attacker backwards <br>
+<b> Conditions: </b> Player health must be equal or less than 5 <br>
+<i> Chance to push back your attacker when your health is low. </i><br>
+| Level | Cooldown | Chance | Pull Strength | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 10%| 1.5| 25
+| II| 4 sec| 20%| 2| 45
+| III| 4 sec| 30%| 2.5| 85
+| IV| 4 sec| 40%| 3| 105
+| V| 4 sec| 50%| 3.5| 120
+
+<b> Smoke Bomb (VIII) </b><br>
+<b> Applies to: </b> Helmet <br>
+<b> Effects: </b> Gives the attacker blindness for a certain amount of time <br>
+<b> Conditions: </b> HP must be equal or less than 4 <br>
+<i> When you are near death, you will spawn a smoke bomb to distract your enemies. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 9%| I for 3 sec| 50
+| II| 5 sec| 15%| I for 3 sec| 60
+| III| 5 sec| 23%| I for 5 sec| 70
+| IV| 5 sec| 28%| I for 5 sec| 80
+| V| 6 sec| 30%| II for 3 sec| 90
+| VI| 6 sec| 34%| II for 5 sec| 100
+| VII| 6 sec| 36%| II for 7 sec| 125
+| VIII| 6 sec| 38%|  III for 6 sec| 150
+
+<b> Springs (III) </b><br>
+<b> Applies to: </b> Boots <br>
+<i> Gives jump boost. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 0 sec| 100%
+| II| 0 sec| 100%
+| III| 0 sec| 100%
+
+<b> Strife (III) </b><br>
+<b> Applies to: </b> Trident <br>
+<b> Effects: </b> Increases damage against entities <br>
+<i> Increases Trident melee damage. </i><br>
+| Level | Cooldown | Chance | Damage Increase | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 15%| 15| 25
+| II| 7 sec| 20%| 25| 35
+| III| 8 sec| 25%| 30| 55
+
+<b> Tank (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Reduce incoming damage by a certain percentage that grows with level <br>
+<b> Conditions: </b> Attacker must be holding an axe <br>
+<i> Chance to decreases damage from enemy axes by 2% per level. </i><br>
+| Level | Cooldown | Chance | Damage Reduction | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 10%| 2%| 25
+| II| 5 sec| 13%| 4%| 30
+| III| 5 sec| 17%| 6%| 35
+| IV| 5 sec| 20%| 8%| 40
+
+<b> Trickster (VIII) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Teleports behind the opponent <br>
+<i> When hit you have a chance to teleport directly behind you opponent. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 5 sec| 8%| 50
+| II| 5 sec| 14%| 50
+| III| 5 sec| 17%| 70
+| IV| 5 sec| 21%| 90
+| V| 5 sec| 29%| 110
+| VI| 5 sec| 37%| 130
+| VII| 5 sec| 46%| 150
+| VIII| 5 sec| 51%| 170
+
+<b> Voodoo (VI) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Attacker will get weakness effect when hitting the player <br>
+<i> Gives a chance to deal weakness. </i><br>
+| Level | Cooldown | Chance | Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 3 sec| 10%| I for 3 sec| 30
+| II| 4 sec| 14%|  I for 5 sec| 50
+| III| 4 sec| 18%|  I for 7 sec| 70
+| IV| 5 sec| 24%|  II for 3 sec| 90
+| V| 5 sec| 29%|  II for 5 sec| 110
+| VI| 6 sec| 31%|  II for 5 sec| 130
 
 
 
