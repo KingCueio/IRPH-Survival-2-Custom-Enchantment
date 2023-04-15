@@ -1714,8 +1714,8 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 2 sec| 19.0%| 225
 | IV| 2 sec| 24.0%| 275
 | V| 2 sec| 29.0%| 325
-| VI| 2 sec| 32.0%| 0
-| VII| 2 sec| 40.0%| 0
+| VI| 2 sec| 32.0%| 375
+| VII| 2 sec| 40.0%| 425
 
 <b> Fuddle (III) </b><br>
 <b> Applies to: </b> Swords <br>
@@ -1768,7 +1768,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 120 sec| 30.0%| 2000
 | III| 120 sec| 40.0%| 3000
 | IV| 120 sec| 50.0%| 5000
-| V| 120 sec| 50.0%| 6000
+| V| 120 sec| 60.0%| 6000
 
 <b> Lifesteal (V) </b><br>
 <b> Applies to: </b> Swords <br>
