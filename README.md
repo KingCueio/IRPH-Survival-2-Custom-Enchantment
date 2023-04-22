@@ -2024,7 +2024,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Applies to: </b> Sword & Axe <br>
 <b> not applyable witho: </b> Decapitation CE <br>
 <i> Chance to have opponents head drop on death and gains Strength II. </i><br>
-| Level | Cooldown | Chance | Strength Potency and Duration |
+| Level | Cooldown | Chance | Strength Potency and Duration 
 | :-: | :-: | :-: 
 | I| 7 sec| 15.0%| II for 10 sec
 | II| 7 sec| 18.0%|  II for 10 sec
@@ -2089,6 +2089,127 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 20 sec| 25.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 1250
 
 
+<b> Disarm (III) </b><br>
+<b> Applies to: </b> Sword <br>
+<i> Chance to disarm your opponent's held item. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 2%| 100
+| II| 20 sec| 4%| 150
+| III| 20 sec| 6%| 200
+
+
+<b> Doctor (V) </b><br>
+<b> Applies to: </b> Leggings <br>
+<i> Passively heals teammates at your own low hp if you get attacked. </i><br>
+| Level | Cooldown | Chance | Radius HP Heal | Low HP Activation | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-:
+| I| 20 sec| 4%| 5 & 3 HP | 3 HP | 500
+| II| 20 sec| 8%| 5 & 3 HP  | 3 HP | 1000
+| III| 25 sec| 12%| 5 & 4 HP  | 3 HP  | 1500
+| IV| 25 sec| 16%| 5 & 5 HP  | 3 HP | 2000
+| V| 30 sec| 20%| 5 & 5 HP  | 3 HP  | 2500
+
+
+<b> End Knight (IV) </b><br>
+<b> Applies to: </b> Sword <br>
+<i> Increases damage dealt to Ender dragons. </i><br>
+| Level | Cooldown | Chance | Increase Damage Percentage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 16%| 30% - 60% | 100
+| II| 5 sec| 20%| 30% - 60%  | 200
+| III| 5 sec| 25%| 30% - 60%  | 300
+| IV| 5 sec| 30%| 30% - 60%  | 300
+
+
+<b> End Shot (IV) </b><br>
+<b> Applies to: </b> Range Weapons <br>
+<i> Increases damage dealt to Ender dragons. </i><br>
+| Level | Cooldown | Chance | Increase Damage Percentage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 16%| 30% - 60% | 100
+| II| 5 sec| 20%| 30% - 60%  | 200
+| III| 5 sec| 25%| 30% - 60%  | 300
+| IV| 5 sec| 30%| 30% - 60%  | 300
+
+<b> End Slayer (V) </b><br>
+<b> Applies to: </b> Weapons <br>
+<i> Increases damage dealt to Enderman and Ender dragons. </i><br>
+| Level | Cooldown | Chance | Increase Damage Percentage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 16%| 10% - 40% | 120
+| II| 5 sec| 21%| 10% - 40% | 140
+| III| 5 sec| 29%| 10% - 40%  | 160
+| IV| 5 sec| 34%| 10% - 40%  | 180
+| V| 5 sec| 41%| 10% - 40%  | 200
+
+
+<b> End Master (III) </b><br>
+<b> Applies to: </b> Weapon <br>
+<i> Double damage to mobs in End. </i><br>
+| Level | Chance | Increase Damage Percentage | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 25%| 50% | 150
+| II| 50%| 50% | 250
+| III| 75%| 50% | 400
+
+<b> Enlighted (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Can heal hearts while taking damage. </i><br>
+| Level | Cooldown | Chance | Heals HP | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 20 sec | 9%| 1-4 | 150
+| II| 20 sec | 18%| 1-4 | 300
+| III| 20 sec | 21%| 1-4 | 450
+
+
+<b> Erupt Immune (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> not applyable with: </b> CreeperArmor CE <br>
+<i> Chance to be immune to explosive damage and have a chance to heal. </i><br>
+| Level | Cooldown | Chance | Heals HP | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 7 sec | 25%| 1-2 | 250
+| II| 10 sec | 50%| 3-4 | 500
+| III| 15 sec | 75%| 3-5 | 750
+
+
+<b> Fractured (V) </b><br>
+<b> Applies to: </b> Sword <br>
+<b> not applyable with: </b> Disintegrate CE <br>
+<i> Chance to deal extra durability damage randomly to all enemy armor with every attack. </i><br>
+| Level | Cooldown | Chance | Damage Durability | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 9 sec| 12.0%| 5-12 | 125
+| II| 14 sec| 25.0%| 5-14 | 175
+| III| 18 sec| 39.0%| 5-16 | 225
+| IV| 22 sec| 46.0%| 5-18 | 275
+| V| 25 sec| 53.0%| 5-20 | 325
+
+
+<b> Fragment (V) </b><br>
+<b> Applies to: </b> Axe <br>
+<b> not applyable with: </b> Shatter CE <br>
+<i> Chance to deal extra durability damage randomly to all enemy armor with every attack.</i><br>
+| Level | Cooldown | Chance | Damage Durability | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 9 sec| 12.0%| 5-12 | 125
+| II| 14 sec| 25.0%| 5-14 | 175
+| III| 18 sec| 39.0%| 5-16 | 225
+| IV| 22 sec| 46.0%| 5-18 | 275
+| V| 25 sec| 53.0%| 5-20 | 325
+
+
+<b> Fragment (V) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Chance to spawn a Wither Skeleton in \norder to protect you in at least 6 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Duration and  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 9 sec| 12.0%| 5-12 | 125
+| II| 14 sec| 25.0%| 5-14 | 175
+| III| 18 sec| 39.0%| 5-16 | 225
+| IV| 22 sec| 46.0%| 5-18 | 275
+| V| 25 sec| 53.0%| 5-20 | 325
    - Diploid
      - Applies to Swords
      - Max level: IV
