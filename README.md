@@ -1926,7 +1926,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Stormcaller (IV) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Effects: </b> Strikes the attacked player with lightning and damages them for 25 to 125 hp (pls check) <br>
+<b> Effects: </b> Strikes the attacked player with lightning and damages them for 3 to 7 hp <br>
 <i> Strikes lightning on attacking players. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1949,7 +1949,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Twinge (IV) </b><br>
 <b> Applies to: </b> Trident <br>
-<b> Effects: </b> Damages the player by 5 to 15 hp (pls check) three times <br>
+<b> Effects: </b> Damages the player by 5 to 15 hp three times <br>
 <i> Make your enemy bleed, if hit using melee attack. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
