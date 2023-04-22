@@ -2200,16 +2200,85 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 25 sec| 53.0%| 5-20 | 325
 
 
-<b> Fragment (V) </b><br>
+<b> Gaunt (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
-<i> Chance to spawn a Wither Skeleton in \norder to protect you in at least 6 seconds.</i><br>
-| Level | Cooldown | Chance | Spawn Duration and  | Souls 
+<i> Chance to spawn a Wither Skeleton in order to protect you in at least 6 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 9 sec| 12.0%| 5-12 | 125
-| II| 14 sec| 25.0%| 5-14 | 175
-| III| 18 sec| 39.0%| 5-16 | 225
-| IV| 22 sec| 46.0%| 5-18 | 275
-| V| 25 sec| 53.0%| 5-20 | 325
+| I| 9 sec| 12.0%| 2| 600
+| II| 14 sec| 25.0%| 3| 1200
+| III| 18 sec| 39.0%| 3| 1800
+
+
+<b> Gears (III) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> When wearing the helmet, gain a haste effect <br>
+<i> Gives permanent haste. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 0 sec| 100%
+| II| 0 sec| 100%
+| III| 0 sec| 100%
+
+
+<b> Gluttony (III) </b><br>
+<b> Applies to: </b> Helmet <br>
+<b> not applyable with: </b> Implants <br>
+<b> Effects: </b> Chance to restore a good amount of food every few seconds. <br>
+<i> Gives permanent speed. </i><br>
+| Level | Cooldown | Chance | Food Points | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 3 sec| 25.0%| 1| 5
+| II| 3 sec| 50.0%| 2| 15
+| III| 3 sec| 75.0%| 3| 40
+
+
+<b> Grim (III) </b><br>
+<b> Applies to: </b> Leggings <br>
+<i> Chance to spawn a Wither Skeleton in order to protect you in at least 7 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 90 sec| 5.0%| 2| 600
+| II| 90 sec| 10.0%| 3| 1200
+| III| 90 sec| 15.0%| 3| 1800
+
+<b> Guardians (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Chance to spawn a iron golem in order to protect you in at least 6 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 15 sec| 2.0%| 1| 600
+| II| 15 sec| 3.0%| 1| 1200
+| III| 15 sec| 5.0%| 1| 1800
+| IV| 15 sec| 6.0%| 1| 600
+| V| 15 sec| 8.0%| 1| 1200
+| VI| 15 sec| 12.0%| 2| 1800
+| VII| 15 sec| 14.0%| 2| 600
+| VIII| 15 sec| 16.0%| 2| 1200
+| IX| 15 sec| 22.0%| 2| 1800
+| X| 15 sec| 23.0%| 2| 600
+
+
+<b> Haste (V) </b><br>
+<b> Applies to: </b> Tools <br>
+<b> Effects: </b> Every swings of your tools allows you to have fast digging effect. <br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-:
+| I| 10 sec| 15.0%| 80
+| II| 10 sec| 30.0%| 120
+| III| 10 sec| 45.0%| 140
+| IV| 10 sec| 60.0%| 180
+| V| 10 sec| 75.0%| 200
+
+
+<b> Impede (III) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> Chance to cause no knockback to players. <br>
+| Level | Chance | Soul 
+| :-: | :-: | :-: 
+| I| 20.0%| 20
+| II| 40.0%| 40
+| III| 60.0%| 60
    - Diploid
      - Applies to Swords
      - Max level: IV
