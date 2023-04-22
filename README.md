@@ -1949,7 +1949,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Twinge (IV) </b><br>
 <b> Applies to: </b> Trident <br>
-<b> Effects: </b> Damages the player by 5 to 15 hp three times <br>
+<b> Effects: </b> Damages the player by 5 to 6 hp three times <br>
 <i> Make your enemy bleed, if hit using melee attack. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1987,16 +1987,108 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 
-- **Fabled Custom Enchantments**
-  -
+## **Legendary Custom Enchantments**
+<b> Abiding (I) </b><br>
+<b> Applies to: </b> Weapons <br>
+<b> Effect: </b> Weapons with this enchant become unbreakable <br>
+<i> It repairs your weapon after it gets broken. </i><br>
+| Level | Souls 
+| :-: | :-: 
+| I| 2500
 
-   - Axe of Spirits
-     - Applies to Axes
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
-       - Level I | Chance: 45% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-       - Level II	|  Chance: 65% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-       - Level III | Chance: 75% | No Cooldown | Effects: Heart Particle and +1 Add Soul
+
+<b> Assault Shot (V) </b><br>
+<b> Applies to: </b> Bow <br>
+<b> not applyable with: </b> Sniper CE <br>
+<i> Headshots with bows deals double damage </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 15 sec| 15.0%| 100
+| II| 20 sec| 20.0%| 200
+| III| 25 sec| 25.0%| 300
+| IV| 30 sec| 30.0%| 400
+| V| 35 sec| 35.0%| 500
+
+
+<b> Backstab (III) </b><br>
+<b> Applies to: </b> Sword <br>
+<i> Chance to teleport behind to your enemy that deals damages. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 25 sec| 7.0%| 250
+| II| 25 sec| 10.0%| 450
+| III| 25 sec| 15.0%| 700
+
+
+<b> Beheaded (V) </b><br>
+<b> Applies to: </b> Sword & Axe <br>
+<b> not applyable witho: </b> Decapitation CE <br>
+<i> Chance to have opponents head drop on death and gains Strength II. </i><br>
+| Level | Cooldown | Chance | Strength Potency and Duration |
+| :-: | :-: | :-: 
+| I| 7 sec| 15.0%| II for 10 sec
+| II| 7 sec| 18.0%|  II for 10 sec
+| III| 7 sec| 21.0%|  II for 10 sec
+
+
+<b> Cleave (VII) </b><br>
+<b> Applies to: </b> Axes <br>
+<i> Damages mobs within a radius that increases with the level of enchant. </i><br>
+| Level | Cooldown | Chance | Damage Range | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 8 sec| 4%| 1| 100
+| II| 8 sec| 6%| 2| 130
+| III| 9 sec| 8%| 3| 160
+| IV| 9 sec| 10%| 4| 190
+| V| 10 sec| 12%| 5| 220
+| VI| 12 sec| 14%| 6| 250
+| VII| 14 sec| 16%| 7| 280
+
+
+<b> Deathbringer (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Chance to deal double damage. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 25 sec| 15.8%| 200
+| II| 25 sec| 22.1%| 300
+| III| 25 sec| 28.0%| 400
+
+
+<b> Degration (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Chance to prevents your armor from taking durability damage. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 30 sec| 12.0%| 100
+| II| 30 sec| 18.0%| 140
+| III| 30 sec| 25.0%| 160
+| IV| 30 sec| 31.0%| 180
+
+
+<b> Demonforged (IV) </b><br>
+<b> Applies to: </b> Sword <br>
+<i> Increases durability loss around 1-10 damage on your enemy's armor. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 9 sec| 10.0%| 100
+| II| 9 sec| 15.0%| 150
+| III| 9 sec| 20.0%| 200
+| IV| 9 sec| 25.0%| 250
+
+
+<b> Destruction (V) </b><br>
+<b> Applies to: </b> Helmet <br>
+<i> Chance to damages and debuffs all nearby enemies when attacked. </i><br>
+| Level | Cooldown | Chance | Debuff Effects | Radius |Souls 
+| :-: | :-: | :-: | :-: | :-: | :-:
+| I| 15 sec| 5.0%| Regeneration/Speed/Absorption/Haste/Strength |  3| 250
+| II| 15 sec| 10.0%| Regeneration/Speed/Absorption/Haste/Strength |  4| 500
+| III| 17 sec| 15.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 750
+| IV| 17 sec| 20.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 1000
+| V| 20 sec| 25.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 1250
+
+
    - Diploid
      - Applies to Swords
      - Max level: IV
