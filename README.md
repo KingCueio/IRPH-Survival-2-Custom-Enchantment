@@ -1987,7 +1987,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 
-## **Legendary Custom Enchantments**
+## **Fabled Custom Enchantments**
 <b> Abiding (I) </b><br>
 <b> Applies to: </b> Weapons <br>
 <b> Effect: </b> Weapons with this enchant become unbreakable <br>
@@ -2521,6 +2521,64 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IX| 90.0%| 30
 | X| 100.0%| 30
 
+
+
+
+
+
+## **Immortal Custom Enchantments**
+<b> Alacrity (III) </b><br>
+<b> Applies to: </b> Tools <br>
+<b> Effect: </b> Allows you to swing your tools faster. <br>
+| Level | Haste Potency 
+| :-: | :-: 
+| I| I
+| II| II
+| III| III
+
+
+<b> Attraction (III) </b><br>
+<b> Applies to: </b> Leggings <br>
+<i> Chance to magnet and blind your enemy if get hit by an arrow. </i><br>
+| Level | Cooldown | Chance | Blindness Potency and Duration| Pull Enemy Distance | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-:
+| I| 5 sec| 10.0%| 0 and 3 secs| 1 block | 250
+| II| 5 sec| 15.0%| I and 3 secs| 2 blocks | 450
+| III| 5 sec| 20.0%| II and 3 secs| 3 blocks | 750
+
+
+<b> Avert (V) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<b> not applyable with : </b> Divert and Retribution <br>
+<i> Chance of poisoning opponent and gaining regeneration. </i><br>
+| Level | Cooldown | Chance | Poision Potency and Duration| Regeneration Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-:
+| I| 20 sec| 20.0%| I and 5 secs| I and 5 secs| 500
+| II| 20 sec| 25.0%| I and 7 secs| I and 5 secs| 750
+| III| 20 sec| 30.0%| II and 4 secs| I and 5 secs| 1000
+| IV| 20 sec| 35.0%| II and 6 secs| II and 6 secs| 1500
+| V| 25 sec| 40.0%| II and 8 secs| II and 8 secs| 2000
+
+
+<b> Blockfield (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to push away your enemy at least 3 blocks away from you. </i><br>
+| Level | Cooldown | Chance | Push Enemy Distance | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 20 sec| 10.0%| 3 block | 75
+| II| 20 sec| 15.0%| 3 blocks | 150
+| III| 20 sec| 20.0%| 3 blocks | 225
+
+
+<b> Bristleback (IV) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Chance to push away your enemy at least 3 blocks away from you. </i><br>
+| Level | Cooldown | Chance | Decrease Damage Percentage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 6 sec| 20.0%| 25% | 500
+| II| 6 sec| 25.0%| 40% | 900
+| III| 6 sec| 30.0%| 60% | 1200
+| IV| 6 sec| 40.0%| 75% | 1500
 
 
 ___________________________________________________________________________________
