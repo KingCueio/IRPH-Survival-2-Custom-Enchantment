@@ -2977,10 +2977,204 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | VI| 10 sec| 45.0%| 75| 4500
 
 
+<b> Chain Lifesteal (II) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<b> Effects: </b> A chance to regain health from multiple enemies near your damaged target based on level <br>
+<i> Steal health with the radius of 6 blocks </i><br>
+| Level | Cooldown | Chance | Lifesteal (HP) | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 2.5%| 1-3| 750
+| II| 120 sec| 5.0%| 1-3| 1500
+
+
+<b> Death God (III) </b><br>
+<b> Applies to: </b> Helmet <br>
+<b> Effects: </b> Attacks that bring your HP to\n(level+4) hearts or lower have a chance\nto heal you for (level+5) hearts instead. <br>
+<i> A chance to heal yourself 11-13 HP if your health hp is 5.5 HP below </i><br>
+| Level | Cooldown | Chance | HP Heal | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 40 sec| 5.0%| 11| 4000
+| II| 40 sec| 10.0%| 12| 8000
+| III| 40 sec| 15.0%| 13| 12000
+
+
+<b> Death Grip (III) </b><br>
+<b> Applies to: </b> Bow <br>
+<i> Able to steal health on opponent but gives blindness and slowness to each other. </i><br>
+| Level | Cooldown | Chance | Blindness & Slowness Potency and Duration | Steal Health | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 60 sec| 10.0%| X and 3 secs| 5 HP| 1000
+| II| 60 sec| 15.0%| X and 3 secs| 5 HP| 2000
+| III| 60 sec| 20.0%| X and 3 secs| 5 HP| 3000
+
+
+<b> Drunk (V) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to give nausea, slowness, and mining \nfatigue effect to enemy if you blocked the attack. </i><br>
+| Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 180 sec| 5.0%| I and 3 secs| I and 3 secs| 800
+| II| 180 sec| 9.0%| I and 5 secs| I and 5 secs| 1500
+| III| 180 sec| 14.0%| II and 3 secs| II and 3 secs| 2000
+| IV| 180 sec| 19.0%| II and 5 secs| II and 5 secs| 2500
+| V| 180 sec| 25.0%| II and 7 secs| II and 7 secs| 4000
+
+
+<b> Fade (III) </b><br>
+<b> Applies to: </b> Leggings <br>
+<i> Chance to spawn a wither in order to protect you in at least 3 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 240 sec| 5.0%| 1| 1000
+| II| 240 sec| 10.0%| 1| 2000
+| III| 240 sec| 15.0%| 2| 4000
+
+
+<b> Horrify (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Chance to inflict enemies within a 32x32 radius with &6Horror&r. </i><br>
+| Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 1.5%| XXIII and 2 secs| XXIII and 2 secs| 2000
+| II| 120 sec| 3.0%| XXIII and 2 secs| XXIII and 2 secs| 4000
+| III| 120 sec| 4.5%| XXIII and 2 secs| XXIII and 2 secs| 8000
+| IV| 120 sec| 7.0%| XXIII and 2 secs| XXIII and 2 secs| 16000
+
+
+<b> Insulation (IV) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> Unlocks additional yellow hearts. <br>
+<i> Gives permanent yellow additional hearts if you wore the item . </i><br>
+| Level | Health Boost Potency | Chance 
+| :-: | :-: | :-: 
+| I| 0| 100%
+| II| I| 100%
+| III| II| 100%
+| IV| III| 100%
+
+
+<b> Lunar Blessing (V) </b><br>
+<b> Applies to: </b> Ranged Weapon <br>
+<i> Increase attack damage for yourself. Activation at night.</i><br>
+| Level | Chance | Increase Damage Percentage  | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 8.0%| 40% - 80%| 500
+| II| 10.0%| 60% - 100%| 600
+| III| 12.0%| 80% - 120%| 700
+| VI| 14.0%| 1000% - 140%| 800
+| V| 16.0%| 1200% - 160%| 900
+
+
+<b> Mark of the Beast (VI) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Once an enemy is afflicted with the mark\nall incoming damage is increased by 2x for\nup to 5 seconds. </i><br>
+| Level | Cooldown |Chance | Increase Damage Percentage  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 600 sec |5.0%| 50%| 750
+| II| 600 sec |6.0%| 50%| 1000
+| III| 600 sec |8.0%| 50%| 1250
+| VI| 600 sec |10.0%| 50%| 1500
+| V| 600 sec |13.0%| 50%| 1750
+| VI| 600 sec |16.0%| 50%| 2000
+
+
+<b> Obscurity (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to blind nearby enemy and get you \nresistance and strength effect if you blocked attack. </i><br>
+| Level | Cooldown | Chance | Resistance & Strength Potency and Duration | Blindness Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 240 sec| 7.0%| I and 7 secs| I and 4 secs| 2000
+| II| 240 sec| 11.0%| I and 15 secs| I and 5 secs| 4000
+| III| 240 sec| 16.0%| II and 10 secs| II and 4 secs| 8000
 
 
 
 
+
+
+## **Cuisine Custom Enchantments**
+<b> Arcane (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a Absorption effect depends on the level increasement. <br>
+| Level | Absorption Potency and Duration | 
+| :-: | :-: 
+| I| 0 and 10 sec
+| II| 0 and 20 sec
+| III| 0 and 30 sec
+| IV| I and 10 sec
+| V| I and 20 sec
+
+
+<b> Defiant (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a resistance effect depends on the level increasement. <br>
+| Level | Resistance Potency and Duration | 
+| :-: | :-: 
+| I| I and 10 sec
+| II| I and 20 sec
+| III| I and 30 sec
+| IV| II and 10 sec
+| V| II and 20 sec
+
+
+<b> Mermaid (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a dolphin grace power effect depends on the level increasement. <br>
+| Level | Dolphin Grace Potency and Duration | 
+| :-: | :-: 
+| I| I and 10 sec
+| II| I and 20 sec
+| III| I and 30 sec
+| IV| II and 10 sec
+| V| II and 20 sec
+
+<b> Overboost (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a health boost \neffect depends on the level increasement. <br>
+| Level | Health Boost Potency and Duration | 
+| :-: | :-: 
+| I| 0 and 7.5 sec
+| II| 0 and 15 sec
+| III| 0 and 30 sec
+| IV| 0 and 45 sec
+| V| I and 7.5 sec
+| V| I and 15 sec
+
+
+<b> Power (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a strength effect depends on the level increasement. <br>
+| Level | Strength Potency and Duration | 
+| :-: | :-: 
+| I| I and 30 sec
+| II| I and 45 sec
+| III| I and 60 sec
+| IV| II and 15 sec
+| V| II and 30 sec
+
+
+<b> Recovery (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a regeneration \neffect depends on the level increasement. <br>
+| Level | Regeneration Potency and Duration | 
+| :-: | :-: 
+| I| I and 15 sec
+| II| I and 22.5 sec
+| III| I and 30 sec
+| IV| II and 15 sec
+| V| II and 22.5 sec
+
+
+<b> Reservoir (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a conduit power effect depends on the level increasement. <br>
+| Level | Regeneration Potency and Duration | 
+| :-: | :-: 
+| I| I and 10 sec
+| II| I and 20 sec
+| III| I and 30 sec
+| IV| II and 10 sec
+| V| II and 20 sec
 ___________________________________________________________________________________
 
    **If you do have any issue or you see a mistakes regarding about the  Custom Enchantments Discriptions, Chances, Conditions, Effects in Survival 2. You may DM me on my Discord: KingCueio#1130**
