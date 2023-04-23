@@ -2942,10 +2942,44 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Applies to: </b> Shield <br>
 <i> Chance to magnet and stun nearby enemy at least 3 radius if you blocked enemy attack. </i><br>
 | Level | Cooldown | Chance | Wither Potency and Duration | Souls 
-| :-: | :-: | :-: | :-: | :-: | :-: 
+| :-: | :-: | :-: | :-: | :-:  
 | I| 180 sec| 12.0%| II and 4 secs| 300
 | II| 180 sec| 19.0%| II and 7 secs| 600
 | III| 180 sec| 25.0%| III and 5 secs| 900
+
+
+
+
+
+
+## **Ancient Custom Enchantments**
+<b> Abridge (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to decrease damage of an Iron Golem's attack. <br>
+| Level | Cooldown | Chance | Decrease Damage | Souls 
+| :-: | :-: | :-: | :-: | :-:  
+| I| 3 sec| 25.0%| 30%| 500
+| II| 3 sec| 50.0%| 50%| 1000
+| III| 3 sec| 75.0%| 75| 1500
+
+
+<b> Bulky (VI) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<b> Not applyable with: </b> Chaos <br>
+<b> Effect: </b> Chance to receive less damage. <br>
+| Level | Cooldown | Chance | Negate Damage Percentage | Souls 
+| :-: | :-: | :-: | :-: | :-:  
+| I| 10 sec| 20.0%| 30%| 750
+| II| 10 sec| 25.0%| 50%| 1500
+| III| 10 sec| 30.0%| 75| 2250
+| IV| 10 sec| 35.0%| 30%| 3000
+| V| 10 sec| 40.0%| 50%| 3750
+| VI| 10 sec| 45.0%| 75| 4500
+
+
+
+
+
 
 ___________________________________________________________________________________
 
