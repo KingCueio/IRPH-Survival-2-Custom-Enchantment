@@ -3061,8 +3061,8 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 8.0%| 40% - 80%| 500
 | II| 10.0%| 60% - 100%| 600
 | III| 12.0%| 80% - 120%| 700
-| VI| 14.0%| 1000% - 140%| 800
-| V| 16.0%| 1200% - 160%| 900
+| VI| 14.0%| 100% - 140%| 800
+| V| 16.0%| 120% - 160%| 900
 
 
 <b> Mark of the Beast (VI) </b><br>
