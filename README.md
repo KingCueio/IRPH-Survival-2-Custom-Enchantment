@@ -2619,9 +2619,562 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 20 sec| 14.0%| 40%-80%| 750
 | II| 20 sec| 16.0%| 60%-100%| 1250
 | III| 25 sec| 18.0%| 80%-120%| 1750
-| II| 25 sec| 20.0%| 100%-140%| 2250
-| III| 30 sec| 23.0%| 120%-140%| 3000
+| IV| 25 sec| 20.0%| 100%-140%| 2250
+| V| 30 sec| 23.0%| 120%-140%| 3000
 
+
+<b> Dense (V) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effects: </b> Reduces damage based on enchant level <br>
+<b> Conditions: </b> Attacker must be holding a bow/swords/axe <br>
+<i> Decreases damage from enemy bows by 5% per level. </i><br>
+| Level | Cooldown | Chance | Damage Reduction | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 4%| 5%| 100
+| II| 4 sec| 9%| 10%| 200
+| III| 6 sec| 12%| 15%| 300
+| IV| 6 sec| 16%| 20%| 400
+| V| 8 sec| 21%| 25%| 500
+
+
+<b> Destroyer (III) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Chance to spawn a Ravager in order to protect you in at least 5 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 5.0%| 2| 700
+| II| 120 sec| 10.0%| 2| 1200
+| III| 120 sec| 15.0%| 3| 1800
+
+
+<b> Distruption (V) </b><br>
+<b> Applies to: </b> Trident <br>
+<b> Effects: </b> Gives weakness and wither effects that scales on level <br>
+<i> Deal weakness and wither effects. </i><br>
+| Level | Cooldown | Chance | Weakness Potency and Duration | Wither Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 10 sec| 30%| I for 6 sec| I for 6 sec| 300
+| II| 10 sec| 35%|  II for 3 sec|  II for 3 sec| 500
+| III| 10 sec| 40%|  II for 6sec|  II for 6 sec| 700
+| IV| 10 sec| 45%|  III for 3 sec|  III for 3 sec| 900
+| V| 10 sec| 50%|  III for 6 sec|  III for 6 sec| 1100
+
+
+<b> Fairy (III) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Chance to spawn a Vex in order to protect you in at least 5 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 140 sec| 5.0%| 2| 900
+| II| 140 sec| 10.0%| 2| 1400
+| III| 140 sec| 15.0%| 3| 1800
+
+
+<b> Fortify (IV) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<b> Effects: </b> Reduces damage based on enchant level <br>
+| Level | Cooldown | Chance | Damage Reduction | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 12 sec| 10%| 15%| 150
+| II| 12 sec| 14%| 25%| 300
+| III| 12 sec| 19%| 35%| 600
+| IV| 12 sec| 27%| 45%| 900
+
+<b> Great Bash (III) </b><br>
+<b> Applies to: </b> Melee Weapon <br>
+<b> Effects: </b> Chance to stun in 1 sec and knockback an enemy <br>
+| Level | Cooldown | Chance | Knockback Radius | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 10%| 1 Block| 200
+| II| 5 sec| 15%| 2 Blocks| 400
+| III| 5 sec| 20%| 2 Blocks| 600
+
+
+<b> Holy Life (V) </b><br>
+<b> Applies to: </b> Shield <br>
+<b> Effects: </b> Chance to add health if you block the enemy hit in low hp <br>
+| Level | Cooldown | Chance | Low HP Activation | HP Heal | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-:
+| I| 90 sec| 7%| 3 HP| 2-3 HP |300
+| II| 90 sec| 14%| 3 HP| 2-3 HP |400
+| III| 90 sec| 19%| 3 HP| 2-3 HP |600
+| IV| 90 sec| 25%| 3 HP| 2-3 HP |900
+| V| 90 sec| 28%| 3 HP| 2-3 HP |1100
+
+
+<b> Horrid (V) </b><br>
+<b> Applies to: </b> Shield <br>
+<b> Effects: </b> Chance to give wither/blindness/confusion/slow digging effect to \nyour enemy if you blocked enemy attack. <br>
+<i> Deal weakness and wither effects. </i><br>
+| Level | Cooldown | Chance | Weakness Potency and Duration | Wither Potency and Duration | Blindness Potency and Duration | Confusion Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 360 sec| 12%| IV for 2 sec| IV for 2 sec| IV for 2 sec| IV for 2 sec| 600
+| II| 360 sec| 19%|  IV for 2 sec|  IV for 2 sec| IV for 2 sec| IV for 2 sec| 900
+| III| 360 sec| 25%|  IV for 2 sec|  IV for 2 sec| IV for 2 sec| IV for 2 sec| 1200
+
+
+<b> Hunter Night (III) </b><br>
+<b> Applies to: </b> Boost <br>
+<b> Effects: </b> Gives strength potion if the day become night. <br>
+| Level | Strength Potency 
+| :-: | :-: 
+| I| I
+| II| II
+| III| III
+
+
+<b> Impactweight (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<b> Effects: </b> Chance to get a burst of haste and add extra damage to your enemy. <br>
+| Level | Cooldown | Chance | Haste Potency and Duration | Extra Damage HP | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-:
+| I| 15 sec| 20%| 0 and 6 secs| 1.75-4 HP | 1500
+| II| 15 sec| 40%| I and 10 secs| 1.75-4 HP | 2000
+| III| 15 sec| 60%| II and 13 secs| 1.75-4 HP | 2500
+
+
+<b> Jinada (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<b> Effects: </b> Chance to Steal your enemy money on each attack with extra damage. <br>
+| Level | Cooldown | Chance | Steal Money  | Extra Damage HP | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-:
+| I| 15 sec| 10%| $100 - $25000| 2-4 HP | 1500
+| II| 15 sec| 15%| $100 - $25000| 2-4 HP | 2000
+| III| 15 sec| 20%| $100 - $25000| 2-4 HP | 2500
+
+
+<b> Johnny (III) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Chance to spawn a Vindicator in order to protect you in at least 5 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 5.0%| 2| 800
+| II| 120 sec| 10.0%| 2| 1600
+| III| 120 sec| 15.0%| 3| 2400
+
+
+<b> Mage (III) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Chance to spawn a evoker in order \nto protect you in at least 5 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 5.0%| 2| 500
+| II| 120 sec| 10.0%| 2| 750
+| III| 120 sec| 15.0%| 3| 1000
+
+
+<b> Overload (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> not applyable with: </b> overload <br>
+<b> Effects: </b> Unlocks additional hearts. <br>
+<i> Gives permanent additional hearts if you wore the item . </i><br>
+| Level | Health Boost Potency | Chance 
+| :-: | :-: | :-: 
+| I| II| 100%
+| II| III| 100%
+| III| IV| 100%
+
+
+<b> Paradox (V) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: </b> Chance to add 5 hearts to all allies in a 5 to 7 block radius <br>
+<i> Completely heals allies if you defense an enemy's attack. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 15 sec| 13.0%| 500
+| II| 15 sec| 15.0%| 800
+| III| 15 sec| 17.0%| 1100
+| IV| 15 sec| 19.0%| 1400
+| V| 15 sec| 21.0%| 1700
+
+
+<b> Profane (V) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Not applyable with: </b> Unholy <br>
+<i> Defend with weakness and wither effects. </i><br>
+| Level | Cooldown | Chance | Wither Potency and Duration | Weakness Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 40 sec| 30.0%| I for 6 sec| I for 6 sec| 1000
+| II| 40 sec| 35.0%|  II for 3 sec|  II for 3 sec| 1250
+| III| 40 sec| 40.0%|  II for 6 sec|  II for 6 sec| 1750
+| IV| 40 sec| 45.0%|  III for 3 sec|  III for 3 sec| 2250
+| V| 40 sec| 50.0%| III for 6 sec|  III for 6 sec| 2750
+
+
+<b> Reverse Polarity (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to magnet and stun nearby enemy at least 3 radius if you blocked enemy attack. </i><br>
+| Level | Cooldown | Chance | Pull Closer Radius | Freeze Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 180 sec| 8.0%| 3 Blocks| 1.5 sec| 700
+| II| 180 sec| 14.0%| 3 Blocks| 1.5 sec| 1200
+| III| 180 sec| 22.0%| 3 Blocks| 1.5 sec| 1600
+
+
+<b> Revulsion (V) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to give nausea effect to enemy if you blocked the attack. </i><br>
+| Level | Cooldown | Chance | Nausea Potency and Duration| Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 60 sec| 10.0%| I and 3 secs| 200
+| II| 60 sec| 15.0%| I and 5 secs| 400
+| III| 60 sec| 20.0%| II and 3 secs| 600
+| IV| 60 sec| 24.0%| II and 5 secs| 800
+| V| 60 sec| 28.0%| II and 7 secs| 1000
+
+
+<b> Sacred Arrow (III) </b><br>
+<b> Applies to: </b> Bow <br>
+<i> Chance to stun your enemy with extra damage. </i><br>
+| Level | Cooldown | Chance | Extra Damage HP | Freeze Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 30 sec| 10.0%| 1.5 - 6 HP| 2 sec| 750
+| II| 30 sec| 15.0%| 1.5 - 6 HP| 2 sec| 1250
+| III| 30 sec| 20.0%| 1.5 - 6 HP| 2 sec| 1500
+
+
+<b> Searing Arrow (IV) </b><br>
+<b> Applies to: </b> Bow <br>
+<i> Chance to burn enemy if got hit by an arrow with extra damage. </i><br>
+| Level | Cooldown | Chance | Extra Damage HP | Burn Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 30 sec| 5.0%| 1.75 - 5 HP| 5 sec| 250
+| II| 30 sec| 7.0%| 1.75 - 5 HP| 5 sec| 350
+| III| 30 sec| 9.0%| 1.75 - 5 HP| 5 sec| 550
+| IV| 30 sec| 11.0%| 1.75 - 5 HP| 5 sec| 750
+
+
+<b> Sharpen (IV) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Reduces damage dealt to you. </i><br>
+| Level | Cooldown | Chance | Decrease Damage Percentage| Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 30 sec| 7.0%| 10%| 300
+| II| 30 sec| 13.0%| 20%| 500
+| III| 30 sec| 19.0%| 30%| 700
+| IV| 30 sec| 24.0%| 40%| 900
+
+
+<b> Shield Disarm (II) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to disarm opponent if you blocked the attack. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 5%| 200
+| II| 20 sec| 10%| 300
+
+
+<b> Soul Shield (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to steal 25 souls in enemy''s \nweapon if blocked the attack.  </i><br>
+| Level | Cooldown | Chance | Steal Soul| Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 6 sec| 10.0%| 50| 25
+| II| 6 sec| 15.0%| 60| 30
+| III| 6 sec| 20.0%| 70| 35
+
+
+<b> Soul Siphone (IV) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effect: </b> Proc'ing on outgoing damage events this enchant siphons souls\nand durability from enemies in large quantities! <br>
+<i> Chance to steal 2009 souls and extra damage durability at least 30 to the enemy.  </i><br>
+| Level | Cooldown | Chance | Steal Soul| Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 60 sec| 3.0%| 2000| 750
+| II| 60 sec| 6.0%| 2000| 1000
+| III| 60 sec| 9.0%| 2000| 1250
+| IV| 60 sec| 12.0%| 2000| 1500
+
+
+<b> Sturdy (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Absorb enemy damage and\nreflect it back. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 10 sec| 7%| 400
+| II| 10 sec| 13%| 600
+| III| 10 sec| 19%| 900
+
+
+<b> Totem Grasp (III) </b><br>
+<b> Applies to: </b> Sword <br>
+<i> Chance to remove 1-3 pieces of totem to your enemy's inventory. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 10.0%| 300
+| II| 20 sec| 15.0%| 400
+| III| 20 sec| 20.0%| 500
+
+
+<b> Vandal (IV) </b><br>
+<b> Applies to: </b> Axe <br>
+<b> Not applyable with: </b> Barbarian CE <br>
+<i> Chance to inflicts more axe damage when your enemy is holding axe  </i><br>
+| Level | Cooldown | Chance | Increase Damage| Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 20 sec| 15.0%| 25% - 75%| 450
+| II| 20 sec| 20.0%| 35% - 95%| 900
+| III| 20 sec| 25.0%| 45% - 125%| 1800
+| IV| 20 sec| 35.0%| 50% - 150%| 3600
+
+
+<b> Viper Strike (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to magnet and stun nearby enemy at least 3 radius if you blocked enemy attack. </i><br>
+| Level | Cooldown | Chance | Slowness Potency and Duration | Poison Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 15 sec| 5.0%| III and 4 secs| IV and 4 secs| 600
+| II| 15 sec| 10.0%| III and 4 secs| IV and 4 secs| 900
+| III| 15 sec| 15.0%| III and 4 secs| IV and 4 secs| 1300
+
+
+<b> Walrush Punch (III) </b><br>
+<b> Applies to: </b> Melee Weapon <br>
+<i> Chance to throw your enemy into air with a good amount of damage </i><br>
+| Level | Cooldown | Chance | Extra HP Damage| Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 60 sec| 8.0%| 2 - 7 HP| 750
+| II| 60 sec| 13.0%| 2 - 7 HP| 1000
+| III| 60 sec| 19.0%| 2 - 7 HP| 1250
+
+
+<b> Viper Strike (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to magnet and stun nearby enemy at least 3 radius if you blocked enemy attack. </i><br>
+| Level | Cooldown | Chance | Wither Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-:  
+| I| 180 sec| 12.0%| II and 4 secs| 300
+| II| 180 sec| 19.0%| II and 7 secs| 600
+| III| 180 sec| 25.0%| III and 5 secs| 900
+
+
+
+
+
+
+## **Ancient Custom Enchantments**
+<b> Abridge (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to decrease damage of an Iron Golem's attack. <br>
+| Level | Cooldown | Chance | Decrease Damage | Souls 
+| :-: | :-: | :-: | :-: | :-:  
+| I| 3 sec| 25.0%| 30%| 500
+| II| 3 sec| 50.0%| 50%| 1000
+| III| 3 sec| 75.0%| 75| 1500
+
+
+<b> Bulky (VI) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<b> Not applyable with: </b> Chaos <br>
+<b> Effect: </b> Chance to receive less damage. <br>
+| Level | Cooldown | Chance | Negate Damage Percentage | Souls 
+| :-: | :-: | :-: | :-: | :-:  
+| I| 10 sec| 20.0%| 30%| 750
+| II| 10 sec| 25.0%| 50%| 1500
+| III| 10 sec| 30.0%| 75| 2250
+| IV| 10 sec| 35.0%| 30%| 3000
+| V| 10 sec| 40.0%| 50%| 3750
+| VI| 10 sec| 45.0%| 75| 4500
+
+
+<b> Chain Lifesteal (II) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<b> Effects: </b> A chance to regain health from multiple enemies near your damaged target based on level <br>
+<i> Steal health with the radius of 6 blocks </i><br>
+| Level | Cooldown | Chance | Lifesteal (HP) | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 2.5%| 1-3| 750
+| II| 120 sec| 5.0%| 1-3| 1500
+
+
+<b> Death God (III) </b><br>
+<b> Applies to: </b> Helmet <br>
+<b> Effects: </b> Attacks that bring your HP to\n(level+4) hearts or lower have a chance\nto heal you for (level+5) hearts instead. <br>
+<i> A chance to heal yourself 11-13 HP if your health hp is 5.5 HP below </i><br>
+| Level | Cooldown | Chance | HP Heal | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 40 sec| 5.0%| 11| 4000
+| II| 40 sec| 10.0%| 12| 8000
+| III| 40 sec| 15.0%| 13| 12000
+
+
+<b> Death Grip (III) </b><br>
+<b> Applies to: </b> Bow <br>
+<i> Able to steal health on opponent but gives blindness and slowness to each other. </i><br>
+| Level | Cooldown | Chance | Blindness & Slowness Potency and Duration | Steal Health | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 60 sec| 10.0%| X and 3 secs| 5 HP| 1000
+| II| 60 sec| 15.0%| X and 3 secs| 5 HP| 2000
+| III| 60 sec| 20.0%| X and 3 secs| 5 HP| 3000
+
+
+<b> Drunk (V) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to give nausea, slowness, and mining \nfatigue effect to enemy if you blocked the attack. </i><br>
+| Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 180 sec| 5.0%| I and 3 secs| I and 3 secs| 800
+| II| 180 sec| 9.0%| I and 5 secs| I and 5 secs| 1500
+| III| 180 sec| 14.0%| II and 3 secs| II and 3 secs| 2000
+| IV| 180 sec| 19.0%| II and 5 secs| II and 5 secs| 2500
+| V| 180 sec| 25.0%| II and 7 secs| II and 7 secs| 4000
+
+
+<b> Fade (III) </b><br>
+<b> Applies to: </b> Leggings <br>
+<i> Chance to spawn a wither in order to protect you in at least 3 seconds.</i><br>
+| Level | Cooldown | Chance | Spawn Quantity  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 240 sec| 5.0%| 1| 1000
+| II| 240 sec| 10.0%| 1| 2000
+| III| 240 sec| 15.0%| 2| 4000
+
+
+<b> Horrify (IV) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Chance to inflict enemies within a 32x32 radius with &6Horror&r. </i><br>
+| Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 1.5%| XXIII and 2 secs| XXIII and 2 secs| 2000
+| II| 120 sec| 3.0%| XXIII and 2 secs| XXIII and 2 secs| 4000
+| III| 120 sec| 4.5%| XXIII and 2 secs| XXIII and 2 secs| 8000
+| IV| 120 sec| 7.0%| XXIII and 2 secs| XXIII and 2 secs| 16000
+
+
+<b> Insulation (IV) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> Unlocks additional yellow hearts. <br>
+<i> Gives permanent yellow additional hearts if you wore the item . </i><br>
+| Level | Health Boost Potency | Chance 
+| :-: | :-: | :-: 
+| I| 0| 100%
+| II| I| 100%
+| III| II| 100%
+| IV| III| 100%
+
+
+<b> Lunar Blessing (V) </b><br>
+<b> Applies to: </b> Ranged Weapon <br>
+<i> Increase attack damage for yourself. Activation at night.</i><br>
+| Level | Chance | Increase Damage Percentage  | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 8.0%| 40% - 80%| 500
+| II| 10.0%| 60% - 100%| 600
+| III| 12.0%| 80% - 120%| 700
+| VI| 14.0%| 100% - 140%| 800
+| V| 16.0%| 120% - 160%| 900
+
+
+<b> Mark of the Beast (VI) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Once an enemy is afflicted with the mark\nall incoming damage is increased by 2x for\nup to 5 seconds. </i><br>
+| Level | Cooldown |Chance | Increase Damage Percentage  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 600 sec |5.0%| 50%| 750
+| II| 600 sec |6.0%| 50%| 1000
+| III| 600 sec |8.0%| 50%| 1250
+| VI| 600 sec |10.0%| 50%| 1500
+| V| 600 sec |13.0%| 50%| 1750
+| VI| 600 sec |16.0%| 50%| 2000
+
+
+<b> Obscurity (III) </b><br>
+<b> Applies to: </b> Shield <br>
+<i> Chance to blind nearby enemy and get you \nresistance and strength effect if you blocked attack. </i><br>
+| Level | Cooldown | Chance | Resistance & Strength Potency and Duration | Blindness Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 240 sec| 7.0%| I and 7 secs| I and 4 secs| 2000
+| II| 240 sec| 11.0%| I and 15 secs| I and 5 secs| 4000
+| III| 240 sec| 16.0%| II and 10 secs| II and 4 secs| 8000
+
+
+
+
+
+
+## **Cuisine Custom Enchantments**
+<b> Arcane (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a Absorption effect depends on the level increasement. <br>
+| Level | Absorption Potency and Duration | 
+| :-: | :-: 
+| I| 0 and 10 sec
+| II| 0 and 20 sec
+| III| 0 and 30 sec
+| IV| I and 10 sec
+| V| I and 20 sec
+
+
+<b> Defiant (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a resistance effect depends on the level increasement. <br>
+| Level | Resistance Potency and Duration | 
+| :-: | :-: 
+| I| I and 10 sec
+| II| I and 20 sec
+| III| I and 30 sec
+| IV| II and 10 sec
+| V| II and 20 sec
+
+
+<b> Mermaid (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a dolphin grace power effect depends on the level increasement. <br>
+| Level | Dolphin Grace Potency and Duration | 
+| :-: | :-: 
+| I| I and 10 sec
+| II| I and 20 sec
+| III| I and 30 sec
+| IV| II and 10 sec
+| V| II and 20 sec
+
+<b> Overboost (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a health boost \neffect depends on the level increasement. <br>
+| Level | Health Boost Potency and Duration | 
+| :-: | :-: 
+| I| 0 and 7.5 sec
+| II| 0 and 15 sec
+| III| 0 and 30 sec
+| IV| 0 and 45 sec
+| V| I and 7.5 sec
+| V| I and 15 sec
+
+
+<b> Power (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a strength effect depends on the level increasement. <br>
+| Level | Strength Potency and Duration | 
+| :-: | :-: 
+| I| I and 30 sec
+| II| I and 45 sec
+| III| I and 60 sec
+| IV| II and 15 sec
+| V| II and 30 sec
+
+
+<b> Recovery (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a regeneration \neffect depends on the level increasement. <br>
+| Level | Regeneration Potency and Duration | 
+| :-: | :-: 
+| I| I and 15 sec
+| II| I and 22.5 sec
+| III| I and 30 sec
+| IV| II and 15 sec
+| V| II and 22.5 sec
+
+
+<b> Reservoir (V) </b><br>
+<b> Applies to: </b> Stew & Soup <br>
+<b> Effects: </b> Gains a conduit power effect depends on the level increasement. <br>
+| Level | Regeneration Potency and Duration | 
+| :-: | :-: 
+| I| I and 10 sec
+| II| I and 20 sec
+| III| I and 30 sec
+| IV| II and 10 sec
+| V| II and 20 sec
 ___________________________________________________________________________________
 
    **If you do have any issue or you see a mistakes regarding about the  Custom Enchantments Discriptions, Chances, Conditions, Effects in Survival 2. You may DM me on my Discord: KingCueio#1130**
