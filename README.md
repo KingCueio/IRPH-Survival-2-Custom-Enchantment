@@ -2025,7 +2025,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> not applyable witho: </b> Decapitation CE <br>
 <i> Chance to have opponents head drop on death and gains Strength II. </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration 
-| :-: | :-: | :-: 
+| :-: | :-: | :-: | :-:
 | I| 7 sec| 15.0%| II for 10 sec
 | II| 7 sec| 18.0%|  II for 10 sec
 | III| 7 sec| 21.0%|  II for 10 sec
@@ -2247,16 +2247,16 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to spawn a iron golem in order to protect you in at least 6 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 15 sec| 2.0%| 1| 600
-| II| 15 sec| 3.0%| 1| 1200
-| III| 15 sec| 5.0%| 1| 1800
-| IV| 15 sec| 6.0%| 1| 600
-| V| 15 sec| 8.0%| 1| 1200
-| VI| 15 sec| 12.0%| 2| 1800
-| VII| 15 sec| 14.0%| 2| 600
-| VIII| 15 sec| 16.0%| 2| 1200
-| IX| 15 sec| 22.0%| 2| 1800
-| X| 15 sec| 23.0%| 2| 600
+| I| 15 sec| 2.0%| 1| 150
+| II| 15 sec| 3.0%| 1| 200
+| III| 15 sec| 5.0%| 1| 250
+| IV| 15 sec| 6.0%| 1| 300
+| V| 15 sec| 8.0%| 1| 350
+| VI| 15 sec| 12.0%| 2| 400
+| VII| 15 sec| 14.0%| 2| 500
+| VIII| 15 sec| 16.0%| 2| 600
+| IX| 15 sec| 22.0%| 2| 700
+| X| 15 sec| 23.0%| 2| 800
 
 
 <b> Haste (V) </b><br>
@@ -2279,124 +2279,248 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 20.0%| 20
 | II| 40.0%| 40
 | III| 60.0%| 60
-   - Diploid
-     - Applies to Swords
-     - Max level: IV
-     - Description: Chance to multiply mob drops. Costs 5 souls / activation.
-       - Level I | Chance: 15% | Cooldown: 5 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level II	|  Chance: 20% | Cooldown: 5 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level III | Chance: 25% | Cooldown: 6 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level IV	|  Chance: 28% | Cooldown: 7 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level V | Chance: 30% | Cooldown: 8 secs | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-   - Disarm
-     - Applies to Swords
-     - Max level: III
-     - Description: Chance to disarm opponent.
-       - Level I | Chance: 2% | Cooldown: 20 secs | Effects: The Enemy will be Disarmed (Enemy's Hold Item will force drop)
-       - Level II	|  Chance: 4% | Cooldown: 20 secs | Effects: The Enemy will be Disarmed (Enemy's Hold Item will force drop)
-       - Level III | Chance: 5% | Cooldown: 20 secs | Effects: The Enemy will be Disarmed (Victim's Hold Item will force drop)
-   - Haste
-     - Applies to Tools
-     - Max level: III
-     - Description: Allows you to swing your tools faster.
-       - Level I | Effects: Level 0 Fast Digging
-       - Level II	| Effects: Level 1 Fast Digging
-       - Level III | Effects: Level 2 Fast Digging
-   - Immortal
-     - Applies to Armor
-     - Max level: IV
-     - Description: Chance to prevents your armor\nfrom taking durability damage.
-       - Level I | Chance: 12% | Cooldown: 40 secs | Effects:  Reducing Enemy's Durability by 10
-       - Level II	|  Chance: 18% | Cooldown: 40 secs | Effects: Reducing Enemy's Durability by 10
-       - Level III | Chance: 25% | Cooldown: 40 secs | Effects: Reducing Enemy's Durability by 10
-       - Level IV	|  Chance: 31% | Cooldown: 40 secs | Effects: Reducing Enemy's Durability by 10
-   - Multiplication
-     - Applies to Pickaxe
-     - Max level: V
-     - Description: Chance to multiply ore drops. Costs 5 souls / activation.
-       - Level I | Chance: 15% | Cooldown: 5 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level II	|  Chance: 20% | Cooldown: 5 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level III | Chance: 25% | Cooldown: 6 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level IV	|  Chance: 28% | Cooldown: 7 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Multiply Drops by 1
-       - Level V | Chance: 30% | Cooldown: 8 secs | Condition: Will Only Affect Ores | Cost Soul: 5 Souls | Effects: Heart Multiply Drops by 1
-   - Neutralize
-     - Applies to Bow and Crossbow
-     - Max level: II
-     - Description: Chance to disarm opponent.
-       - Level I | Chance: 5% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
-       - Level II	|  Chance: 10% | Cooldown: 20 secs | Effects: Victim will be Disarmed (Victim's Hold Item will force drop)
-   - Nulify
-     - Applies to Sword and Axe
-     - Max level: II
-     - Description: Chance to reflect attack and multiply damage. Costs 40 souls / activation.
-       - Level I | Chance: 6% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Your Damage Increases by 100% and the Enemy will recieve 4 secs of Level 0 Blindness and Level 1 Flash
-       - Level II	|  Chance: 8% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Your Damage Increases by 100% and the Enemy will recieve 4 secs of Level 1 Blindness and Level 2 Flash
-       - Level III | Chance: 12% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Your Damage Increases by 100% and the Enemy will recieve 4 secs of Level 2 Blindness and Level 3 Flash
-       - Level IV	|  Chance: 14% | Cooldown: 10 secs |  Cost Soul: 40 Souls | Effects: Your Damage Increases by 100% and the Enemy will recieve 4 secs of Level 3 Blindness and Level 4 Flash
-   - Phoenix
-     - Applies to Chestplates
-     - Max level: III
-     - Description: Chance to revive yourself when killed.
-       - Level I | Chance: 5% | Cooldown: 20 secs | Effects: The Player will Revive.
-       - Level II	|  Chance: 7% | Cooldown: 20 secs | Effects: The Player will Revive.
-       - Level III | Chance: 9% | Cooldown: 20 secs | Effects: The Player will Revive.
-   - Restore
-     - Applies to Tools
-     - Max level: IV
-     - Description: Upon breaking, item has a chance to lose this enchantment and repair half of its durability.
-       - Level I | Chance: 40% | No Cooldown | Effects: The "Restore" Enchantment will be removed and will repair the item's durability by half.
-       - Level II	|  Chance: 60% | No Cooldown | Effects: The "Restore" Enchantment will be removed and will repair the item's durability by half.
-       - Level III | Chance: 80% | No Cooldown | Effects: The "Restore" Enchantment will be removed and will repair the item's durability by half.
-       - Level IV | Chance: 100% | No Cooldown | Effects: The "Restore" Enchantment will be removed and will repair the item's durability by half.
-   - Rush
-     - Applies to Elytra
-     - Max level: III
-     - Description: Chance of speed boost when taking off with elytra. Costs 10 souls / activation.
-       - Level I | Chance: 15% | Cooldown: 5 secs |  Cost Soul: 10 Souls | Effects: You will receive a 3 secs of Level 3 Speed.
-       - Level II	|  Chance: 25% | Cooldown: 5 secs |  Cost Soul: 10 Souls | Effects:  You will receive a 3 secs of Level 4 Speed.
-       - Level III | Chance: 26% | Cooldown: 5 secs |  Cost Soul: 10 Souls | Effects:  You will receive a 3 secs of Level 5 Speed.
-   - Scare
-     - Applies to Sword and Axe
-     - Max level: IV
-     - Description: Chance to replace your opponents helmet to a pumpkin for a short time.
-       - Level I | Chance: 1.8% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 2 secs
-       - Level II	|  Chance: 3.6% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 2 secs
-       - Level III | Chance: 4.4% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 3 secs
-       - Level IV	|  Chance: 5.2% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 3 secs
-       - Level V | Chance: 6% | Cooldown: 20 secs | Effects: The Enemy will be forced equipped pumpkin for 4 secs
-   - Souldbound
-     - Applies to Tools, Sword, Bow, Crossbow
-     - Max level: III
-     - Description: A chance to keep item on death.
-       - Level I | Chance: 4% | Cooldown: 300 secs | Effects: Your equipped item and held item will only be kept.
-       - Level II	|  Chance: 6% | Cooldown: 300 secs | Effects: Your equipped item and held item will only be kept.
-       - Level III | Chance: 8% | Cooldown: 300 secs | Effects: Your equipped item and held item will only be kept.
-   - Soulgrind
-     - Applies to Swords
-     - Max level: III
-     - Description: Chance to get souls by killing mobs
-       - Level I | Chance: 30% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-       - Level II	|  Chance: 60% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-       - Level III | Chance: 90% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-   - Soulminer
-     - Applies to Pickaxe
-     - Max level: III
-     - Description: Chance to get souls by mining.
-       - Level I | Chance: 5% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-       - Level II	|  Chance: 10% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-       - Level III | Chance: 15% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-   - Spiritmaster
-     - Applies to Swords
-     - Max level: III
-     - Description: Chance to get more souls from killing players.
-       - Level I | Chance: 35% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-       - Level II	|  Chance: 45% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-       - Level III | Chance: 55% | No Cooldown | Effects: Heart Particle and +1 Add Soul
-   - Unbreakable
-     - Applies to Tools
-     - Max level: I
-     - Description: Tools with this enchant become unbreakable
-       - Level I | Effects: The Tool's Durability will be repaired.
+
+
+<b> Insanity (VIII) </b><br>
+<b> Applies to: </b> Axe <br>
+<b> Effects: </b> Chance to multiplies damage against players who are wielding a SWORD. <br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-:
+| I| 10 sec| 17.0%| 75
+| II| 10 sec| 23.0%| 100
+| III| 15 sec| 29.0%| 150
+| IV| 15 sec| 35.0%| 300
+| V| 17 sec| 41.0%| 450
+| VI| 20 sec| 49.0%| 600
+| VII| 20 sec| 52.0%| 750
+| VIII| 20 sec| 55.0%| 900
+
+
+<b> Inversion (IV) </b><br>
+<b> Applies to: </b> Sword <br>
+<b> Effects: </b> Damage dealt to you has a chance to be\nblocked and heal you for 1-5 HP. <br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-:
+| I| 15 sec| 8.0%| 150
+| II| 15 sec| 16.0%| 200
+| III| 15 sec| 24.0%| 150
+| IV| 15 sec| 32.0%| 300
+
+
+<b> Jinx (V) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Gives strength and resistance to yourself and give slow swing to the enemy at low hp. </i><br>
+| Level | Cooldown | Chance | Strength Potency and Duration | Slow Swing Potency and Duration | Damage Resistance Potency and Duration | Soul
+| :-: | :-: | :-: | :-: | :-: | :-: | :-:
+| I| 7 sec| 15.0%| 0 for 2 sec | 0 for 5 sec | 0 for 2 sec | 200
+| II| 7 sec| 18.0%|  0 for 3 sec| 0 for 6 sec | 0 for 3 sec | 300
+| III| 7 sec| 21.0%|  0 for 4 sec| I for 4 sec | 0 for 4 sec | 400
+| IV| 7 sec| 18.0%|  I for 3 sec| I for 5 sec | I for 3 sec | 500
+| V| 7 sec| 21.0%|  I for 4 sec| II for 5 sec | I for 4 sec | 600
+
+
+<b> Mortal Coil (V) </b><br>
+<b> Applies to: </b> Helmet <br>
+<b> Effects: </b> Chance to deal damage at 1-2 HP to your enemy.<br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-:
+| I| 5 sec| 3.0%| 90
+| II| 5 sec| 4.0%| 120
+| III| 5 sec| 5.0%| 140
+| IV| 5 sec| 7.0%| 160
+| V| 5 sec| 9.0%| 180
+
+
+<b> Neutralize (II) </b><br>
+<b> Applies to: </b> Ranged Weapon <br>
+<i> Chance to disarm your opponent's held item. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 5%| 100
+| II| 20 sec| 10%| 150
+
+
+<b> Nulify (V) </b><br>
+<b> Applies to: </b> Weapon <br>
+<i> Chance to deal double damage\nwhile leaving enemy blind. </i><br>
+| Level | Cooldown | Chance | Blindness Potency and Duration | Soul
+| :-: | :-: | :-: | :-: | :-: 
+| I| 10 sec| 8.0%| 0 for 4 sec | 90
+| II| 10 sec| 10.0%|  I for 4 sec| 140
+| III| 10 sec| 12.0%|  II for 4 sec| 190
+| IV| 10 sec| 14.0%|  III for 3 sec| 240
+
+
+<b> Overload (III) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> Unlocks additional hearts. <br>
+<i> Gives permanent additional hearts if you wore the item . </i><br>
+| Level | Health Boost Potency | Chance 
+| :-: | :-: | :-: 
+| I| I| 100%
+| II| II| 100%
+| III| III| 100%
+
+
+<b> Paladin (V) </b><br>
+<b> Applies to: </b> Armor <br>
+<i> Chance to reduces incoming damage while wielding a sword by up to 44% at max level. </i><br>
+| Level | Cooldown | Chance | Damage Reduction Percentage | Soul
+| :-: | :-: | :-: | :-: | :-: 
+| I| 9 sec| 6.0%| 4-8%| 600
+| II| 10 sec| 9.0%|  12-16%| 700
+| III| 11 sec| 13.0%|  20-24%| 800
+| IV| 11 sec| 16.0%|  28-32%| 900
+| IV| 11 sec| 21.0%|  36-44%| 1000
+
+
+<b> Pearl Grasp (III) </b><br>
+<b> Applies to: </b> Sword <br>
+<i> Chance to remove 1-3 pieces of ender pearl to your enemy's inventory. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 10.0%| 300
+| II| 20 sec| 15.0%| 400
+| III| 20 sec| 20.0%| 500
+
+
+<b> Phoenix (III) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Chance to revive yourself when killed. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 5.0%| 100
+| II| 20 sec| 7.0%| 140
+| III| 20 sec| 9.0%| 160
+
+
+<b> Rage (VI) </b><br>
+<b> Applies to: </b> Weapon <br>
+<i> For every combo hit you land there's chance to do 0.5 heart damage per combo to your opponent.Up to 5 max combo hits. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 10 sec| 15.0%| 150
+| II| 10 sec| 20.0%| 250
+| III| 10 sec| 25.0%| 350
+| VI| 10 sec| 30.0%| 450
+| V| 10 sec| 35.0%| 550
+| VI| 10 sec| 40.0%| 650
+
+
+<b> Rogue (III) </b><br>
+<b> Applies to: </b> Weapon <br>
+<i> Chance to deal up to 2.0x damage. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 5 sec| 13.0%| 300
+| II| 5 sec| 16.0%| 500
+| III| 5 sec| 19.0%| 700
+
+
+<b> Secured (IV) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Reduces damage dealt to you. </i><br>
+| Level | Cooldown | Chance | Damage Reduce Percentage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 15.0%| 5| 50
+| II| 4 sec| 25.0%| 10| 125
+| III| 5 sec| 35.0%|  15| 225
+| IV| 6 sec| 45.0%|  20| 350
+
+
+<b> Skill Swipe (V) </b><br>
+<b> Applies to: </b> Weapons <br>
+<i> A chance to steal some of your enemy's\nEXP every time you damage them. </i><br>
+| Level | Cooldown | Chance | STEAL EXP | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 15.0%| 25-125| 75
+| II| 5 sec| 20.0%| 25-125| 125
+| III| 5 sec| 25.0%|  25-125| 175
+| IV| 5 sec| 30.0%|  25-125| 250
+| V| 5 sec| 35.0%|  25-125| 300
+
+
+<b> Soul Dragon (III) </b><br>
+<b> Applies to: </b> Ranged and Close Weapon <br>
+<i> Chance to get alot of soul if you killed the ender dragon. </i><br>
+| Level | Cooldown | Souls Obtain
+| :-: | :-: | :-: 
+| I| 20%| 5000-25000
+| II| 40%| 5000-35000
+| III| 60%| 5000-50000
+
+
+<b> Soul Master (V) </b><br>
+<b> Applies to: </b> Pickaxe <br>
+<i> Chance to get a random 5-20 souls in mining.</i><br>
+| Level | Cooldown | Souls Obtain
+| :-: | :-: | :-: 
+| I| 7.0%| 5-20
+| II| 12.0%| 5-20
+| III| 17.0%| 5-20
+| IV| 20.0%| 5-20
+| V| 25.0%| 5-20
+
+
+<b> Soulbound (IV) </b><br>
+<b> Applies to: </b> Ranged and Close Weapon <br>
+<i> A chance to keep item on death. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 300 sec| 20.0%| 500
+| II| 300 sec| 30.0%| 1000
+| III| 300 sec| 40.0%| 2000
+| IV| 300 sec| 50.0%| 3000
+
+
+<b> Teleblock (V) </b><br>
+<b> Applies to: </b> Ranged Weapon <br>
+<i> Your bow is enchanted with enderpearl blocking magic.A chance that damaged players will be unable to use enderpearls for up to 20 seconds and will lose up to 3 enderpearls from their inventory. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 15 sec| 9.0%| 200
+| II| 15 sec| 14.0%| 400
+| III| 15 sec| 19.0%| 600
+| IV| 15 sec| 25.0%| 800
+| V| 15 sec| 30.0%| 1000
+
+
+<b> Thief (III) </b><br>
+<b> Applies to: </b> Weapons <br>
+<i> A chance to steal your enemy money on each attack.  </i><br>
+| Level | Cooldown | Chance | Steal Money| Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 15 sec| 10.0%| 100-25000| 250
+| II| 15 sec| 15.0%| 100-25000| 400
+| III| 15 sec| 20.0%| 100-25000| 600
+
+
+<b> Trap (III) </b><br>
+<b> Applies to: </b> Sword <br>
+<i> Chance to give buffed slowness effect. </i><br>
+| Level | Cooldown | Chance | Slowness Potency and Duration| Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 8 sec| 16.0%| XV and 3 secs| 300
+| II| 8 sec| 21.0%| XV and 6 secs| 500
+| III| 8 sec| 27.0%| XV and 8 secs| 800
+
+
+<b> Unbreakable (IX) </b><br>
+<b> Applies to: </b> Tools <br>
+<i> Tools with this enchant become unbreakable </i><br>
+| Level | Chance | Souls 
+| :-: | :-: | :-: 
+| I| 10.0%| 30
+| II| 20.0%| 30
+| III| 30.0%| 30
+| IV| 40.0%| 30
+| V| 50.0%| 30
+| VI| 60.0%| 30
+| VII| 70.0%| 30
+| VIII| 80.0%| 30
+| IX| 90.0%| 30
+| X| 100.0%| 30
+
 
 
 ___________________________________________________________________________________
