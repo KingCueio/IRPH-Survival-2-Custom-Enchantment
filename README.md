@@ -1603,7 +1603,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Critblade (V) </b><br>
 <b> Applies to: </b> Sword <br>
 <b> Effects: </b> Increases damage by a certain percentage <br>
-<b> Condition: </b> Attacked unit must hold a Bow or Sword <br>
+<b> Condition: </b> Attacked unit must hold a Bow or Sword or Axe <br>
 <b> Not compatible with: </b> Greatsword <br>
 <i> Critical damage against players who are wielding a Bow/Sword/Axe at the time they are hit. </i><br>
 | Level | Cooldown | Chance | Damage Increase | Souls 
