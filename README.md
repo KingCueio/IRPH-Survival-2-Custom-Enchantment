@@ -2960,7 +2960,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | :-: | :-: | :-: | :-: | :-:  
 | I| 3 sec| 25.0%| 30%| 500
 | II| 3 sec| 50.0%| 50%| 1000
-| III| 3 sec| 75.0%| 75| 1500
+| III| 3 sec| 75.0%| 75%| 1500
 
 
 <b> Bulky (VI) </b><br>
