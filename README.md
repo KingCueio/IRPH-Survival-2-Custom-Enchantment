@@ -2212,7 +2212,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Gears (III) </b><br>
 <b> Applies to: </b> Boots <br>
-<b> Effects: </b> When wearing the helmet, gain a haste effect <br>
+<b> Effects: </b> When wearing the boots, gain a haste effect <br>
 <i> Gives permanent haste. </i><br>
 | Level | Cooldown | Chance 
 | :-: | :-: | :-: 
