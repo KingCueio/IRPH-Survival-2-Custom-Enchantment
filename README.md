@@ -1825,6 +1825,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Panzer (V) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Not compatible with: </b> Tank, Dense <br>
 <i> Chance to decreases damage from enemy axes by 3% per level. </i><br>
 | Level | Cooldown | Chance | Damage Reduction | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1837,7 +1838,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Paralyze (IV) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Strikes the attacked player with lightning <br>
-<b> Not compatible with: </b> Tank, Dense <br>
 <i> Gives lightning effect and a chance for slowness and slow swinging. </i><br>
 | Level | Cooldown | Chance | Damage Reduction | Souls 
 | :-: | :-: | :-: | :-: | :-: 
