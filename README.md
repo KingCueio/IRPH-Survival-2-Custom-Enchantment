@@ -6,7 +6,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 ## **Simple Custom Enchantments**
 
 <b> Bone Crusher (III) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effect: </b> Randomly increases damage by 10% to 40% <br>
 <i> Increases damage dealt to Skeletons. </i><br>
 | Level | Cooldown | Chance 
@@ -26,7 +26,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 0 sec
 
 <b> Death Punch (V) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effect: </b> Randomly increases damage by 10% to 40% <br>
 <i> Increases damage dealt to Zombies. </i><br>
 | Level | Cooldown | Chance 
@@ -38,7 +38,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 0 sec| 80%
 
 <b> Decapitation (III) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effect: </b> Drops the head of the killed player <br>
 <i> Chance to have opponents head drop on death. </i><br>
 | Level | Cooldown | Chance 
@@ -82,7 +82,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 13 sec| 54%| 3.0
 
 <b> Immolate (III) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Randomly increases damage by 10% to 40% <br>
 <i> Increases damage dealt to Spiders </i><br>
 | Level | Cooldown | Chance 
@@ -92,7 +92,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 0 sec| 75%
 
 <b> Infernal (III) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Sets the attacked entity on fire <br>
 <i> Explosive fire effect </i><br>
 | Level | Cooldown | Chance | Flame strength | Flame duration 
@@ -141,7 +141,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 4 sec| 40%
 
 <b> Thunderlord (III) </b><br>
-<b> Applies to: </b> Axes, Swords <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Strikes the mob with lightning <br>
 <b> Condition: </b> Have a 3-hit combo against the mob <br>
 <i> Strike monsters with lightning every 3 consecutive hits </i><br>
@@ -188,7 +188,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 0 sec| 75%
 
 <b> Berserk (V) </b><br>
-<b> Applies to: </b> Axes, Swords <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Player holding the weapon will get mining fatigue and strength <br>
 <i> Chance of strength and mining fatigue </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -234,7 +234,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 0 sec| 80%| 8
 
 <b> Famine (IV) </b><br>
-<b> Applies to: </b> Axes, Swords <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effect: </b> Gives the opponent hunger <br>
 <i> A chance to give your opponent the hunger effect. </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -245,7 +245,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 8 sec| 22%|  II for 6 sec| 25
 
 <b> Featherweight (III) </b><br>
-<b> Applies to: </b> Axes, Swords <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effect: </b> Gives the player haste effect <br>
 <i> Chance to get a burst of haste </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -374,7 +374,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 2 sec| 63%| 8| 11
 
 <b> Nether Slayer (V) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effect: </b> Randomly increases damage dealt to mobs by 10% to 40% <br>
 <b> Condition: </b> The mob must be a Blaze, Zombified Piglin, or a Ghast <br>
 <i> Increases damage dealt to nether mobs </i><br>
@@ -410,7 +410,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 3 sec| 21%| II for 5 sec| 55
 
 <b> Poison (III) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Gives the attacked entity poison effect <br>
 <i> A chance of giving poison effect </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -431,7 +431,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 6 sec| 23%|  II for 6 sec| 30
 
 <b> Ravenous (IV) </b><br>
-<b> Applies to: </b> Axes, Swords <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Randomly increases the hunger bar by 1 to 4 when hitting an entity <br>
 <i> Chance to regain hunger while fighting </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -452,7 +452,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 8 sec| 40%| 50| 20
 
 <b> Slayer (IV) </b><br>
-<b> Applies to: </b> Axes, Swords <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Randomly increases damage by 10% to 40% <br>
 <b> Condition: </b> Attacked mob must be passive <br>
 <i> Increases damage dealt to Passive Mobs </i><br>
@@ -593,7 +593,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 20 sec| 26%| 10
 
 <b> Beastslayer (IV) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Randomly increases damage by 10% to 40% <br>
 <b> Conditions: </b> Mob must be hostile <br>
 <i> Increases damage dealt to Hostile Mobs. </i><br>
@@ -1051,7 +1051,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 ## **Ultimate Custom Enchantments**
  <b> Ambit (VII) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <i> Damages mobs within a radius that increases with the level of enchant. </i><br>
 | Level | Cooldown | Chance | Damage Range | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1835,7 +1835,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 7 sec| 20.0%| 15%| 125
 
 <b> Paralyze (IV) </b><br>
-<b> Applies to: </b> Swords, Axes <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Strikes the attacked player with lightning <br>
 <b> Not compatible with: </b> Tank, Dense <br>
 <i> Gives lightning effect and a chance for slowness and slow swinging. </i><br>
@@ -2612,7 +2612,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 <b> Coup de Grace (V) </b><br>
-<b> Applies to: </b> Melee Weapons <br>
+<b> Applies to: </b> Melee Weapon <br>
 <i> Chance to have critical damage to your enemy. </i><br>
 | Level | Cooldown | Chance | Increase Crit. Damage |  Souls 
 | :-: | :-: | :-: | :-: | :-: 
