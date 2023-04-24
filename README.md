@@ -2572,7 +2572,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Butcher (V) </b><br>
 <b> Applies to: </b> Sword <br>
-<i> A chance to steal health\nwhen attacking. </i><br>
+<i> A Chance to slow and steal health of enemy. </i><br>
 | Level | Cooldown | Chance | Lifesteal HP | Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
 | I| 20 sec| 20.0%| 2-4 HP | X and 4 secs| 700
@@ -2584,7 +2584,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Cold Vortex (III) </b><br>
 <b> Applies to: </b> Bow <br>
-<i> A chance to steal health\nwhen attacking. </i><br>
+<i> Chance to slow your enemy if get hit by bow. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 60 sec| 10.0%| VII and 3 secs| 500
