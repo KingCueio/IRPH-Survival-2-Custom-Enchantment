@@ -2703,7 +2703,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 <b> Horrid (V) </b><br>
-<b> Applies to: </b> Shield <br>
+<b> Applies to: </b> Armor <br>
 <b> Effects: </b> Chance to give wither/blindness/confusion/slow digging effect to \nyour enemy if you blocked enemy attack. <br>
 <i> Deal weakness and wither effects. </i><br>
 | Level | Cooldown | Chance | Weakness Potency and Duration | Wither Potency and Duration | Blindness Potency and Duration | Confusion Potency and Duration | Souls 
@@ -2724,7 +2724,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 <b> Impactweight (III) </b><br>
-<b> Applies to: </b> Shield <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Chance to get a burst of haste and add extra damage to your enemy. <br>
 | Level | Cooldown | Chance | Haste Potency and Duration | Extra Damage HP | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2734,7 +2734,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 <b> Jinada (III) </b><br>
-<b> Applies to: </b> Shield <br>
+<b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Chance to Steal your enemy money on each attack with extra damage. <br>
 | Level | Cooldown | Chance | Steal Money  | Extra Damage HP | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2919,7 +2919,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 <b> Viper Strike (III) </b><br>
-<b> Applies to: </b> Shield <br>
+<b> Applies to: </b> Bow <br>
 <i> Chance to magnet and stun nearby enemy at least 3 radius if you blocked enemy attack. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration | Poison Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
@@ -2938,9 +2938,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 60 sec| 19.0%| 2 - 7 HP| 1250
 
 
-<b> Viper Strike (III) </b><br>
+<b> Withered (III) </b><br>
 <b> Applies to: </b> Shield <br>
-<i> Chance to magnet and stun nearby enemy at least 3 radius if you blocked enemy attack. </i><br>
+<i> Chance to give wither effect nearby enemy at \nleast 3 radius if you blocked enemy attack. </i><br>
 | Level | Cooldown | Chance | Wither Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-:  
 | I| 180 sec| 12.0%| II and 4 secs| 300
