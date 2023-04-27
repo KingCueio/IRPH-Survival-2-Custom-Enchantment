@@ -2271,6 +2271,16 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 10 sec| 75.0%| 200
 
 
+<b> Hex (IV) </b><br>
+<b> Applies to: </b> Axes <br>
+<b> Effects: </b> Once a target is affected by Hexna portion of all their outgoing damage is decreased. 1.5-4 HP damage is reflected back to them.<br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-:
+| I| 10 sec| 8.0%| 100
+| II| 10 sec| 15.0%| 175
+| III| 10 sec| 19.0%| 250
+| IV| 10 sec| 25.0%| 425
+
 <b> Impede (III) </b><br>
 <b> Applies to: </b> Boots <br>
 <b> Effects: </b> Chance to cause no knockback to players. <br>
