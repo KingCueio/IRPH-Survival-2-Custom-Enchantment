@@ -104,7 +104,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Plummet (III) </b><br>
 <b> Applies to: </b> Boots <br>
 <b> Effects: </b> Damages nearby mobs after taking fall damage <br>
-<i> Deal damage to nearby mobs\nwhen taking fall damage </i><br>
+<i> Deal damage to nearby mobs when taking fall damage </i><br>
 | Level | Cooldown | Chance | Radius | Damage Strength 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 0 sec| 40%| 3| 2
@@ -114,7 +114,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Potato Planter (III) </b><br>
 <b> Applies to: </b> Hoes <br>
 <b> Effects: </b> Plants seeds on a 3x3 area <br>
-<i> Plant potatoes in a 3x3 area\nby shift+right-clicking. </i><br>
+<i> Plant potatoes in a 3x3 area by shift+right-clicking. </i><br>
 | Level | Cooldown 
 | :-: | :-: 
 | I| 3 sec
@@ -2272,7 +2272,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Hellforged (V) </b><br>
 <b> Applies to: </b> Tools, Armor, Weapons <br>
-<b> Effects: </b> Item's Durability will regain durability \nevery time you sprint. Cost 50 Soul Activation. <br>
+<b> Effects: </b> Item's Durability will regain durability  every time you sprint. Cost 50 Soul Activation. <br>
 | Level | Regain Durability | Chance | Souls 
 | :-: | :-: | :-: | :-:
 | I| 60| 10.0%| 50
@@ -2321,7 +2321,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Inversion (IV) </b><br>
 <b> Applies to: </b> Sword <br>
-<b> Effects: </b> Damage dealt to you has a chance to be\nblocked and heal you for 1-5 HP. <br>
+<b> Effects: </b> Damage dealt to you has a chance to be blocked and heal you for 1-5 HP. <br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-:
 | I| 15 sec| 8.0%| 150
@@ -2365,7 +2365,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Nulify (V) </b><br>
 <b> Applies to: </b> Weapon <br>
-<i> Chance to deal double damage\nwhile leaving enemy blind. </i><br>
+<i> Chance to deal double damage while leaving enemy blind. </i><br>
 | Level | Cooldown | Chance | Blindness Potency and Duration | Soul
 | :-: | :-: | :-: | :-: | :-: 
 | I| 10 sec| 8.0%| 0 for 4 sec | 90
@@ -2453,7 +2453,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Skill Swipe (V) </b><br>
 <b> Applies to: </b> Weapons <br>
-<i> A chance to steal some of your enemy's\nEXP every time you damage them. </i><br>
+<i> A chance to steal some of your enemy's EXP every time you damage them. </i><br>
 | Level | Cooldown | Chance | STEAL EXP | Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 5 sec| 15.0%| 25-125| 75
@@ -2727,7 +2727,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Horrid (V) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Effects: </b> Chance to give wither/blindness/confusion/slow digging effect to \nyour enemy if you blocked enemy attack. <br>
+<b> Effects: </b> Chance to give wither/blindness/confusion/slow digging effect to  your enemy if you blocked enemy attack. <br>
 <i> Deal weakness and wither effects. </i><br>
 | Level | Cooldown | Chance | Weakness Potency and Duration | Wither Potency and Duration | Blindness Potency and Duration | Confusion Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: 
@@ -2778,7 +2778,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Mage (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
-<i> Chance to spawn a evoker in order \nto protect you in at least 5 seconds.</i><br>
+<i> Chance to spawn a evoker in order  to protect you in at least 5 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 120 sec| 5.0%| 2| 500
@@ -2889,7 +2889,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Soul Shield (III) </b><br>
 <b> Applies to: </b> Shield <br>
-<i> Chance to steal 25 souls in enemy''s \nweapon if blocked the attack.  </i><br>
+<i> Chance to steal 25 souls in enemy''s  weapon if blocked the attack.  </i><br>
 | Level | Cooldown | Chance | Steal Soul| Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 6 sec| 10.0%| 50| 25
@@ -2899,7 +2899,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Soul Siphone (IV) </b><br>
 <b> Applies to: </b> Boots <br>
-<b> Effect: </b> Proc'ing on outgoing damage events this enchant siphons souls\nand durability from enemies in large quantities! <br>
+<b> Effect: </b> Proc'ing on outgoing damage events this enchant siphons souls and durability from enemies in large quantities! <br>
 <i> Chance to steal 2009 souls and extra damage durability at least 30 to the enemy.  </i><br>
 | Level | Cooldown | Chance | Steal Soul| Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2911,7 +2911,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Sturdy (III) </b><br>
 <b> Applies to: </b> Shield <br>
-<i> Absorb enemy damage and\nreflect it back. </i><br>
+<i> Absorb enemy damage and reflect it back. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
 | I| 10 sec| 7%| 400
@@ -2963,7 +2963,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Withered (III) </b><br>
 <b> Applies to: </b> Shield <br>
-<i> Chance to give wither effect nearby enemy at \nleast 3 radius if you blocked enemy attack. </i><br>
+<i> Chance to give wither effect nearby enemy at  least 3 radius if you blocked enemy attack. </i><br>
 | Level | Cooldown | Chance | Wither Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-:  
 | I| 180 sec| 12.0%| II and 4 secs| 300
@@ -3012,7 +3012,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Death God (III) </b><br>
 <b> Applies to: </b> Helmet <br>
-<b> Effects: </b> Attacks that bring your HP to\n(level+4) hearts or lower have a chance\nto heal you for (level+5) hearts instead. <br>
+<b> Effects: </b> Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead. <br>
 <i> A chance to heal yourself 11-13 HP if your health hp is 5.5 HP below </i><br>
 | Level | Cooldown | Chance | HP Heal | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -3033,7 +3033,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Drunk (V) </b><br>
 <b> Applies to: </b> Shield <br>
-<i> Chance to give nausea, slowness, and mining \nfatigue effect to enemy if you blocked the attack. </i><br>
+<i> Chance to give nausea, slowness, and mining  fatigue effect to enemy if you blocked the attack. </i><br>
 | Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
 | I| 180 sec| 5.0%| I and 3 secs| I and 3 secs| 800
@@ -3090,7 +3090,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Mark of the Beast (VI) </b><br>
 <b> Applies to: </b> Armor <br>
-<i> Once an enemy is afflicted with the mark\nall incoming damage is increased by 2x for\nup to 5 seconds. </i><br>
+<i> Once an enemy is afflicted with the mark all incoming damage is increased by 2x for up to 5 seconds. </i><br>
 | Level | Cooldown |Chance | Increase Damage Percentage  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 600 sec |5.0%| 50%| 750
@@ -3103,7 +3103,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Obscurity (III) </b><br>
 <b> Applies to: </b> Shield <br>
-<i> Chance to blind nearby enemy and get you \nresistance and strength effect if you blocked attack. </i><br>
+<i> Chance to blind nearby enemy and get you  resistance and strength effect if you blocked attack. </i><br>
 | Level | Cooldown | Chance | Resistance & Strength Potency and Duration | Blindness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
 | I| 240 sec| 7.0%| I and 7 secs| I and 4 secs| 2000
@@ -3153,7 +3153,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Overboost (V) </b><br>
 <b> Applies to: </b> Stew & Soup <br>
-<b> Effects: </b> Gains a health boost \neffect depends on the level increasement. <br>
+<b> Effects: </b> Gains a health boost  effect depends on the level increasement. <br>
 | Level | Health Boost Potency and Duration | 
 | :-: | :-: 
 | I| 0 and 7.5 sec
@@ -3178,7 +3178,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Recovery (V) </b><br>
 <b> Applies to: </b> Stew & Soup <br>
-<b> Effects: </b> Gains a regeneration \neffect depends on the level increasement. <br>
+<b> Effects: </b> Gains a regeneration  effect depends on the level increasement. <br>
 | Level | Regeneration Potency and Duration | 
 | :-: | :-: 
 | I| I and 15 sec
