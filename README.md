@@ -2480,7 +2480,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Soul Dragon (III) </b><br>
 <b> Applies to: </b> Ranged and Close Weapon <br>
 <i> Chance to get alot of soul if you killed the ender dragon. </i><br>
-| Level | Cooldown | Souls Obtain
+| Level | Chance | Souls Obtain
 | :-: | :-: | :-: 
 | I| 20%| 5000-25000
 | II| 40%| 5000-35000
@@ -2490,7 +2490,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Soul Master (V) </b><br>
 <b> Applies to: </b> Pickaxe <br>
 <i> Chance to get a random 5-20 souls in mining.</i><br>
-| Level | Cooldown | Souls Obtain
+| Level | Chance | Souls Obtain
 | :-: | :-: | :-: 
 | I| 7.0%| 5-20
 | II| 12.0%| 5-20
