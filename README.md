@@ -2,6 +2,17 @@
 These are the Custom Enchantments Discriptions, Chances, Conditions, Effects at Immortal Realms Survival 2.            
 **Server IP: play.immortalrealms.co**                          
 If you want to find the specific word, just do **F3**, and type the word you want. Good luck! 🙂
+
+## Table of Contents 
+- [Simple Custom Enchantments](#simple-custom-enchantments)
+- [Unique Custom Enchantments](#unique-custom-enchantments)
+- [Elite Custom Enchantments](#elite-custom-enchantments)
+- [Ultimate Custom Enchantments](#ultimate-custom-enchantments)
+- [Legendary Custom Enchantments](#legendary-custom-enchantments)
+- [Fabled Custom Enchantments](#fabled-custom-enchantments)
+- [Immortal Custom Enchantments](#immortal-custom-enchantments)
+- [Ancient Custom Enchantments](#ancient-custom-enchantments)
+- [Cuisine Custom Enchantments](#cuisine-custom-enchantments)
  
 ## **Simple Custom Enchantments**
 
