@@ -2847,6 +2847,16 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 180 sec| 14.0%| 3 Blocks| 1.5 sec| 1200
 | III| 180 sec| 22.0%| 3 Blocks| 1.5 sec| 1600
 
+<b> Revive (III) </b><br>
+<b> Applies to: </b> Chestplate <br>
+<i> Chance to revive yourself when killed. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 60 sec| 20.0%| 400
+| II| 60 sec| 30.0%| 600
+| III| 60 sec| 40.0%| 800
+| VI| 60 sec| 50.0%| 1000
+| V| 60 sec| 60.0%| 1200
 
 <b> Revulsion (V) </b><br>
 <b> Applies to: </b> Shield <br>
