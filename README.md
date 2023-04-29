@@ -118,9 +118,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Deal damage to nearby mobs when taking fall damage </i><br>
 | Level | Cooldown | Chance | Radius | Damage Strength 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 0 sec| 40%| 3| 2
-| II| 0 sec| 80%|  5| 3
-| III| 0 sec| 100%|  8| 5
+| I| 0 sec| 40%| 3| 5
+| II| 0 sec| 80%|  5| 7
+| III| 0 sec| 100%|  8| 10
 
 <b> Potato Planter (III) </b><br>
 <b> Applies to: </b> Hoes <br>
@@ -1100,7 +1100,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Arrow Deflect (IV) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Effects: </b> Makes the arrow deal no damage nor knockback. Increases damage against the attacker for 5% to 15% <br>
+<b> Effects: </b> Makes the arrow deal no damage nor knockback. Reflects 5 to 15 hp damage back to the attacker. <br>
 <i> Chance to prevent enemy arrow from dealing damage. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1111,7 +1111,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Bleed (VI) </b><br>
 <b> Applies to: </b> Axes <br>
-<b> Effects: </b> Gives the attacked player Slowness I for 5 seconds. Deals 1-3 damage, 3 times, with a 1 second delay. <br>
+<b> Effects: </b> Gives the attacked player Slowness I for 5 seconds. Deals 1-5 damage, 3 times, with a 1 second delay. <br>
 <i> Make your opponent bleed. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1133,7 +1133,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Block (III) </b><br>
 <b> Applies to: </b> Swords <br>
-<b> Effects: </b> Halves the damage taken and hurts the attacker for 1 to 4 damage. <br>
+<b> Effects: </b> Halves the damage taken and hurts the attacker for 1 to 9 damage. <br>
 <i> A chance to negate an attack and deal up to 4 damage back. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1147,10 +1147,10 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to strike with great force. </i><br>
 | Level | Cooldown | Chance | Damage | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 5 sec| 5%| 3| 70
-| II| 5 sec| 8%| 4| 90
-| III| 5 sec| 10%| 5| 110
-| IV| 5 sec| 12%| 6| 130
+| I| 5 sec| 5%| 5| 70
+| II| 5 sec| 8%| 6| 90
+| III| 5 sec| 10%| 7| 110
+| IV| 5 sec| 12%| 8| 130
 
 <b> Chaos (V) </b><br>
 <b> Applies to: </b> Trident <br>
@@ -1230,7 +1230,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Dual Wield (III) </b><br>
 <b> Applies to: </b> Weapon <br>
-<b> Effects: </b> Adds 2 to 5 extra damage to the attack. <br>
+<b> Effects: </b> Adds 2 to 8 extra damage to the attack. <br>
 <i> Chance to proc two damage events. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1337,11 +1337,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance slow and bleed opponents. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration | Total Damage | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 12 sec| 15%| I for 1 sec| 3| 80
-| II| 12 sec| 18%| I for 2 sec|  5| 90
-| III| 12 sec| 19%|  I for 2.5 sec|  6| 100
-| IV| 13 sec| 21%|  I for 3 sec|  7| 120
-| V| 13 sec| 25%|  II for 3 sec|  8| 150
+| I| 12 sec| 15%| I for 1 sec| 15| 80
+| II| 12 sec| 18%| I for 2 sec|  15| 90
+| III| 12 sec| 19%|  I for 2.5 sec|  15| 100
+| IV| 13 sec| 21%|  I for 3 sec|  18| 120
+| V| 13 sec| 25%|  II for 3 sec|  21| 150
 
 <b> Piercing (V) </b><br>
 <b> Applies to: </b> Bows, Crossbow <br>
@@ -1653,7 +1653,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Divine Immolation (IV) </b><br>
 <b> Applies to: </b> Sword <br>
-<b> Effects: </b> Burns enemies in a 5 block radius and damages them three times for 6 hp in total <br>
+<b> Effects: </b> Burns enemies in a 5 block radius and damages them three times for 15 hp in total <br>
 <i> Chance for your sword to be imbued with divine fire, turning all your physical attacks into Area of Effect spells and igniting divine fire upon all nearby enemies. 75 souls per use. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1664,7 +1664,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Double Edge (III) </b><br>
 <b> Applies to: </b> SWORD;AXE <br>
-<b> Effects: </b> Damages both players by 1.5 to 4 hp <br>
+<b> Effects: </b> Damages both players by 5 to 20 hp <br>
 <i> Chance a good damage to enemy but also damage to yourself </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1937,7 +1937,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Stormcaller (IV) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Effects: </b> Strikes the attacked player with lightning and damages them for 3 to 7 hp <br>
+<b> Effects: </b> Strikes the attacked player with lightning and damages them for 5 to 17 hp <br>
 <i> Strikes lightning on attacking players. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1960,7 +1960,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Twinge (IV) </b><br>
 <b> Applies to: </b> Trident <br>
-<b> Effects: </b> Damages the player by 5 to 6 hp three times <br>
+<b> Effects: </b> Damages the player by 5 to 15 hp three times <br>
 <i> Make your enemy bleed, if hit using melee attack. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2023,6 +2023,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Backstab (III) </b><br>
 <b> Applies to: </b> Sword <br>
+<b> Effects: </b> Teleports and damages the enemy by 5 to 25 hp <br>
 <i> Chance to teleport behind to your enemy that deals damages. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2033,7 +2034,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Beheaded (V) </b><br>
 <b> Applies to: </b> Sword & Axe <br>
-<b> not applyable witho: </b> Decapitation CE <br>
+<b> Not compatible with: </b> Decapitation CE <br>
 <i> Chance to have opponents head drop on death and gains Strength II. </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration 
 | :-: | :-: | :-: | :-:
@@ -2047,13 +2048,13 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Damages mobs within a radius that increases with the level of enchant. </i><br>
 | Level | Cooldown | Chance | Damage Range | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 8 sec| 4%| 1| 100
-| II| 8 sec| 6%| 2| 130
-| III| 9 sec| 8%| 3| 160
-| IV| 9 sec| 10%| 4| 190
-| V| 10 sec| 12%| 5| 220
-| VI| 12 sec| 14%| 6| 250
-| VII| 14 sec| 16%| 7| 280
+| I| 8 sec| 4%| 5-15| 100
+| II| 8 sec| 6%| 5-15| 130
+| III| 9 sec| 8%| 5-15| 160
+| IV| 9 sec| 10%| 5-15| 190
+| V| 10 sec| 12%| 5-15| 220
+| VI| 12 sec| 14%| 5-15| 250
+| VII| 14 sec| 16%| 5-15| 280
 
 
 <b> Deathbringer (III) </b><br>
@@ -2090,14 +2091,15 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Destruction (V) </b><br>
 <b> Applies to: </b> Helmet <br>
+<b> Effects: </b> Inflicts damage and removes buffs from all nearby enemies <br>
 <i> Chance to damages and debuffs all nearby enemies when attacked. </i><br>
-| Level | Cooldown | Chance | Debuff Effects | Radius |Souls 
+| Level | Cooldown | Chance | Debuff Effects | Radius | Damage | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 15 sec| 5.0%| Regeneration/Speed/Absorption/Haste/Strength |  3| 250
-| II| 15 sec| 10.0%| Regeneration/Speed/Absorption/Haste/Strength |  4| 500
-| III| 17 sec| 15.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 750
-| IV| 17 sec| 20.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 1000
-| V| 20 sec| 25.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 1250
+| I| 15 sec| 5.0%| Regeneration/Speed/Absorption/Haste/Strength |  3| 5 |250
+| II| 15 sec| 10.0%| Regeneration/Speed/Absorption/Haste/Strength |  4| 5 | 500
+| III| 17 sec| 15.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 5 |750
+| IV| 17 sec| 20.0%| Regeneration/Speed/Absorption/Haste/Strength |  5|7|  1000
+| V| 20 sec| 25.0%| Regeneration/Speed/Absorption/Haste/Strength |  5|10| 1250
 
 
 <b> Disarm (III) </b><br>
@@ -2297,7 +2299,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Hex (IV) </b><br>
 <b> Applies to: </b> Axes <br>
-<b> Effects: </b> Once a target is affected by Hexna portion of all their outgoing damage is decreased. 1.5-4 HP damage is reflected back to them.<br>
+<b> Effects: </b> Once a target is affected by Hex, a portion of all their outgoing damage is decreased. 5 to 20 HP damage is reflected back to them.<br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-:
 | I| 10 sec| 8.0%| 100
@@ -2355,7 +2357,8 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Mortal Coil (V) </b><br>
 <b> Applies to: </b> Helmet <br>
-<b> Effects: </b> Chance to deal damage at 1-2 HP to your enemy.<br>
+<b> Effects: </b> Chance to deal damage at 5 to 10 HP to your enemy.<br>
+<i> Chance to deal great damage </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-:
 | I| 5 sec| 3.0%| 90
@@ -2638,11 +2641,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Counter Helix (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
 <i> Chance to perform a helix counter attack that deals pure damage to all nearby enemies </i><br>
-| Level | Cooldown | Chance | HP Damage and Radius|  Souls 
+| Level | Cooldown | Chance | Damage and Radius |  Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 5 sec| 16.0%| 2 - 5 HP and 3 Blocks| 500
-| II| 5 sec| 17.0%| 2 - 5 HP and 3 Blocks| 1000
-| III| 5 sec| 19.0%| 2 - 6 HP and 3 Blocks| 1500
+| I| 5 sec| 16.0%| 10 - 23 HP and 3 Blocks| 500
+| II| 5 sec| 17.0%| 10 - 23 HP and 3 Blocks| 1000
+| III| 5 sec| 19.0%| 10 - 25 HP and 3 Blocks| 1500
 
 
 <b> Coup de Grace (V) </b><br>
@@ -2762,9 +2765,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Chance to get a burst of haste and add extra damage to your enemy. <br>
 | Level | Cooldown | Chance | Haste Potency and Duration | Extra Damage HP | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 15 sec| 20%| 0 and 6 secs| 1.75-4 HP | 1500
-| II| 15 sec| 40%| I and 10 secs| 1.75-4 HP | 2000
-| III| 15 sec| 60%| II and 13 secs| 1.75-4 HP | 2500
+| I| 15 sec| 20%| 0 and 6 secs| 7 - 20 | 1500
+| II| 15 sec| 40%| I and 10 secs| 7 - 20 | 2000
+| III| 15 sec| 60%| II and 13 secs| 7 - 20 | 2500
 
 
 <b> Jinada (III) </b><br>
@@ -2772,9 +2775,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Chance to Steal your enemy money on each attack with extra damage. <br>
 | Level | Cooldown | Chance | Steal Money  | Extra Damage HP | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 15 sec| 10%| $100 - $25000| 2-4 HP | 1500
-| II| 15 sec| 15%| $100 - $25000| 2-4 HP | 2000
-| III| 15 sec| 20%| $100 - $25000| 2-4 HP | 2500
+| I| 15 sec| 10%| $100 - $25000| 10-20 HP | 1500
+| II| 15 sec| 15%| $100 - $25000| 10-20 HP | 2000
+| III| 15 sec| 20%| $100 - $25000| 10-20 HP | 2500
 
 
 <b> Johnny (III) </b><br>
@@ -2862,9 +2865,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to stun your enemy with extra damage. </i><br>
 | Level | Cooldown | Chance | Extra Damage HP | Freeze Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 30 sec| 10.0%| 1.5 - 6 HP| 2 sec| 750
-| II| 30 sec| 15.0%| 1.5 - 6 HP| 2 sec| 1250
-| III| 30 sec| 20.0%| 1.5 - 6 HP| 2 sec| 1500
+| I| 30 sec| 10.0%| 5 - 25 | 2 sec| 750
+| II| 30 sec| 15.0%| 5 - 25| 2 sec| 1250
+| III| 30 sec| 20.0%| 5 - 25| 2 sec| 1500
 
 
 <b> Searing Arrow (IV) </b><br>
@@ -2872,10 +2875,10 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to burn enemy if got hit by an arrow with extra damage. </i><br>
 | Level | Cooldown | Chance | Extra Damage HP | Burn Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 30 sec| 5.0%| 1.75 - 5 HP| 5 sec| 250
-| II| 30 sec| 7.0%| 1.75 - 5 HP| 5 sec| 350
-| III| 30 sec| 9.0%| 1.75 - 5 HP| 5 sec| 550
-| IV| 30 sec| 11.0%| 1.75 - 5 HP| 5 sec| 750
+| I| 30 sec| 5.0%| 7 - 23 HP| 5 sec| 250
+| II| 30 sec| 7.0%| 7 - 23 HP| 5 sec| 350
+| III| 30 sec| 9.0%| 7 - 23 HP| 5 sec| 550
+| IV| 30 sec| 11.0%| 7 - 23 HP| 5 sec| 750
 
 
 <b> Sharpen (IV) </b><br>
@@ -2965,11 +2968,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Walrush Punch (III) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
 <i> Chance to throw your enemy into air with a good amount of damage </i><br>
-| Level | Cooldown | Chance | Extra HP Damage| Souls 
+| Level | Cooldown | Chance | Extra HP Damage | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 60 sec| 8.0%| 2 - 7 HP| 750
-| II| 60 sec| 13.0%| 2 - 7 HP| 1000
-| III| 60 sec| 19.0%| 2 - 7 HP| 1250
+| I| 60 sec| 8.0%| 10 - 30 HP| 750
+| II| 60 sec| 13.0%| 10 - 30 HP| 1000
+| III| 60 sec| 19.0%| 10 - 30 HP| 1250
 
 
 <b> Withered (III) </b><br>
