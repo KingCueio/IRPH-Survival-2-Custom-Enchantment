@@ -1653,7 +1653,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Double Edge (III) </b><br>
 <b> Applies to: </b> SWORD;AXE <br>
-<b> Effects: </b> Damages both players by 50 to 100 hp (huh?) <br>
+<b> Effects: </b> Damages both players by 1.5 to 4 hp <br>
 <i> Chance a good damage to enemy but also damage to yourself </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2269,6 +2269,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 10 sec| 45.0%| 140
 | IV| 10 sec| 60.0%| 180
 | V| 10 sec| 75.0%| 200
+
+<b> Hellforged (V) </b><br>
+<b> Applies to: </b> Tools, Armor, Weapons <br>
+<b> Effects: </b> Item's Durability will regain durability \nevery time you sprint. Cost 50 Soul Activation. <br>
+| Level | Regain Durability | Chance | Souls 
+| :-: | :-: | :-: | :-:
+| I| 60| 10.0%| 50
+| II| 60| 20.0%| 50
+| III| 40| 30.0%| 50
+| IV| 40| 40.0%| 50
+| V| 30| 50.0%| 50
+| VI| 30| 60.0%| 50
+| VII| 25| 70.0%| 50
 
 
 <b> Hex (IV) </b><br>
