@@ -2094,7 +2094,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Inflicts damage and removes buffs from all nearby enemies <br>
 <i> Chance to damages and debuffs all nearby enemies when attacked. </i><br>
 | Level | Cooldown | Chance | Debuff Effects | Radius | Damage | Souls 
-| :-: | :-: | :-: | :-: | :-: | :-:
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | I| 15 sec| 5.0%| Regeneration/Speed/Absorption/Haste/Strength |  3| 5 |250
 | II| 15 sec| 10.0%| Regeneration/Speed/Absorption/Haste/Strength |  4| 5 | 500
 | III| 17 sec| 15.0%| Regeneration/Speed/Absorption/Haste/Strength |  5| 5 |750
