@@ -2038,9 +2038,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to have opponents head drop on death and gains Strength II. </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration 
 | :-: | :-: | :-: | :-:
-| I| 7 sec| 15.0%| II for 10 sec
-| II| 7 sec| 18.0%|  II for 10 sec
-| III| 7 sec| 21.0%|  II for 10 sec
+| I| 7 sec| 15.0%| III for 10 sec
+| II| 7 sec| 18.0%|  III for 10 sec
+| III| 7 sec| 21.0%|  III for 10 sec
 
 
 <b> Cleave (VII) </b><br>
@@ -2348,11 +2348,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Gives strength and resistance to yourself and give slow swing to the enemy at low hp. </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration | Slow Swing Potency and Duration | Damage Resistance Potency and Duration | Soul
 | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 7 sec| 15.0%| 0 for 2 sec | 0 for 5 sec | 0 for 2 sec | 200
-| II| 7 sec| 18.0%|  0 for 3 sec| 0 for 6 sec | 0 for 3 sec | 300
-| III| 7 sec| 21.0%|  0 for 4 sec| I for 4 sec | 0 for 4 sec | 400
-| IV| 7 sec| 18.0%|  I for 3 sec| I for 5 sec | I for 3 sec | 500
-| V| 7 sec| 21.0%|  I for 4 sec| II for 5 sec | I for 4 sec | 600
+| I| 7 sec| 15.0%| I for 2 sec | I for 5 sec | I for 2 sec | 200
+| II| 7 sec| 18.0%|  I for 3 sec| I for 6 sec | I for 3 sec | 300
+| III| 7 sec| 21.0%|  I for 4 sec| II for 4 sec | I for 4 sec | 400
+| IV| 7 sec| 18.0%|  II for 3 sec| II for 5 sec | II for 3 sec | 500
+| V| 7 sec| 21.0%|  II for 4 sec| III for 5 sec | II for 4 sec | 600
 
 
 <b> Mortal Coil (V) </b><br>
@@ -2537,9 +2537,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to give buffed slowness effect. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration| Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 8 sec| 16.0%| XV and 3 secs| 300
-| II| 8 sec| 21.0%| XV and 6 secs| 500
-| III| 8 sec| 27.0%| XV and 8 secs| 800
+| I| 8 sec| 16.0%| XVI and 3 secs| 300
+| II| 8 sec| 21.0%| XVI and 6 secs| 500
+| III| 8 sec| 27.0%| XVI and 8 secs| 800
 
 
 <b> Unbreakable (IX) </b><br>
@@ -2579,9 +2579,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to magnet and blind your enemy if get hit by an arrow. </i><br>
 | Level | Cooldown | Chance | Blindness Potency and Duration| Pull Enemy Distance | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 5 sec| 10.0%| 0 and 3 secs| 1 block | 250
-| II| 5 sec| 15.0%| I and 3 secs| 2 blocks | 450
-| III| 5 sec| 20.0%| II and 3 secs| 3 blocks | 750
+| I| 5 sec| 10.0%| I and 3 secs| 1 block | 250
+| II| 5 sec| 15.0%| II and 3 secs| 2 blocks | 450
+| III| 5 sec| 20.0%| III and 3 secs| 3 blocks | 750
 
 
 <b> Avert (V) </b><br>
@@ -2590,11 +2590,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance of poisoning opponent and gaining regeneration. </i><br>
 | Level | Cooldown | Chance | Poison Potency and Duration| Regeneration Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 20 sec| 20.0%| I and 5 secs| I and 5 secs| 500
-| II| 20 sec| 25.0%| I and 7 secs| I and 5 secs| 750
-| III| 20 sec| 30.0%| II and 4 secs| I and 5 secs| 1000
-| IV| 20 sec| 35.0%| II and 6 secs| II and 6 secs| 1500
-| V| 25 sec| 40.0%| II and 8 secs| II and 8 secs| 2000
+| I| 20 sec| 20.0%| II and 5 secs| II and 5 secs| 500
+| II| 20 sec| 25.0%| II and 7 secs| II and 5 secs| 750
+| III| 20 sec| 30.0%| III and 4 secs| III and 5 secs| 1000
+| IV| 20 sec| 35.0%| III and 6 secs| III and 6 secs| 1500
+| V| 25 sec| 40.0%| III and 8 secs| III and 8 secs| 2000
 
 
 <b> Blockfield (III) </b><br>
@@ -2612,11 +2612,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> A Chance to slow and steal health of enemy. </i><br>
 | Level | Cooldown | Chance | Lifesteal HP | Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 20 sec| 20.0%| 2-4 HP | X and 4 secs| 700
-| II| 20 sec| 25.0%| 2-4 HP |  X and 4 secs| 1300
-| III| 20 sec| 30.0%| 2-4 HP |  X and 4 secs| 2100
-| IV| 20 sec| 40.0%| 2-5 HP |  X and 4 secs| 2800
-| V| 20 sec| 40.0%| 2-5 HP |  X and 4 secs| 3500
+| I| 20 sec| 20.0%| 2-4 HP | XI and 4 secs| 700
+| II| 20 sec| 25.0%| 2-4 HP |  XI and 4 secs| 1300
+| III| 20 sec| 30.0%| 2-4 HP |  XI and 4 secs| 2100
+| IV| 20 sec| 40.0%| 2-5 HP |  XI and 4 secs| 2800
+| V| 20 sec| 40.0%| 2-5 HP |  XI and 4 secs| 3500
 
 
 <b> Cold Vortex (III) </b><br>
@@ -2624,18 +2624,18 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to slow your enemy if get hit by bow. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 60 sec| 10.0%| VII and 3 secs| 500
-| II| 60 sec| 15.0%| VII and 4 secs| 800
-| III| 60 sec| 20.0%| VII and 5 secs| 12000
+| I| 60 sec| 10.0%| VIII and 3 secs| 500
+| II| 60 sec| 15.0%| VIII and 4 secs| 800
+| III| 60 sec| 20.0%| VIII and 5 secs| 12000
 
 <b> Corrosive Skin (III) </b><br>
 <b> Applies to: </b> Leggings <br>
 <i> Chance to venom and slow your enemy if you get attacked. </i><br>
 | Level | Cooldown | Chance | Poison Potency and Duration| Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 15 sec| 10.0%| III and 4 secs| III and 4 secs| 500
-| II| 15 sec| 15.0%| III and 4 secs| III and 4 secs| 800
-| III| 15 sec| 20.0%| III and 5 secs| III and 5 secs| 1200
+| I| 15 sec| 10.0%| IV and 4 secs| IV and 4 secs| 500
+| II| 15 sec| 15.0%| IV and 4 secs| IV and 4 secs| 800
+| III| 15 sec| 20.0%| IV and 5 secs| IV and 5 secs| 1200
 
 
 <b> Counter Helix (III) </b><br>
@@ -2690,11 +2690,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Deal weakness and wither effects. </i><br>
 | Level | Cooldown | Chance | Weakness Potency and Duration | Wither Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 10 sec| 30%| I for 6 sec| I for 6 sec| 300
-| II| 10 sec| 35%|  II for 3 sec|  II for 3 sec| 500
-| III| 10 sec| 40%|  II for 6sec|  II for 6 sec| 700
-| IV| 10 sec| 45%|  III for 3 sec|  III for 3 sec| 900
-| V| 10 sec| 50%|  III for 6 sec|  III for 6 sec| 1100
+| I| 10 sec| 30%| I for 6 sec| II for 6 sec| 300
+| II| 10 sec| 35%|  II for 3 sec|  III for 3 sec| 500
+| III| 10 sec| 40%|  II for 6sec|  III for 6 sec| 700
+| IV| 10 sec| 45%|  III for 3 sec|  IV for 3 sec| 900
+| V| 10 sec| 50%|  III for 6 sec|  IV for 6 sec| 1100
 
 
 <b> Fairy (III) </b><br>
@@ -2745,9 +2745,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Deal weakness and wither effects. </i><br>
 | Level | Cooldown | Chance | Weakness Potency and Duration | Wither Potency and Duration | Blindness Potency and Duration | Confusion Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 360 sec| 12%| IV for 2 sec| IV for 2 sec| IV for 2 sec| IV for 2 sec| 600
-| II| 360 sec| 19%|  IV for 2 sec|  IV for 2 sec| IV for 2 sec| IV for 2 sec| 900
-| III| 360 sec| 25%|  IV for 2 sec|  IV for 2 sec| IV for 2 sec| IV for 2 sec| 1200
+| I| 360 sec| 12%| IV for 2 sec| V for 2 sec| V for 2 sec| V for 2 sec| 600
+| II| 360 sec| 19%|  IV for 2 sec|  V for 2 sec| V for 2 sec| V for 2 sec| 900
+| III| 360 sec| 25%|  IV for 2 sec|  V for 2 sec| V for 2 sec| V for 2 sec| 1200
 
 
 <b> Hunter Night (III) </b><br>
@@ -2755,9 +2755,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Gives strength potion if the day become night. <br>
 | Level | Strength Potency 
 | :-: | :-: 
-| I| I
-| II| II
-| III| III
+| I| II
+| II| III
+| III| IV
 
 
 <b> Impactweight (III) </b><br>
@@ -2765,9 +2765,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Chance to get a burst of haste and add extra damage to your enemy. <br>
 | Level | Cooldown | Chance | Haste Potency and Duration | Extra Damage HP | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
-| I| 15 sec| 20%| 0 and 6 secs| 7 - 20 | 1500
-| II| 15 sec| 40%| I and 10 secs| 7 - 20 | 2000
-| III| 15 sec| 60%| II and 13 secs| 7 - 20 | 2500
+| I| 15 sec| 20%| I and 6 secs| 7 - 20 | 1500
+| II| 15 sec| 40%| II and 10 secs| 7 - 20 | 2000
+| III| 15 sec| 60%| III and 13 secs| 7 - 20 | 2500
 
 
 <b> Jinada (III) </b><br>
@@ -2807,9 +2807,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Gives permanent additional hearts if you wore the item . </i><br>
 | Level | Health Boost Potency | Chance 
 | :-: | :-: | :-: 
-| I| II| 100%
-| II| III| 100%
-| III| IV| 100%
+| I| III| 100%
+| II| IV | 100%
+| III| V| 100%
 
 
 <b> Paradox (V) </b><br>
@@ -2863,11 +2863,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to give nausea effect to enemy if you blocked the attack. </i><br>
 | Level | Cooldown | Chance | Nausea Potency and Duration| Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 60 sec| 10.0%| I and 3 secs| 200
-| II| 60 sec| 15.0%| I and 5 secs| 400
-| III| 60 sec| 20.0%| II and 3 secs| 600
-| IV| 60 sec| 24.0%| II and 5 secs| 800
-| V| 60 sec| 28.0%| II and 7 secs| 1000
+| I| 60 sec| 10.0%| II and 3 secs| 200
+| II| 60 sec| 15.0%| II and 5 secs| 400
+| III| 60 sec| 20.0%| III and 3 secs| 600
+| IV| 60 sec| 24.0%| III and 5 secs| 800
+| V| 60 sec| 28.0%| III and 7 secs| 1000
 
 
 <b> Sacred Arrow (III) </b><br>
@@ -2990,9 +2990,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to give wither effect nearby enemy at  least 3 radius if you blocked enemy attack. </i><br>
 | Level | Cooldown | Chance | Wither Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-:  
-| I| 180 sec| 12.0%| II and 4 secs| 300
-| II| 180 sec| 19.0%| II and 7 secs| 600
-| III| 180 sec| 25.0%| III and 5 secs| 900
+| I| 180 sec| 12.0%| III and 4 secs| 300
+| II| 180 sec| 19.0%| III and 7 secs| 600
+| III| 180 sec| 25.0%| IV and 5 secs| 900
 
 
 
@@ -3050,9 +3050,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Able to steal health on opponent but gives blindness and slowness to each other. </i><br>
 | Level | Cooldown | Chance | Blindness & Slowness Potency and Duration | Steal Health | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 60 sec| 10.0%| X and 3 secs| 5 HP| 1000
-| II| 60 sec| 15.0%| X and 3 secs| 5 HP| 2000
-| III| 60 sec| 20.0%| X and 3 secs| 5 HP| 3000
+| I| 60 sec| 10.0%| XI and 3 secs| 5 HP| 1000
+| II| 60 sec| 15.0%| XI and 3 secs| 5 HP| 2000
+| III| 60 sec| 20.0%| XI and 3 secs| 5 HP| 3000
 
 
 <b> Drunk (V) </b><br>
@@ -3060,11 +3060,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to give nausea, slowness, and mining  fatigue effect to enemy if you blocked the attack. </i><br>
 | Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 180 sec| 5.0%| I and 3 secs| I and 3 secs| 800
-| II| 180 sec| 9.0%| I and 5 secs| I and 5 secs| 1500
-| III| 180 sec| 14.0%| II and 3 secs| II and 3 secs| 2000
-| IV| 180 sec| 19.0%| II and 5 secs| II and 5 secs| 2500
-| V| 180 sec| 25.0%| II and 7 secs| II and 7 secs| 4000
+| I| 180 sec| 5.0%| II and 3 secs| II and 3 secs| 800
+| II| 180 sec| 9.0%| II and 5 secs| II and 5 secs| 1500
+| III| 180 sec| 14.0%| III and 3 secs| III and 3 secs| 2000
+| IV| 180 sec| 19.0%| III and 5 secs| III and 5 secs| 2500
+| V| 180 sec| 25.0%| III and 7 secs| III and 7 secs| 4000
 
 
 <b> Fade (III) </b><br>
@@ -3082,10 +3082,10 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to inflict enemies within a 32x32 radius with &6Horror&r. </i><br>
 | Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 120 sec| 1.5%| XXIII and 2 secs| XXIII and 2 secs| 2000
-| II| 120 sec| 3.0%| XXIII and 2 secs| XXIII and 2 secs| 4000
-| III| 120 sec| 4.5%| XXIII and 2 secs| XXIII and 2 secs| 8000
-| IV| 120 sec| 7.0%| XXIII and 2 secs| XXIII and 2 secs| 16000
+| I| 120 sec| 1.5%| XXIV and 2 secs| XXIV and 2 secs| 2000
+| II| 120 sec| 3.0%| XXIV and 2 secs| XXIV and 2 secs| 4000
+| III| 120 sec| 4.5%| XXIV and 2 secs| XXIV and 2 secs| 8000
+| IV| 120 sec| 7.0%| XXIV and 2 secs| XXIV and 2 secs| 16000
 
 
 <b> Insulation (IV) </b><br>
@@ -3094,10 +3094,10 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Gives permanent yellow additional hearts if you wore the item . </i><br>
 | Level | Health Boost Potency | Chance 
 | :-: | :-: | :-: 
-| I| 0| 100%
-| II| I| 100%
-| III| II| 100%
-| IV| III| 100%
+| I| I| 100%
+| II| II| 100%
+| III| III| 100%
+| IV| IV| 100%
 
 
 <b> Lunar Blessing (V) </b><br>
@@ -3130,9 +3130,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to blind nearby enemy and get you  resistance and strength effect if you blocked attack. </i><br>
 | Level | Cooldown | Chance | Resistance & Strength Potency and Duration | Blindness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 240 sec| 7.0%| I and 7 secs| I and 4 secs| 2000
-| II| 240 sec| 11.0%| I and 15 secs| I and 5 secs| 4000
-| III| 240 sec| 16.0%| II and 10 secs| II and 4 secs| 8000
+| I| 240 sec| 7.0%| II and 7 secs| I and 4 secs| 2000
+| II| 240 sec| 11.0%| II and 15 secs| I and 5 secs| 4000
+| III| 240 sec| 16.0%| III and 10 secs| II and 4 secs| 8000
 
 
 
@@ -3145,11 +3145,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Gains a Absorption effect depends on the level increasement. <br>
 | Level | Absorption Potency and Duration | 
 | :-: | :-: 
-| I| 0 and 10 sec
-| II| 0 and 20 sec
-| III| 0 and 30 sec
-| IV| I and 10 sec
-| V| I and 20 sec
+| I| I and 10 sec
+| II| I and 20 sec
+| III| I and 30 sec
+| IV| II and 10 sec
+| V| II and 20 sec
 
 
 <b> Defiant (V) </b><br>
@@ -3157,11 +3157,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Gains a resistance effect depends on the level increasement. <br>
 | Level | Resistance Potency and Duration | 
 | :-: | :-: 
-| I| I and 10 sec
-| II| I and 20 sec
-| III| I and 30 sec
-| IV| II and 10 sec
-| V| II and 20 sec
+| I| II and 10 sec
+| II| II and 20 sec
+| III| II and 30 sec
+| IV| III and 10 sec
+| V| III and 20 sec
 
 
 <b> Mermaid (V) </b><br>
@@ -3169,23 +3169,23 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Gains a dolphin grace power effect depends on the level increasement. <br>
 | Level | Dolphin Grace Potency and Duration | 
 | :-: | :-: 
-| I| I and 10 sec
-| II| I and 20 sec
-| III| I and 30 sec
-| IV| II and 10 sec
-| V| II and 20 sec
+| I| II and 10 sec
+| II| II and 20 sec
+| III| II and 30 sec
+| IV| III and 10 sec
+| V| III and 20 sec
 
 <b> Overboost (V) </b><br>
 <b> Applies to: </b> Stew & Soup <br>
 <b> Effects: </b> Gains a health boost  effect depends on the level increasement. <br>
 | Level | Health Boost Potency and Duration | 
 | :-: | :-: 
-| I| 0 and 7.5 sec
-| II| 0 and 15 sec
-| III| 0 and 30 sec
-| IV| 0 and 45 sec
-| V| I and 7.5 sec
-| V| I and 15 sec
+| I| I and 7.5 sec
+| II| I and 15 sec
+| III| I and 30 sec
+| IV| I and 45 sec
+| V| II and 7.5 sec
+| VI| II and 15 sec
 
 
 <b> Power (V) </b><br>
@@ -3193,11 +3193,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Gains a strength effect depends on the level increasement. <br>
 | Level | Strength Potency and Duration | 
 | :-: | :-: 
-| I| I and 30 sec
-| II| I and 45 sec
-| III| I and 60 sec
-| IV| II and 15 sec
-| V| II and 30 sec
+| I| II and 30 sec
+| II| II and 45 sec
+| III| II and 60 sec
+| IV| III and 15 sec
+| V| III and 30 sec
 
 
 <b> Recovery (V) </b><br>
@@ -3205,11 +3205,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Gains a regeneration  effect depends on the level increasement. <br>
 | Level | Regeneration Potency and Duration | 
 | :-: | :-: 
-| I| I and 15 sec
-| II| I and 22.5 sec
-| III| I and 30 sec
-| IV| II and 15 sec
-| V| II and 22.5 sec
+| I| II and 15 sec
+| II| II and 22.5 sec
+| III| II and 30 sec
+| IV| III and 15 sec
+| V| III and 22.5 sec
 
 
 <b> Reservoir (V) </b><br>
@@ -3217,11 +3217,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Gains a conduit power effect depends on the level increasement. <br>
 | Level | Regeneration Potency and Duration | 
 | :-: | :-: 
-| I| I and 10 sec
-| II| I and 20 sec
-| III| I and 30 sec
-| IV| II and 10 sec
-| V| II and 20 sec
+| I| II and 10 sec
+| II| II and 20 sec
+| III| II and 30 sec
+| IV| III and 10 sec
+| V| III and 20 sec
 ___________________________________________________________________________________
 
    **If you do have any issue or you see a mistakes regarding about the  Custom Enchantments Discriptions, Chances, Conditions, Effects in Survival 2. You may DM me on my Discord: KingCueio#1130**
