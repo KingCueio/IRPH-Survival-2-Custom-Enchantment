@@ -2800,7 +2800,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 120 sec| 15.0%| 3| 1000
 
 
-<b> Overload (III) </b><br>
+<b> Overcharge (III) </b><br>
 <b> Applies to: </b> Armor <br>
 <b> not applyable with: </b> overload <br>
 <b> Effects: </b> Unlocks additional hearts. <br>
