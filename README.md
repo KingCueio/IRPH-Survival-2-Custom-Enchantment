@@ -1850,12 +1850,12 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Applies to: </b> Melee Weapon <br>
 <b> Effects: </b> Strikes the attacked player with lightning <br>
 <i> Gives lightning effect and a chance for slowness and slow swinging. </i><br>
-| Level | Cooldown | Chance | Damage Reduction | Souls 
-| :-: | :-: | :-: | :-: | :-: 
-| I| 3 sec| 7.0%| 3%| 90
-| II| 3 sec| 10.0%| 6%| 120
-| III| 3 sec| 13.0%| 9%| 150
-| IV| 3 sec| 16.0%| 12%| 180
+| Level | Cooldown | Chance | Mining Fatigue Potency and Duration | Slowness Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 3 sec| 7.0%| I for 3 sec| IV for 3 sec |90
+| II| 3 sec| 10.0%| I for 5 sec|IV for 5 sec | 120
+| III| 3 sec| 13.0%| II for 3 sec|IV for 3 sec | 150
+| IV| 3 sec| 16.0%| II for 5 sec|V for 5 sec | 180
 
 
 <b> Reactive Armor (III) </b><br>
