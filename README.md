@@ -3005,9 +3005,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effect: </b> Chance to decrease damage of an Iron Golem's attack. <br>
 | Level | Cooldown | Chance | Decrease Damage | Souls 
 | :-: | :-: | :-: | :-: | :-:  
-| I| 3 sec| 25.0%| 30%| 500
-| II| 3 sec| 50.0%| 50%| 1000
-| III| 3 sec| 75.0%| 75%| 1500
+| I| 14 sec| 25.0%| 100%| 500
+| II| 10 sec| 50.0%| 100%| 1000
+| III| 6 sec| 75.0%| 100%| 1500
 
 
 <b> Bulky (VI) </b><br>
@@ -3030,8 +3030,8 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Steal health with the radius of 6 blocks </i><br>
 | Level | Cooldown | Chance | Lifesteal (HP) | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 120 sec| 2.5%| 1-3| 750
-| II| 120 sec| 5.0%| 1-3| 1500
+| I| 25 sec| 2.5%| 1-3| 750
+| II| 20 sec| 5.0%| 1-3| 1500
 
 
 <b> Death God (III) </b><br>
@@ -3050,9 +3050,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Able to steal health on opponent but gives blindness and slowness to each other. </i><br>
 | Level | Cooldown | Chance | Blindness & Slowness Potency and Duration | Steal Health | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 60 sec| 10.0%| XI and 3 secs| 5 HP| 1000
-| II| 60 sec| 15.0%| XI and 3 secs| 5 HP| 2000
-| III| 60 sec| 20.0%| XI and 3 secs| 5 HP| 3000
+| I| 13 sec| 10.0%| XI and 3 secs| 5 HP| 1000
+| II| 13 sec| 15.0%| XI and 3 secs| 5 HP| 2000
+| III| 13 sec| 20.0%| XI and 3 secs| 5 HP| 3000
 
 
 <b> Drunk (V) </b><br>
@@ -3060,11 +3060,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to give nausea, slowness, and mining  fatigue effect to enemy if you blocked the attack. </i><br>
 | Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 180 sec| 5.0%| II and 3 secs| II and 3 secs| 800
-| II| 180 sec| 9.0%| II and 5 secs| II and 5 secs| 1500
-| III| 180 sec| 14.0%| III and 3 secs| III and 3 secs| 2000
-| IV| 180 sec| 19.0%| III and 5 secs| III and 5 secs| 2500
-| V| 180 sec| 25.0%| III and 7 secs| III and 7 secs| 4000
+| I| 8 sec| 5.0%| II and 3 secs| II and 3 secs| 800
+| II| 8 sec| 9.0%| II and 5 secs| II and 5 secs| 1500
+| III| 8 sec| 14.0%| III and 3 secs| III and 3 secs| 2000
+| IV| 8 sec| 19.0%| III and 5 secs| III and 5 secs| 2500
+| V| 8 sec| 25.0%| III and 7 secs| III and 7 secs| 4000
 
 
 <b> Fade (III) </b><br>
@@ -3072,9 +3072,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to spawn a wither in order to protect you in at least 3 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 240 sec| 5.0%| 1| 1000
-| II| 240 sec| 10.0%| 1| 2000
-| III| 240 sec| 15.0%| 2| 4000
+| I| 45 sec| 5.0%| 1| 1000
+| II| 45 sec| 10.0%| 1| 2000
+| III| 45 sec| 15.0%| 2| 4000
 
 
 <b> Horrify (IV) </b><br>
@@ -3082,22 +3082,22 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to inflict enemies within a 32x32 radius with &6Horror&r. </i><br>
 | Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 120 sec| 1.5%| XXIV and 2 secs| XXIV and 2 secs| 2000
-| II| 120 sec| 3.0%| XXIV and 2 secs| XXIV and 2 secs| 4000
-| III| 120 sec| 4.5%| XXIV and 2 secs| XXIV and 2 secs| 8000
-| IV| 120 sec| 7.0%| XXIV and 2 secs| XXIV and 2 secs| 16000
+| I| 75 sec| 1.5%| XXIV and 6 secs| XXIV and 6 secs| 2000
+| II| 70 sec| 3.0%| XXIV and 6 secs| XXIV and 6 secs| 4000
+| III| 65 sec| 4.5%| XXIV and 6 secs| XXIV and 6 secs| 8000
+| IV| 60 sec| 7.0%| XXIV and 6 secs| XXIV and 6 secs| 16000
 
 
 <b> Insulation (IV) </b><br>
 <b> Applies to: </b> Boots <br>
-<b> Effects: </b> Unlocks additional yellow hearts. <br>
-<i> Gives permanent yellow additional hearts if you wore the item . </i><br>
-| Level | Health Boost Potency | Chance 
-| :-: | :-: | :-: 
-| I| I| 100%
-| II| II| 100%
-| III| III| 100%
-| IV| IV| 100%
+<b> Effects: </b> Chance to give absorption when hit  <br>
+<i> Unlocks additional yellow hearts. </i><br>
+| Level | Cooldown | Health Boost Potency and Duration| Chance 
+| :-: | :-: | :-: | :-: 
+| I| 30 sec | I for 10 sec| 100%
+| II| 30 sec | II for 10 sec| 100%
+| III| 30 sec | III for 15 sec| 100%
+| IV| 30 sec | IV for 15 sec| 100%
 
 
 <b> Lunar Blessing (V) </b><br>
@@ -3117,12 +3117,12 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Once an enemy is afflicted with the mark all incoming damage is increased by 2x for up to 5 seconds. </i><br>
 | Level | Cooldown |Chance | Increase Damage Percentage  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 600 sec |5.0%| 50%| 750
-| II| 600 sec |6.0%| 50%| 1000
-| III| 600 sec |8.0%| 50%| 1250
-| VI| 600 sec |10.0%| 50%| 1500
-| V| 600 sec |13.0%| 50%| 1750
-| VI| 600 sec |16.0%| 50%| 2000
+| I| 45 sec |5.0%| 50%| 750
+| II| 42 sec |6.0%| 50%| 1000
+| III| 39 sec |8.0%| 50%| 1250
+| VI| 36 sec |10.0%| 50%| 1500
+| V| 33 sec |13.0%| 50%| 1750
+| VI| 30 sec |16.0%| 50%| 2000
 
 
 <b> Obscurity (III) </b><br>
@@ -3130,9 +3130,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Chance to blind nearby enemy and get you  resistance and strength effect if you blocked attack. </i><br>
 | Level | Cooldown | Chance | Resistance & Strength Potency and Duration | Blindness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 240 sec| 7.0%| II and 7 secs| I and 4 secs| 2000
-| II| 240 sec| 11.0%| II and 15 secs| I and 5 secs| 4000
-| III| 240 sec| 16.0%| III and 10 secs| II and 4 secs| 8000
+| I| 30 sec| 7.0%| II and 7 secs| I and 4 secs| 2000
+| II| 30 sec| 11.0%| II and 15 secs| I and 5 secs| 4000
+| III| 40 sec| 16.0%| III and 10 secs| II and 4 secs| 8000
 
 
 
