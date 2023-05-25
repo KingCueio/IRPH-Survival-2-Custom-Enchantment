@@ -1228,6 +1228,20 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 8 sec| 22%| 29%| 115
 | V| 8 sec| 27%| 34%| 135
 
+<b> Dragon Rage (VI) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<i> Chance to get a strength in a matter of time when attacking a dragon.  </i><br>
+| Level | Cooldown | Chance | Strength Potency and Duration 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 35%| I for 5 sec
+| II| 4 sec| 40%| I for 7 sec
+| III| 4 sec| 45%| II for 5 sec
+| IV| 4 sec| 50%| II for 7 sec
+| V| 4 sec| 55%| III for 5 sec
+| VI| 4 sec| 60%| III for 7 sec
+
+
+
 <b> Dual Wield (III) </b><br>
 <b> Applies to: </b> Weapon <br>
 <b> Effects: </b> Adds 2 to 8 extra damage to the attack. <br>
@@ -2973,6 +2987,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 7 sec| 5.0%| III and 4 secs| IV and 4 secs| 600
 | II| 7 sec| 10.0%| III and 4 secs| IV and 4 secs| 900
 | III| 7 sec| 15.0%| III and 4 secs| IV and 4 secs| 1300
+
+<b> Void Stalker (IV) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Effects: </b> Gain permanent strength only if the enchant is worn <br>
+<i> Gives strength effect if you're in the End </i><br>
+| Level | Cooldown | Chance | Strength Potency and Duration
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 100%|I for 10 sec
+| II| 5 sec| 100%|  II for 10 sec
+| III| 5 sec| 100%|III for 10 sec
+| IV| 5 sec| 100%|  IV for 10 sec
 
 
 <b> Walrush Punch (III) </b><br>
