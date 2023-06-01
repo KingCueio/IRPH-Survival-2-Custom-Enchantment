@@ -2827,7 +2827,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 <b> Paradox (V) </b><br>
-<b> Applies to: </b> Swords <br>
+<b> Applies to: </b> Helmet <br>
 <b> Effects: </b> Chance to add 5 hearts to all allies in a 5 to 7 block radius <br>
 <i> Completely heals allies if you defense an enemy's attack. </i><br>
 | Level | Cooldown | Chance | Souls 
