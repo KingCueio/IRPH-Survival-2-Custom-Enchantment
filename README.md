@@ -2993,7 +2993,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effects: </b> Gain permanent strength only if the enchant is worn <br>
 <i> Gives strength effect if you're in the End </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration
-| :-: | :-: | :-: | :-: | :-: 
+| :-: | :-: | :-: | :-: 
 | I| 5 sec| 100%|I for 10 sec
 | II| 5 sec| 100%|  II for 10 sec
 | III| 5 sec| 100%|III for 10 sec
