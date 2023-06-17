@@ -1232,7 +1232,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Applies to: </b> Swords, Axes <br>
 <i> Chance to get a strength in a matter of time when attacking a dragon.  </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration 
-| :-: | :-: | :-: | :-: | :-: 
+| :-: | :-: | :-: | :-: 
 | I| 4 sec| 35%| I for 5 sec
 | II| 4 sec| 40%| I for 7 sec
 | III| 4 sec| 45%| II for 5 sec
