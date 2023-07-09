@@ -98,7 +98,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Infernal (III) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
-<b> Type: </b> Mobs, Players
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Sets the attacked entity on fire <br>
 <i> Explosive fire effect </i><br>
 | Level | Cooldown | Chance | Flame strength | Flame duration 
@@ -586,7 +586,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Armored (IV) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Type: </b> Players
+<b> Type: </b> Players  
 <b> Effects: </b> Reduces incoming damage by percentage <br>
 <b> Conditions: </b> Attacker must be holding a sword <br>
 <i> Decreases damage from enemy swords by 2% per level. </i><br>
@@ -745,7 +745,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Hardened (III) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Type: </b> Players
+<b> Type: </b> Players  
 <b> Effects: </b> Regain durability when damaged by players <br>
 <i> Chance to recover durability when damaged by players. </i><br>
 | Level | Cooldown | Chance | Recovered Durability | Souls 
@@ -1067,7 +1067,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 ## **Ultimate Custom Enchantments**
 <b> Ambit (VII) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
-<b> Type: </b> Mobs
+<b> Type: </b> Mobs  
 <i> Damages mobs within a radius that increases with the level of enchant. </i><br>
 | Level | Cooldown | Chance | Damage Range | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1201,7 +1201,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Deranged (III) </b><br>
 <b> Applies to: </b> Swords <br>
-<b> Type: </b> Players
+<b> Type: </b> Players  
 <b> Effects: </b> Strikes nearby players with lightning. The radius scales with level.  <br>
 <i> Strike lightning at nearby players. </i><br>
 | Level | Cooldown | Chance | Radius | Souls 
@@ -2085,8 +2085,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Beheaded (V) </b><br>
 <b> Applies to: </b> Sword & Axe <br>
-<b> Type: </b> Player Kills
-<b> Not compatible with: </b> Decapitation CE <br>
+<b> Type: </b> Player Kills  
 <i> Chance to have opponents head drop on death and gains Strength II. </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration 
 | :-: | :-: | :-: | :-:
@@ -2651,7 +2650,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Attraction (III) </b><br>
 <b> Applies to: </b> Leggings <br>
-<b> Type: </b> Projectile
+<b> Type: </b> Projectile  
 <i> Chance to magnet and blind your enemy if get hit by an arrow. </i><br>
 | Level | Cooldown | Chance | Blindness Potency and Duration| Pull Enemy Distance | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2710,7 +2709,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Cold Vortex (III) </b><br>
 <b> Applies to: </b> Bow <br>
-<b> Type: </b> Players
+<b> Type: </b> Players  
 <i> Chance to slow your enemy if get hit by bow. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: 
