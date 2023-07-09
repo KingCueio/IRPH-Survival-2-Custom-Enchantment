@@ -2055,18 +2055,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 ## **Fabled Custom Enchantments**
-<b> Abiding (I) </b><br>
-<b> Applies to: </b> Weapons <br>
-<b> Effect: </b> Weapons with this enchant become unbreakable <br>
-<i> It repairs your weapon after it gets broken. </i><br>
-| Level | Souls 
-| :-: | :-: 
-| I| 2500
-
-
 <b> Assault Shot (V) </b><br>
 <b> Applies to: </b> Bow <br>
-<b> not applyable with: </b> Sniper CE <br>
+<b> Type: </b> Mobs, Players  
 <i> Headshots with bows deals double damage </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2079,6 +2070,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Backstab (III) </b><br>
 <b> Applies to: </b> Sword <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Teleports and damages the enemy by 5 to 25 hp <br>
 <i> Chance to teleport behind to your enemy that deals damages. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -2090,6 +2082,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Beheaded (V) </b><br>
 <b> Applies to: </b> Sword & Axe <br>
+<b> Type: </b> Player Kills
 <b> Not compatible with: </b> Decapitation CE <br>
 <i> Chance to have opponents head drop on death and gains Strength II. </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration 
@@ -2101,6 +2094,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Cleave (VII) </b><br>
 <b> Applies to: </b> Axes <br>
+<b> Type: </b> Players  
 <i> Damages mobs within a radius that increases with the level of enchant. </i><br>
 | Level | Cooldown | Chance | Damage Range | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2115,6 +2109,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Deathbringer (III) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players  
 <i> Chance to deal double damage. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2125,6 +2120,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Degration (IV) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <i> Chance to prevents your armor from taking durability damage. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2147,6 +2143,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Destruction (V) </b><br>
 <b> Applies to: </b> Helmet <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Inflicts damage and removes buffs from all nearby enemies <br>
 <i> Chance to damages and debuffs all nearby enemies when attacked. </i><br>
 | Level | Cooldown | Chance | Debuff Effects | Radius | Damage | Souls 
@@ -2170,6 +2167,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Doctor (V) </b><br>
 <b> Applies to: </b> Leggings <br>
+<b> Type: </b> Players  
 <i> Passively heals teammates at your own low hp if you get attacked. </i><br>
 | Level | Cooldown | Chance | Radius HP Heal | Low HP Activation | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2224,6 +2222,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Enlighted (IV) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players  
 <i> Can heal hearts while taking damage. </i><br>
 | Level | Cooldown | Chance | Heals HP | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2234,6 +2233,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Erupt Immune (III) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Explosions
 <b> not applyable with: </b> CreeperArmor CE <br>
 <i> Chance to be immune to explosive damage and have a chance to heal. </i><br>
 | Level | Cooldown | Chance | Heals HP | Souls 
@@ -2271,6 +2271,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Gaunt (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Players  
 <i> Chance to spawn a Wither Skeleton in order to protect you in at least 6 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2304,6 +2305,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Grim (III) </b><br>
 <b> Applies to: </b> Leggings <br>
+<b> Type: </b> Players  
 <i> Chance to spawn a Wither Skeleton in order to protect you in at least 7 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2311,7 +2313,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 90 sec| 10.0%| 3| 1200
 | III| 90 sec| 15.0%| 3| 1800
 
-<b> Guardians (III) </b><br>
+<b> Guardians (X) </b><br>
 <b> Applies to: </b> Armor <br>
 <i> Chance to spawn a iron golem in order to protect you in at least 6 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
@@ -2339,7 +2341,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 10 sec| 60.0%| 180
 | V| 10 sec| 75.0%| 200
 
-<b> Hellforged (V) </b><br>
+<b> Hellforged (VII) </b><br>
 <b> Applies to: </b> Tools, Armor, Weapons <br>
 <b> Effects: </b> Item's Durability will regain durability  every time you sprint. Cost 50 Soul Activation. <br>
 | Level | Regain Durability | Chance | Souls 
@@ -2355,6 +2357,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Hex (IV) </b><br>
 <b> Applies to: </b> Axes <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Once a target is affected by Hex, a portion of all their outgoing damage is decreased. 5 to 20 HP damage is reflected back to them.<br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-:
@@ -2390,6 +2393,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Inversion (IV) </b><br>
 <b> Applies to: </b> Sword <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Damage dealt to you has a chance to be blocked and heal you for 1-5 HP. <br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-:
@@ -2401,6 +2405,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Jinx (V) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Mobs, Players  
 <i> Gives strength and resistance to yourself and give slow swing to the enemy at low hp. </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration | Slow Swing Potency and Duration | Damage Resistance Potency and Duration | Soul
 | :-: | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2413,6 +2418,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Mortal Coil (V) </b><br>
 <b> Applies to: </b> Helmet <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Chance to deal damage at 5 to 10 HP to your enemy.<br>
 <i> Chance to deal great damage </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -2435,6 +2441,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Nulify (V) </b><br>
 <b> Applies to: </b> Weapon <br>
+<b> Type: </b> Players  
 <i> Chance to deal double damage while leaving enemy blind. </i><br>
 | Level | Cooldown | Chance | Blindness Potency and Duration | Soul
 | :-: | :-: | :-: | :-: | :-: 
@@ -2457,6 +2464,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Paladin (V) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <i> Chance to reduces incoming damage while wielding a sword by up to 44% at max level. </i><br>
 | Level | Cooldown | Chance | Damage Reduction Percentage | Soul
 | :-: | :-: | :-: | :-: | :-: 
@@ -2479,6 +2487,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Phoenix (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Death  
 <i> Chance to revive yourself when killed. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2489,6 +2498,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Rage (VI) </b><br>
 <b> Applies to: </b> Weapon <br>
+<b> Type: </b> Players  
 <i> For every combo hit you land there's chance to do 0.5 heart damage per combo to your opponent.Up to 5 max combo hits. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2500,7 +2510,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | VI| 10 sec| 40.0%| 650
 
 
-<b> Rogue (III) </b><br>
+<b> Rogue (VI) </b><br>
 <b> Applies to: </b> Weapon <br>
 <i> Chance to deal up to 2.0x damage. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -2508,10 +2518,14 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 5 sec| 13.0%| 300
 | II| 5 sec| 16.0%| 500
 | III| 5 sec| 19.0%| 700
+| IV| 5 sec| 22.0%| 900
+| V| 5 sec| 25.0%| 1100
+| VI| 5 sec| 30.0%| 1200
 
 
 <b> Secured (IV) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Mobs, Players, Projectiles  
 <i> Reduces damage dealt to you. </i><br>
 | Level | Cooldown | Chance | Damage Reduce Percentage | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2557,6 +2571,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Soulbound (IV) </b><br>
 <b> Applies to: </b> Ranged and Close Weapon <br>
+<b> Type: </b> Death, Passive Death  
 <i> A chance to keep item on death. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -2590,6 +2605,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Trap (III) </b><br>
 <b> Applies to: </b> Sword <br>
+<b> Type: </b> Mobs, Players  
 <i> Chance to give buffed slowness effect. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration| Souls 
 | :-: | :-: | :-: | :-: | :-: 
