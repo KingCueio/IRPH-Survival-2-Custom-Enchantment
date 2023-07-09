@@ -3107,6 +3107,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 ## **Ancient Custom Enchantments**
 <b> Abridge (III) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs  
 <b> Effect: </b> Chance to decrease damage of an Iron Golem's attack. <br>
 | Level | Cooldown | Chance | Decrease Damage | Souls 
 | :-: | :-: | :-: | :-: | :-:  
@@ -3117,7 +3118,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Bulky (VI) </b><br>
 <b> Applies to: </b> Chestplate <br>
-<b> Not applyable with: </b> Chaos <br>
+<b> Type: </b> Mobs, Players  
 <b> Effect: </b> Chance to receive less damage. <br>
 | Level | Cooldown | Chance | Negate Damage Percentage | Souls 
 | :-: | :-: | :-: | :-: | :-:  
@@ -3131,6 +3132,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Chain Lifesteal (II) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Players  
 <b> Effects: </b> A chance to regain health from multiple enemies near your damaged target based on level <br>
 <i> Steal health with the radius of 6 blocks </i><br>
 | Level | Cooldown | Chance | Lifesteal (HP) | Souls 
@@ -3141,6 +3143,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Death God (III) </b><br>
 <b> Applies to: </b> Helmet <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead. <br>
 <i> A chance to heal yourself 11-13 HP if your health hp is 5.5 HP below </i><br>
 | Level | Cooldown | Chance | HP Heal | Souls 
@@ -3152,6 +3155,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Death Grip (III) </b><br>
 <b> Applies to: </b> Bow <br>
+<b> Type: </b> Players    
 <i> Able to steal health on opponent but gives blindness and slowness to each other. </i><br>
 | Level | Cooldown | Chance | Blindness & Slowness Potency and Duration | Steal Health | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
@@ -3174,6 +3178,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Fade (III) </b><br>
 <b> Applies to: </b> Leggings <br>
+<b> Type: </b> Players    
 <i> Chance to spawn a wither in order to protect you in at least 3 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -3184,6 +3189,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Horrify (IV) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players    
 <i> Chance to inflict enemies within a 32x32 radius with &6Horror&r. </i><br>
 | Level | Cooldown | Chance | Slowness & Slow Digging Potency and Duration | Confusion Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
@@ -3195,6 +3201,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Insulation (IV) </b><br>
 <b> Applies to: </b> Boots <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Chance to give absorption when hit  <br>
 <i> Unlocks additional yellow hearts. </i><br>
 | Level | Cooldown | Health Boost Potency and Duration| Chance 
@@ -3207,6 +3214,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Lunar Blessing (V) </b><br>
 <b> Applies to: </b> Ranged Weapon <br>
+<b> Type: </b> Players  
 <i> Increase attack damage for yourself. Activation at night.</i><br>
 | Level | Chance | Increase Damage Percentage  | Souls 
 | :-: | :-: | :-: | :-: 
@@ -3219,6 +3227,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Mark of the Beast (VI) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players    
 <i> Once an enemy is afflicted with the mark all incoming damage is increased by 2x for up to 5 seconds. </i><br>
 | Level | Cooldown |Chance | Increase Damage Percentage  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
