@@ -1440,7 +1440,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 0 sec| 10%
 | III| 0 sec| 15%
 
-<b> Soulless (IV) </b><br>
+<b> Soulless (VII) </b><br>
 <b> Applies to: </b> Bow, Crossbow, Trident <br>
 <b> Type: </b> Mobs  
 <b> Effects: </b> Increases damage by 10% to 40% randomly <br>
@@ -1448,10 +1448,13 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Increases damage dealt to Hostile Mobs. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
-| I| 2 sec| 25%| 70
-| II| 2 sec| 50%| 90
-| III| 0 sec| 75%| 120
-| IV| 0 sec| 100%| 140
+| I| 2 sec| 10%| 70
+| II| 2 sec| 20%| 90
+| III| 0 sec| 30%| 120
+| IV| 0 sec| 40%| 140
+| IV| 0 sec| 50%| 160
+| IV| 0 sec| 60%| 160
+| IV| 0 sec| 70%| 160
 
 <b> Spirits (X) </b><br>
 <b> Applies to: </b> Armor <br>
@@ -2648,6 +2651,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Attraction (III) </b><br>
 <b> Applies to: </b> Leggings <br>
+<b> Type: </b> Projectile
 <i> Chance to magnet and blind your enemy if get hit by an arrow. </i><br>
 | Level | Cooldown | Chance | Blindness Potency and Duration| Pull Enemy Distance | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2658,6 +2662,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Avert (V) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Mobs, Players  
 <b> not applyable with : </b> Divert and Retribution <br>
 <i> Chance of poisoning opponent and gaining regeneration. </i><br>
 | Level | Cooldown | Chance | Poison Potency and Duration| Regeneration Potency and Duration | Souls 
@@ -2678,9 +2683,21 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 2 sec| 15.0%| 3 blocks | 150
 | III| 2 sec| 20.0%| 3 blocks | 225
 
+<b> Bristleback (IV) </b><br>
+<b> Applies to: </b> Chestplates <br>
+<b> Type: </b> Players  
+<i> Chance to reduce enemy attack 25%-75% and return damage by the attacker. </i><br>
+| Level | Cooldown | Chance | Damage Reduction | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 6 sec| 10.0%| 25% | 500
+| II| 6 sec| 20.0%| 40% | 900
+| III| 6 sec| 30.0%| 60% | 1200
+| IV| 6 sec| 40.0%| 75% | 1500
+
 
 <b> Butcher (V) </b><br>
 <b> Applies to: </b> Sword <br>
+<b> Type: </b> Mobs, Players  
 <i> A Chance to slow and steal health of enemy. </i><br>
 | Level | Cooldown | Chance | Lifesteal HP | Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2693,6 +2710,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Cold Vortex (III) </b><br>
 <b> Applies to: </b> Bow <br>
+<b> Type: </b> Players
 <i> Chance to slow your enemy if get hit by bow. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2702,6 +2720,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Corrosive Skin (III) </b><br>
 <b> Applies to: </b> Leggings <br>
+<b> Type: </b> Players  
 <i> Chance to venom and slow your enemy if you get attacked. </i><br>
 | Level | Cooldown | Chance | Poison Potency and Duration| Slowness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2712,6 +2731,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Counter Helix (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Mobs, Players  
 <i> Chance to perform a helix counter attack that deals pure damage to all nearby enemies </i><br>
 | Level | Cooldown | Chance | Damage and Radius |  Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2722,6 +2742,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Coup de Grace (V) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
+<b> Type: </b> Mobs, Players  
 <i> Chance to have critical damage to your enemy. </i><br>
 | Level | Cooldown | Chance | Increase Crit. Damage |  Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2734,6 +2755,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Dense (V) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players, Projectiles  
 <b> Effects: </b> Reduces damage based on enchant level <br>
 <b> Conditions: </b> Attacker must be holding a bow/swords/axe <br>
 <i> Decreases damage from enemy bows by 5% per level. </i><br>
@@ -2748,6 +2770,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Destroyer (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Players  
 <i> Chance to spawn a Ravager in order to protect you in at least 7 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2758,6 +2781,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Distruption (V) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Gives weakness and wither effects that scales on level <br>
 <i> Deal weakness and wither effects. </i><br>
 | Level | Cooldown | Chance | Weakness Potency and Duration | Wither Potency and Duration | Souls 
@@ -2778,9 +2802,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 140 sec| 10.0%| 2| 1400
 | III| 140 sec| 15.0%| 3| 1800
 
-
-<b> Fortify (IV) </b><br>
+<b> Fortify (VI) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Mobs, Players, Projectiles  
 <b> Effects: </b> Reduces damage based on enchant level <br>
 | Level | Cooldown | Chance | Damage Reduction | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2788,15 +2812,22 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 12 sec| 14%| 25%| 300
 | III| 12 sec| 19%| 35%| 600
 | IV| 12 sec| 27%| 45%| 900
+| V| 12 sec| 32%| 55%| 1200
+| VI| 12 sec| 38%| 60%| 1400
 
-<b> Great Bash (III) </b><br>
+<b> Great Bash (VII) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
-<b> Effects: </b> Chance to stun in 1 sec and knockback an enemy <br>
-| Level | Cooldown | Chance | Knockback Radius | Souls 
+<b> Type: </b> Mobs, Players  
+<b> Effects: </b> Chance to freeze for 1 sec and knockback an enemy <br>
+| Level | Cooldown | Chance | Knockback Distance | Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 5 sec| 10%| 1 Block| 200
-| II| 5 sec| 15%| 2 Blocks| 400
-| III| 5 sec| 20%| 2 Blocks| 600
+| II| 5 sec| 15%| 2 Blocks| 300
+| III| 5 sec| 20%| 2 Blocks| 400
+| IV| 5 sec| 25%| 2 Blocks| 500
+| V| 5 sec| 30%| 2 Blocks| 600
+| VI| 5 sec| 35%| 2 Blocks| 700
+| VII| 5 sec| 40%| 2 Blocks| 800
 
 
 <b> Holy Life (V) </b><br>
@@ -2834,6 +2865,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Impactweight (III) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Chance to get a burst of haste and add extra damage to your enemy. <br>
 | Level | Cooldown | Chance | Haste Potency and Duration | Extra Damage HP | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2844,6 +2876,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Jinada (III) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Chance to Steal your enemy money on each attack with extra damage. <br>
 | Level | Cooldown | Chance | Steal Money  | Extra Damage HP | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2854,6 +2887,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Johnny (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Players  
 <i> Chance to spawn a Vindicator in order to protect you in at least 7 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2864,6 +2898,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Mage (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Players  
 <i> Chance to spawn a evoker in order  to protect you in at least 10 seconds.</i><br>
 | Level | Cooldown | Chance | Spawn Quantity  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2886,6 +2921,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Paradox (V) </b><br>
 <b> Applies to: </b> Helmet <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Chance to add 5 hearts to all allies in a 5 to 7 block radius <br>
 <i> Completely heals allies if you defense an enemy's attack. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -2899,7 +2935,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Profane (V) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Not applyable with: </b> Unholy <br>
+<b> Type: </b> Players  
 <i> Defend with weakness and wither effects. </i><br>
 | Level | Cooldown | Chance | Wither Potency and Duration | Weakness Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
@@ -2912,6 +2948,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Reverse Polarity (III) </b><br>
 <b> Applies to: </b> Shield <br>
+<b> Type: </b> Mobs, Players  
 <i> Chance to magnet and stun nearby enemy at least 3 radius if you blocked enemy attack. </i><br>
 | Level | Cooldown | Chance | Pull Closer Radius | Freeze Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
@@ -2919,7 +2956,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 75 sec| 100.0%| 3 Blocks| 1.5 sec| 1200
 | III| 60 sec| 100.0%| 3 Blocks| 1.5 sec| 1600
 
-<b> Revive (III) </b><br>
+<b> Revive (V) </b><br>
 <b> Applies to: </b> Chestplate <br>
 <i> Chance to revive yourself when killed. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -2952,15 +2989,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 40 sec| 20.0%| 5 - 25| 4 sec| 1500
 
 
-<b> Searing Arrow (IV) </b><br>
+<b> Searing Arrow (V) </b><br>
 <b> Applies to: </b> Bow <br>
+<b> Type: </b> Players  
 <i> Chance to burn enemy if got hit by an arrow with extra damage. </i><br>
 | Level | Cooldown | Chance | Extra Damage HP | Burn Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 15 sec| 5.0%| 7 - 23 HP| 5 sec| 250
-| II| 14 sec| 7.0%| 7 - 23 HP| 5 sec| 350
-| III| 13 sec| 9.0%| 7 - 23 HP| 5 sec| 550
-| IV| 12 sec| 11.0%| 7 - 23 HP| 5 sec| 750
+| I| 30 sec| 5.0%| 7 - 23 HP| 5 sec| 250
+| II| 30 sec| 7.0%| 7 - 23 HP| 5 sec| 350
+| III| 30 sec| 9.0%| 7 - 23 HP| 5 sec| 550
+| IV| 30 sec| 11.0%| 7 - 23 HP| 5 sec| 750
+| V| 30 sec| 14.0%| 7 - 23 HP| 5 sec| 750
 
 
 <b> Sharpen (IV) </b><br>
@@ -2982,29 +3021,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 20 sec| 25%| 200
 | II| 20 sec| 35%| 300
 
-
-<b> Soul Shield (III) </b><br>
-<b> Applies to: </b> Shield <br>
-<i> Chance to steal 25 souls in enemy''s  weapon if blocked the attack.  </i><br>
-| Level | Cooldown | Chance | Steal Soul| Souls 
-| :-: | :-: | :-: | :-: | :-: 
-| I| 6 sec| 10.0%| 50| 25
-| II| 6 sec| 15.0%| 60| 30
-| III| 6 sec| 20.0%| 70| 35
-
-
-<b> Soul Siphone (IV) </b><br>
-<b> Applies to: </b> Boots <br>
-<b> Effect: </b> Proc'ing on outgoing damage events this enchant siphons souls and durability from enemies in large quantities! <br>
-<i> Chance to steal 2009 souls and extra damage durability at least 30 to the enemy.  </i><br>
-| Level | Cooldown | Chance | Steal Soul| Souls 
-| :-: | :-: | :-: | :-: | :-: 
-| I| 60 sec| 3.0%| 2000| 750
-| II| 60 sec| 6.0%| 2000| 1000
-| III| 60 sec| 9.0%| 2000| 1250
-| IV| 60 sec| 12.0%| 2000| 1500
-
-
 <b> Sturdy (III) </b><br>
 <b> Applies to: </b> Shield <br>
 <i> Absorb enemy damage and reflect it back. </i><br>
@@ -3025,26 +3041,33 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 20 sec| 11.0%| 500
 
 
-<b> Vandal (IV) </b><br>
+<b> Vandal (VI) </b><br>
 <b> Applies to: </b> Axe <br>
+<b> Type: </b> Mobs, Players  
 <b> Not applyable with: </b> Barbarian CE <br>
 <i> Chance to inflicts more axe damage when your enemy is holding axe  </i><br>
 | Level | Cooldown | Chance | Increase Damage| Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 11 sec| 15.0%| 25% - 75%| 450
 | II| 11 sec| 20.0%| 35% - 95%| 900
-| III| 11 sec| 25.0%| 45% - 125%| 1800
-| IV| 10 sec| 35.0%| 50% - 150%| 3600
+| III| 11 sec| 25.0%| 45% - 125%| 1400
+| IV| 10 sec| 35.0%| 50% - 150%| 1800
+| V| 10 sec| 40.0%| 50% - 150%| 2400
+| VI| 10 sec| 45.0%| 50% - 150%| 2800
 
 
-<b> Viper Strike (III) </b><br>
+<b> Viper Strike (VI) </b><br>
 <b> Applies to: </b> Bow <br>
+<b> Type: </b> Mobs, Players  
 <i> Chance to venom and slow your enemy if you hit them with arrow. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration | Poison Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
-| I| 7 sec| 5.0%| III and 4 secs| IV and 4 secs| 600
-| II| 7 sec| 10.0%| III and 4 secs| IV and 4 secs| 900
-| III| 7 sec| 15.0%| III and 4 secs| IV and 4 secs| 1300
+| I| 15 sec| 5.0%| III and 4 secs| IV and 4 secs| 400
+| II| 15 sec| 10.0%| III and 4 secs| IV and 4 secs| 700
+| III| 15 sec| 15.0%| III and 4 secs| IV and 4 secs| 900
+| IV| 15 sec| 20.0%| III and 4 secs| IV and 4 secs| 1100
+| V| 15 sec| 25.0%| III and 4 secs| IV and 4 secs| 1300
+| VI| 15 sec| 30.0%| III and 4 secs| IV and 4 secs| 1500
 
 <b> Void Stalker (IV) </b><br>
 <b> Applies to: </b> Boots <br>
