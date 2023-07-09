@@ -576,7 +576,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 ## **Elite Custom Enchantments**
- <b> Aquatic (I) </b><br>
+<b> Aquatic (I) </b><br>
 <b> Applies to: </b> Helmets <br>
 <b> Effects: </b> Gives you water breathing effect  <br>
 <i> Breathe underwater. </i><br>
@@ -586,6 +586,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Armored (IV) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players
 <b> Effects: </b> Reduces incoming damage by percentage <br>
 <b> Conditions: </b> Attacker must be holding a sword <br>
 <i> Decreases damage from enemy swords by 2% per level. </i><br>
@@ -644,6 +645,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Curse (II) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Gives the attacking player mining fatigue effect that scales with level <br>
 <i> Chance to give your enemy mining fatigue. </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -653,6 +655,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Deadshot (V) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players
 <b> Effects: </b> Increase damage by 100% <br>
 <b> Conditions: </b> Projectile must hit the head <br>
 <i> Headshots with tridents deal double damage. </i><br>
@@ -676,6 +679,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Diminish (III) </b><br>
 <b> Applies to: </b> Axes <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Gives the attacked entity mining fatigue effect that scales with level <br>
 <i> Chance to give your enemy mining fatigue. </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -697,6 +701,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Distance (IV) </b><br>
 <b> Applies to: </b> Weapons <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Pulls the attacked unit away and give regeneration effect to the attacking player <br>
 <i> Chance to distance yourself from your enemies and gain regeneration. </i><br>
 | Level | Cooldown | Chance | Pull Distance | Regen Potency and Duration | Souls 
@@ -708,6 +713,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Frozen (III) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Gives the attacker slowness effect <br>
 <i> Can cause slowness to attacker when defending. </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -739,6 +745,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Hardened (III) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players
 <b> Effects: </b> Regain durability when damaged by players <br>
 <i> Chance to recover durability when damaged by players. </i><br>
 | Level | Cooldown | Chance | Recovered Durability | Souls 
@@ -772,6 +779,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Ice Aspect (III) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Attacked player will gain Slowness II for 5 seconds <br>
 <i> A chance of causing the slowness effect on your enemy. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -782,6 +790,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Impact (IV) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Doubles the damage dealt to the attacked entity. Trident must be thrown. <br>
 <i> Chance to double dealt damage. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -793,6 +802,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Interrupt (II) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Gives the attacked player mining fatigue effect <br>
 <i> Chance to give your enemy mining fatigue. </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -832,28 +842,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 10 sec| 25%| 50%-100%| 150
 | IV| 12 sec| 33%| 50%-100%| 200
 
-<b> Netherling (III) </b><br>
-<b> Applies to: </b> Swords <br>
-<b> Effects: </b> Increases damage by 50% <br>
-<b> Conditions: </b> Player must be in the nether <br>
-<i> Double damage to mobs in Nether. </i><br>
-| Level | Cooldown | Chance | Souls 
-| :-: | :-: | :-: | :-: 
-| I| 0 sec| 25%| 10
-| II| 0 sec| 50%| 20
-| III| 0 sec| 75%| 30
-
-<b> Nightwalker (III) </b><br>
-<b> Applies to: </b> Swords <br>
-<b> Effects: </b> Gives attacked mobs Slowness 11 for 20 seconds at night. <br>
-<b> Conditions: </b> Minecraft time must be between 12300 and 23850 <br>
-<i> Freeze mobs at night. </i><br>
-| Level | Cooldown | Chance | Souls 
-| :-: | :-: | :-: | :-: 
-| I| 0 sec| 40%| 10
-| II| 0 sec| 70%| 20
-| III| 0 sec| 100%| 30
-
 <b> Obsidianshield (I) </b><br>
 <b> Applies to: </b> Armor <br>
 <b> Effects: </b> When worn, gives the player fire resistance effect. <br>
@@ -876,6 +864,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Poseidon (IV) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Increases shooting damage by 50% to 150% <br>
 <i> Increases damage dealt with Tridents. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -887,6 +876,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Ragdoll (IV) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Player will be pulled away in a direction opposite to the attacker <br>
 <i> Chance to be pushed back when getting hit. </i><br>
 | Level | Cooldown | Chance | Pull Away Strength | Souls 
@@ -898,6 +888,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Reforged (X) </b><br>
 <b> Applies to: </b> Weapons, tools <br>
+<b> Type: </b> Mobs, Mining  
 <b> Effects: </b> When used, regains a certain amount of durability that scales with level <br>
 <i> Protects weapons and tools durability, items will be take longer to break. </i><br>
 | Level | Cooldown | Chance | Durability Restored | Souls 
@@ -915,6 +906,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Reinforced (IV) </b><br>
 <b> Applies to: </b> Elytra <br>
+<b> Type: </b> Mobs, Players, Projectiles  
 <b> Effects: </b> Decrease incoming damage by a certain percentage that scales with level <br>
 <i> Reduces damage dealt to you. </i><br>
 | Level | Cooldown | Chance | Damage Reduction | Souls 
@@ -926,6 +918,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Replenish (III) </b><br>
 <b> Applies to: </b> Pickaxes <br>
+<b> Type: </b> Mobs  
 <b> Effects: </b> Chance to gain food when mining a block <br>
 <i> Chance to restore food while mining. </i><br>
 | Level | Cooldown | Chance | Amount Restored | Souls 
@@ -947,6 +940,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Shatter (IV) </b><br>
 <b> Applies to: </b> Axes <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Damages the durability of the armor of the attacked player by 2 <br>
 <i> Chance to deal extra durability damage to all enemy armor with every attack. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -958,6 +952,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Shockwave (V) </b><br>
 <b> Applies to: </b> Chestplates <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Pulls away the attacker backwards <br>
 <b> Conditions: </b> Player health must be equal or less than 5 <br>
 <i> Chance to push back your attacker when your health is low. </i><br>
@@ -971,6 +966,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Smoke Bomb (VIII) </b><br>
 <b> Applies to: </b> Helmet <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Gives the attacker blindness for a certain amount of time <br>
 <b> Conditions: </b> HP must be equal or less than 4 <br>
 <i> When you are near death, you will spawn a smoke bomb to distract your enemies. </i><br>
@@ -996,6 +992,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Strife (III) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Increases damage against entities <br>
 <i> Increases Trident melee damage. </i><br>
 | Level | Cooldown | Chance | Damage Increase | Souls 
@@ -1006,6 +1003,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Tank (IV) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Reduce incoming damage by a certain percentage that grows with level <br>
 <b> Conditions: </b> Attacker must be holding an axe <br>
 <i> Chance to decreases damage from enemy axes by 2% per level. </i><br>
@@ -1018,6 +1016,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Trickster (VIII) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Teleports behind the opponent <br>
 <i> When hit you have a chance to teleport directly behind you opponent. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1033,6 +1032,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Voodoo (VI) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Attacker will get weakness effect when hitting the player <br>
 <i> Gives a chance to deal weakness. </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -1046,6 +1046,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Wither (V) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Attacking player will get a wither effect <br>
 <i> A chance to give the wither effect </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
@@ -1064,8 +1065,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 ## **Ultimate Custom Enchantments**
- <b> Ambit (VII) </b><br>
+<b> Ambit (VII) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
+<b> Type: </b> Mobs
 <i> Damages mobs within a radius that increases with the level of enchant. </i><br>
 | Level | Cooldown | Chance | Damage Range | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1079,6 +1081,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Aqua (IV) </b><br>
 <b> Applies to: </b> Boots <br>
+<b> Type: </b> Mobs, Players  
 <b> Conditions: </b> Player must be under water <br>
 <i> Deal double damage while in water. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1090,6 +1093,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Arrow Break (VI) </b><br>
 <b> Applies to: </b> Axe <br>
+<b> Type: </b> Projectiles  
 <b> Effects: </b> Makes projectile deal no damage nor knockback <br>
 <i> Chance for arrows to bounce off you while holding item with this enchant. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1103,6 +1107,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Arrow Deflect (IV) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Projectiles  
 <b> Effects: </b> Makes the arrow deal no damage nor knockback. Reflects 5 to 15 hp damage back to the attacker. <br>
 <i> Chance to prevent enemy arrow from dealing damage. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1114,6 +1119,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Bleed (VI) </b><br>
 <b> Applies to: </b> Axes <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Gives the attacked player Slowness I for 5 seconds. Deals 1-5 damage, 3 times, with a 1 second delay. <br>
 <i> Make your opponent bleed. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1127,6 +1133,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Blind (III) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Players  
 <i> A chance of causing blindness when attacking. </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1136,6 +1143,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Block (III) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Mobs, Players, Projectiles  
 <b> Effects: </b> Halves the damage taken and hurts the attacker for 1 to 9 damage. <br>
 <i> A chance to negate an attack and deal up to 4 damage back. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1146,6 +1154,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Blunt Force (IV) </b><br>
 <b> Applies to: </b> Axes <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Does extra damage to the attacked player that scales with level <br>
 <i> Chance to strike with great force. </i><br>
 | Level | Cooldown | Chance | Damage | Souls 
@@ -1157,6 +1166,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Chaos (V) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Gives weakness and wither effects that scales on level <br>
 <i> Deal weakness and wither effects. </i><br>
 | Level | Cooldown | Chance | Weakness Potency and Duration | Wither Potency and Duration | Souls 
@@ -1169,6 +1179,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Creeper Armor (III) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Explosion  
 <i> Chance to be immune to explosive damage, at higher levels you have a chance to heal. </i><br>
 | Level | Cooldown | Chance | Heal Amount | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1178,6 +1189,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Critical (III) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Increases critical hit damage by a certain percentage <br>
 <b> Conditions: </b> Hit must be a critical hit <br>
 <i> Increase damage done with critical hit. </i><br>
@@ -1189,7 +1201,8 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Deranged (III) </b><br>
 <b> Applies to: </b> Swords <br>
-<b> Effects: </b> Strikes nearby entities with lightning. The radius scales with level.  <br>
+<b> Type: </b> Players
+<b> Effects: </b> Strikes nearby players with lightning. The radius scales with level.  <br>
 <i> Strike lightning at nearby players. </i><br>
 | Level | Cooldown | Chance | Radius | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1199,6 +1212,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Diploid (V) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Mob Kills  
 <i> Chance to multiply mob drops. Costs 5 souls / activation. </i><br>
 | Level | Cooldown | Chance | Multiplier (+100%) | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1210,6 +1224,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Disappear (IV) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Gives the wearer invisibility and the opponent blindness, and pushes the attacker by 3 blocks. <br>
 <i> Chance to become invisible, blind and push away the enemy when low on health. </i><br>
 | Level | Cooldown | Chance | Effects Potency and Duration | Souls 
@@ -1221,6 +1236,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Dodge (V) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Makes the attack deal no damage nor knockback <br>
 <i> Chance to dodge physical enemy, chance increases when sneaking. </i><br>
 | Level | Cooldown | Chance | Chance when Sneaking | Souls 
@@ -1233,6 +1249,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Dragon Rage (VI) </b><br>
 <b> Applies to: </b> Swords, Axes <br>
+<b> Type: </b> Mobs  
 <i> Chance to get a strength in a matter of time when attacking a dragon.  </i><br>
 | Level | Cooldown | Chance | Strength Potency and Duration 
 | :-: | :-: | :-: | :-: 
@@ -1243,10 +1260,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 4 sec| 55%| III for 5 sec
 | VI| 4 sec| 60%| III for 7 sec
 
-
-
 <b> Dual Wield (III) </b><br>
 <b> Applies to: </b> Weapon <br>
+<b> Type: </b> Players  
 <b> Effects: </b> Adds 2 to 8 extra damage to the attack. <br>
 <i> Chance to proc two damage events. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1257,6 +1273,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Explosive (V) </b><br>
 <b> Applies to: </b> Bow <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Chance for tnt to explode on the attacked unit <br>
 <i> Chance for arrows to explode. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1269,6 +1286,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Explosive Demise (VIII) </b><br>
 <b> Applies to: </b> Leggings <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Spawns creepers and blinds nearby enemies <br>
 <b> Conditions: </b> HP must be equal than or less than a certain amount <br>
 <i> Summon creepers as your guards when near death. </i><br>
@@ -1285,6 +1303,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Fumble (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
+<b> Type: </b> Projectile  
 <i> Chance to explode enemy when hit by their arrows. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
@@ -1292,20 +1311,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 8 sec| 15%| 100
 | III| 8 sec| 25%| 125
 
-<b> Kill Aura (V) </b><br>
-<b> Applies to: </b> Swords <br>
-<b> Effects: </b> Instantly kills one mob in a specific radius. <br>
-<i> Chance to kill multiple monsters in radius. </i><br>
-| Level | Cooldown | Chance | Radius | Souls 
-| :-: | :-: | :-: | :-: | :-: 
-| I| 3 sec| 5%| 2| 70
-| II| 4 sec| 8%| 2| 90
-| III| 5 sec| 12%| 3| 110
-| IV| 5 sec| 15%| 3| 130
-| V| 6 sec| 18%| 4| 150
-
 <b> Marksman (IV) </b><br>
 <b> Applies to: </b> Crossbow <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Increases damage by 50% to 150% <br>
 <b> Conditions: </b> Player must be holding a crossbow <br>
 <i> Increases damage dealt with Crossbows. </i><br>
@@ -1327,19 +1335,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 3 sec| 35%|  II for 3 sec| 120
 | III| 3 sec| 65%|  III for 4 sec| 150
 
-<b> Multiplication (V) </b><br>
-<b> Applies to: </b> Pickaxe <br>
-<i> Chance to multiply ore drops. Costs 50 souls / activation. </i><br>
-| Level | Cooldown | Chance | Multiplier (+100%) | Souls 
-| :-: | :-: | :-: | :-: | :-: 
-| I| 8 sec| 15%| 2| 50
-| II| 8 sec| 20%| 2| 50
-| III| 8 sec| 25%| 2| 50
-| IV| 8 sec| 28%| 2| 50
-| V| 10 sec| 30%| 3| 50
-
 <b> Night Owl (III) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Mobs  
 <b> Conditions: </b> Time in ticks must be between 12300 and 23850 <br>
 <i> Deal more damage to mobs at night. </i><br>
 | Level | Cooldown | Chance | Damage Increase | Souls 
@@ -1350,6 +1348,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Permafrost (V) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Attacked player is slowed and is damaged by 1-3 hp three times <br>
 <i> Chance slow and bleed opponents. </i><br>
 | Level | Cooldown | Chance | Slowness Potency and Duration | Total Damage | Souls 
@@ -1362,6 +1361,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Piercing (V) </b><br>
 <b> Applies to: </b> Bows, Crossbow <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Bow and crossbow damage is increased by 50% to 150% randomly. <br>
 <i> Inflicts more damage. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1374,6 +1374,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Rebound (III) </b><br>
 <b> Applies to: </b> Weapons <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Killing a player or a mob will heal the attacker <br>
 <i> Gain some health back after kills. </i><br>
 | Level | Cooldown | Chance | Heal Amount | Souls 
@@ -1391,16 +1392,21 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 6 sec| 20%|  V for 3 sec| 50
 | III| 7 sec| 26%|  VI for 3 sec| 50
 
-<b> Safeguard (II) </b><br>
+<b> Safeguard (V) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <i> Chance to gain Damage Resistance when defending. </i><br>
 | Level | Cooldown | Chance | Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 5 sec| 15%| I for 3 sec| 70
-| II| 5 sec| 20%|  II for 3 sec| 100
+| II| 5 sec| 20%|  II for 4 sec| 100
+| III| 5 sec| 25%|  II for 5 sec| 150
+| IV| 5 sec| 30%|  II for 6 sec| 200
+| V| 5 sec| 35%|  II for 7 sec| 150
 
 <b> Snare (IV) </b><br>
 <b> Applies to: </b> Bows <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Gives the attacked player slowness and mining fatigue <br>
 <i> Chance to slow and fatigue enemies with projectiles. </i><br>
 | Level | Cooldown | Chance | Effects Potency  | Souls 
@@ -1412,6 +1418,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Sniper (V) </b><br>
 <b> Applies to: </b> Bow <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Attack damage is increased by 50% <br>
 <b> Conditions: </b> Attacker must hit the head <br>
 <i> Headshots with bows deal double damage. </i><br>
@@ -1435,6 +1442,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Soulless (IV) </b><br>
 <b> Applies to: </b> Bow, Crossbow, Trident <br>
+<b> Type: </b> Mobs  
 <b> Effects: </b> Increases damage by 10% to 40% randomly <br>
 <b> Conditions: </b> Mob must be hostile <br>
 <i> Increases damage dealt to Hostile Mobs. </i><br>
@@ -1447,6 +1455,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Spirits (X) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Players  
 <i> Chance to spawn guard blazes. </i><br>
 | Level | Cooldown | Chance | Blaze Count | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1463,6 +1472,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Striker (III) </b><br>
 <b> Applies to: </b> Bow <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Spawns lots of arrows above the attacked player <br>
 <i> Rain arrows over opponent. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1473,6 +1483,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Swordsman (V) </b><br>
 <b> Applies to: </b> Armor <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Reduces damage taken which scales with level <br>
 <b> Conditions: </b> Player must be holding a sword <br>
 <i> Chance to reduces incoming damage while wielding a sword by up to 22% at max level. </i><br>
@@ -1512,6 +1523,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Undead Ruse (X) </b><br>
 <b> Applies to: </b> Boots <br>
+<b> Type: </b> Mobs, Players  
 <i> When hit you have a chance to spawn zombie hordes to distract and disorient your opponents. </i><br>
 | Level | Cooldown | Chance | Zombie Count | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1528,6 +1540,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Vampire (III) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Mobs, Players  
 <b> Effects: </b> Heals the player for 1 to 6 hp after a 2 second delay <br>
 <i> A chance to heal you for up to 3 hearts a few seconds after you strike. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -1538,13 +1551,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Wild Mark (III) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Effects: </b> Chance to deal extra 1 hp damage <br>
+<b> Type: </b> Players  
+<b> Effects: </b> Chance to deal extra 1 hp damage when shooting a player with a bow <br>
 <i> Chance to add 1 Heart on bow arrow hit. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
 | I| 8 sec| 5%| 70
 | II| 8 sec| 8%| 80
 | III| 8 sec| 9%| 90
+| IV| 8 sec| 14%| 110
+| V| 8 sec| 17%| 130
+| VI| 8 sec| 21%| 160
 
 
 
