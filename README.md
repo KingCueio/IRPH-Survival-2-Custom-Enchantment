@@ -18,7 +18,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Bone Crusher (III) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
-<b> Type: </b> Mobs
+<b> Type: </b> Mobs  
 <b> Effect: </b> Randomly increases damage by 10% to 40% <br>
 <i> Increases damage dealt to Skeletons. </i><br>
 | Level | Cooldown | Chance 
