@@ -2236,7 +2236,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Erupt Immune (III) </b><br>
 <b> Applies to: </b> Armor <br>
 <b> Type: </b> Explosions
-<b> not applyable with: </b> CreeperArmor CE <br>
 <i> Chance to be immune to explosive damage and have a chance to heal. </i><br>
 | Level | Cooldown | Chance | Heals HP | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2247,7 +2246,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Fractured (V) </b><br>
 <b> Applies to: </b> Sword <br>
-<b> not applyable with: </b> Disintegrate CE <br>
 <i> Chance to deal extra durability damage randomly to all enemy armor with every attack. </i><br>
 | Level | Cooldown | Chance | Damage Durability | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2260,7 +2258,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Fragment (V) </b><br>
 <b> Applies to: </b> Axe <br>
-<b> not applyable with: </b> Shatter CE <br>
 <i> Chance to deal extra durability damage randomly to all enemy armor with every attack.</i><br>
 | Level | Cooldown | Chance | Damage Durability | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2295,7 +2292,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Gluttony (III) </b><br>
 <b> Applies to: </b> Helmet <br>
-<b> not applyable with: </b> Implants <br>
 <b> Effects: </b> Chance to restore a good amount of food every few seconds. <br>
 <i> Gives permanent speed. </i><br>
 | Level | Cooldown | Chance | Food Points | Souls 
@@ -2662,7 +2658,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Avert (V) </b><br>
 <b> Applies to: </b> Chestplate <br>
 <b> Type: </b> Mobs, Players  
-<b> not applyable with : </b> Divert and Retribution <br>
 <i> Chance of poisoning opponent and gaining regeneration. </i><br>
 | Level | Cooldown | Chance | Poison Potency and Duration| Regeneration Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
@@ -2908,7 +2903,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Overcharge (III) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> not applyable with: </b> overload <br>
 <b> Effects: </b> Unlocks additional hearts. <br>
 <i> Gives permanent additional hearts if you wore the item . </i><br>
 | Level | Health Boost Potency | Chance 
@@ -3043,7 +3037,6 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Vandal (VI) </b><br>
 <b> Applies to: </b> Axe <br>
 <b> Type: </b> Mobs, Players  
-<b> Not applyable with: </b> Barbarian CE <br>
 <i> Chance to inflicts more axe damage when your enemy is holding axe  </i><br>
 | Level | Cooldown | Chance | Increase Damage| Souls 
 | :-: | :-: | :-: | :-: | :-: 
