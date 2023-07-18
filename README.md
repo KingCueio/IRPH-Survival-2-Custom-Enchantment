@@ -3205,6 +3205,22 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 30 sec | IV for 15 sec| 100%
 
 
+<b> Life Break (VIII) </b><br>
+<b> Applies to: </b> Axes <br>
+<b> Type: </b> Players <br>
+<i> Chance to deal awesome damage to your enemy but also damage yourself. </i><br>
+| Level | Chance | Enemy Damage | Self Damage  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 15%| 20| 8| 300
+| II| 18%| 24| 11| 300
+| III| 21%| 28| 14| 300
+| VI| 24%| 32| 17| 300
+| V| 27%| 36| 20| 300
+| VI| 30%| 40| 23| 300
+| VII| 33%| 44| 26| 300
+| VIII| 36%| 48| 29| 300
+
+
 <b> Lunar Blessing (V) </b><br>
 <b> Applies to: </b> Ranged Weapon <br>
 <b> Type: </b> Players  
@@ -3216,6 +3232,21 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 12.0%| 80% - 120%| 700
 | VI| 14.0%| 100% - 140%| 800
 | V| 16.0%| 120% - 160%| 900
+
+
+<b> Lunar Shield (VI) </b><br>
+<b> Applies to: </b> Shields <br>
+<b> Type: </b> Players <br>
+<b> Condition: </b> Must be night time <br>  
+<i> A powerful enchantment that harms anyone who hits the shield, freezing them in place. This enchantment only activates during night. </i><br>
+| Level | Chance | Damage | Slow Potency and Duration  | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 10.0%| 20 | X for 4 sec | 1500
+| II| 12.0%| 24 | X for 4 sec | 2000
+| III| 14.0%| 28 | X for 5 sec | 2500
+| VI| 16.0%| 32 | X for 5 sec | 3000
+| V| 18.0%| 36 | X for 6 sec | 3500
+| VI| 25.0%| 40 | X for 7 sec | 4000
 
 
 <b> Mark of the Beast (VI) </b><br>
