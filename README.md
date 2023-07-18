@@ -3237,7 +3237,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Lunar Shield (VI) </b><br>
 <b> Applies to: </b> Shields <br>
 <b> Type: </b> Players <br>
-<b> Condition: </b> Must be night time <br>  
+<b> Condition: </b> Must be night time <br>
 <i> A powerful enchantment that harms anyone who hits the shield, freezing them in place. This enchantment only activates during night. </i><br>
 | Level | Chance | Damage | Slow Potency and Duration  | Souls 
 | :-: | :-: | :-: | :-: | :-: 
