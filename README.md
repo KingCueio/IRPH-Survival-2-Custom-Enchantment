@@ -158,6 +158,24 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 2 sec| 45%
 | III| 2 sec| 75%
 
+<b> Wood (X) </b><br>
+<b> Applies to: </b> Chestplates <br>
+<b> Type: </b> Players <br>
+<b> Enchants Silenced: </b> Wood <br>
+<i> Wood cannot be magnetized. Chance to disable Magnet enchant from the enemy for 7 seconds. At max level, the chance is 100%. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 5 sec| 2.0%| 0
+| II| 5 sec| 4.0%| 0
+| III| 5 sec| 6.0%| 0
+| IV| 5 sec| 8.0%| 0
+| V| 5 sec| 10.0%| 0
+| VI| 5 sec| 12.0%| 0
+| VII| 5 sec| 14.0%| 0
+| VIII| 5 sec| 16.0%| 0
+| IX| 5 sec| 18.0%| 0
+| X| 5 sec| 100.0%| 0
+
 
 
 ## **Unique Custom Enchantments**
@@ -219,6 +237,21 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 3 sec| 23%| 15
 | IV| 3 sec| 31%| 20
 | V| 3 sec| 39%| 25
+
+<b> Clarity (VII) </b><br>
+<b> Applies to: </b> Melee Weapons <br>
+<b> Type: </b> Players and Mobs <br>
+<b> Condition: </b> Player must be under Blindness effect <br>
+<i> Chance to increase damage when under Blindness effect </i><br>
+| Level | Cooldown | Chance | Damage Increase | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 9 sec| 10.0%| 10-25%| 0
+| II| 9 sec| 20.0%| 10-25%| 0
+| III| 9 sec| 30.0%| 10-25%| 0
+| IV| 9 sec| 40.0%| 10-25%| 0
+| V| 9 sec| 50.0%| 10-25%| 0
+| VI| 9 sec| 55.0%| 10-25%| 0
+| VII| 9 sec| 60.0%| 10-25%| 0
 
 <b> Convulse (VI) </b><br>
 <b> Applies to: </b> Boots <br>
@@ -533,6 +566,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 0 sec| 35%
 | II| 0 sec| 45%
 | III| 0 sec| 55%
+
+<b> Twin Ender (VI) </b><br>
+<b> Applies to: </b> Weapons <br>
+<b> Type: </b> Mobs <br>
+<i> Deals an overpowered damage to Jean or John Ender Dragon. </i><br>
+| Level | Cooldown | Chance | Damage Increase | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 100.0%| 25%| 0
+| II| 5 sec| 100.0%| 40%| 0
+| III| 5 sec| 100.0%| 55%| 0
+| IV| 5 sec| 100.0%| 70%| 0
+| V| 5 sec| 100.0%| 85%| 0
+| VI| 5 sec| 100.0%| 100%| 0
 
 <b> Virus (III) </b><br>
 <b> Applies to: </b> Tridents, Bows, Crossbows <br>
@@ -1030,6 +1076,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | VII| 5 sec| 46%| 150
 | VIII| 5 sec| 51%| 170
 
+<b> True Strike (III) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Type: </b> Players <br>
+<b> Enchants Silenced: </b> Ward, Dodge, Reflect, Inversion for 3 seconds <br>
+<i> Gives a small chance to temporarily disable enchants that can dodge attacks. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 12 sec| 3.0%| 300
+| II| 12 sec| 4.0%| 300
+| III| 12 sec| 5.0%| 300
+
 <b> Voodoo (VI) </b><br>
 <b> Applies to: </b> Armor <br>
 <b> Type: </b> Mobs, Players  
@@ -1090,6 +1147,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 5 sec| 16%| 70
 | III| 6 sec| 19%| 80
 | IV| 6 sec| 23%| 90
+
+<b> Arcane Swiftness (V) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Type: </b> Players and Mobs <br>
+<b> Effects: </b> Gives the player Speed and Haste potion effects <br>
+<i> Increases attack speed and movement speed when the  players health is below a certain threshold. </i><br>
+| Level | Cooldown | Chance | Effect Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 10 sec| 10.0%| III for 3 sec| 300
+| II| 10 sec| 15.0%| III for 4 sec| 300
+| III| 20 sec| 10.0%|  III for 5 sec| 300
+| IV| 25 sec| 10.0%|  III for 6 sec| 300
+| V| 10 sec| 30.0%|  III for 7 sec| 300
 
 <b> Arrow Break (VI) </b><br>
 <b> Applies to: </b> Axe <br>
@@ -1372,6 +1442,20 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 7 sec| 32%| 175
 | V| 7 sec| 37%| 200
 
+<b> Plunder (VI) </b><br>
+<b> Applies to: </b> Sword <br>
+<b> Type: </b> Players <br>
+<b> Condition: </b> Player must have 1M$ in their balance. <br>
+<i> Chance to increase your damage by 20% if you have $1,000,000 or more </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 9 sec| 5%| 150
+| II| 9 sec| 7%| 150
+| III| 9 sec| 9%| 150
+| IV| 9 sec| 11%| 150
+| V| 9 sec| 13%| 150
+| VI| 9 sec| 15%| 150
+
 <b> Rebound (III) </b><br>
 <b> Applies to: </b> Weapons <br>
 <b> Type: </b> Mobs, Players  
@@ -1403,6 +1487,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 5 sec| 25%|  II for 5 sec| 150
 | IV| 5 sec| 30%|  II for 6 sec| 200
 | V| 5 sec| 35%|  II for 7 sec| 150
+
+<b> Skeletal Punch (VI) </b><br>
+<b> Applies to: </b> Swords, Axes <br>
+<b> Effects: </b> Does damage and spawns a skeleton for 1 second. <br>
+<i> Hit someone so hard that their skeleton comes out.  Only activates from critical hits. </i><br>
+| Level | Cooldown | Chance | Damage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 35 sec| 1.0%| 10| 0
+| II| 35 sec| 2.0%| 13| 0
+| III| 35 sec| 3.0%| 16| 0
+| IV| 35 sec| 4.0%| 19| 0
+| V| 35 sec| 5.0%| 22| 0
+| VI| 35 sec| 5.0%| 25| 0
 
 <b> Snare (IV) </b><br>
 <b> Applies to: </b> Bows <br>
@@ -2507,6 +2604,20 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 10 sec| 35.0%| 550
 | VI| 10 sec| 40.0%| 650
 
+<b> Resilience (VI) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Type: </b> Players <br>
+<b> Enchants Silenced: </b> Voodoo, Unholy for 3 seconds <br>
+<i> When attacking, gives a small chance to remove Weakness effect and increase the attacks damage by 20%. Also, temporarily disables the enemys Voodoo and Unholy enchant. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 12 sec| 1.0%| 600
+| II| 12 sec| 2.0%| 600
+| III| 12 sec| 3.0%| 600
+| IV| 12 sec| 4.0%| 600
+| V| 12 sec| 5.0%| 600
+| VI| 12 sec| 6.0%| 600
+
 
 <b> Rogue (VI) </b><br>
 <b> Applies to: </b> Weapon <br>
@@ -2579,6 +2690,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 300 sec| 50.0%| 3000
 
 
+<b> Tactical Retreat (V) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Type: </b> Players <br>
+<i> Chance to pull away all your nearby enemy  when your health is too low. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 60.0%| 400
+| II| 20 sec| 70.0%| 500
+| III| 20 sec| 80.0%| 600
+| IV| 20 sec| 90.0%| 700
+| V| 20 sec| 100.0%| 800
+
+
 <b> Teleblock (V) </b><br>
 <b> Applies to: </b> Ranged Weapon <br>
 <i> Your bow is enchanted with enderpearl blocking magic.A chance that damaged players will be unable to use enderpearls for up to 20 seconds and will lose up to 3 enderpearls from their inventory. </i><br>
@@ -2642,6 +2766,20 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| I
 | II| II
 | III| III
+
+<b> Arrow Grasp (VI) </b><br>
+<b> Applies to: </b> Melee Weapons <br>
+<b> Type: </b> Players <br>
+<b> Effects: </b> Chance to remove 1-10 arrows from the enemy. <br>
+<i> Chance to get rid of your enemys arrow. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 40 sec| 10.0%| 300
+| II| 37 sec| 10.0%| 300
+| III| 34 sec| 10.0%| 300
+| IV| 31 sec| 10.0%| 300
+| V| 28 sec| 10.0%| 300
+| VI| 25 sec| 20.0%| 300
 
 
 <b> Attraction (III) </b><br>
@@ -2786,6 +2924,32 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 15 sec| 45%|  III for 3 sec|  IV for 3 sec| 900
 | V| 15 sec| 50%|  III for 6 sec|  IV for 6 sec| 1100
 
+<b> Dualblade (VI) </b><br>
+<b> Applies to: </b> Sword <br>
+<b> Type: </b> Players and Mobs <br>
+<b> Condition: </b> Player must hold any sword in offhand <br>
+<i> Chance to get more increase damage if you have a sword in your offhand </i><br>
+| Level | Cooldown | Chance | Damage Increase | Bonus Damage | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 10 sec| 7.0%| 10%| 8| 300
+| II| 10 sec| 11.0%| 12%| 9| 400
+| III| 10 sec| 15.0%| 14%| 10| 500
+| IV| 10 sec| 19.0%| 16%| 11| 600
+| V| 10 sec| 23.0%| 18%| 12| 700
+| VI| 10 sec| 27.0%| 20%| 13| 800
+
+<b> Ender Surge (V) </b><br>
+<b> Applies to: </b> Leggings <br>
+<b> Effects: </b> Gives the player Speed and Strength when using an ender pearl. <br>
+<i> Empowers the player with increased damage and speed after using an Ender Pearl. </i><br>
+| Level | Cooldown | Chance | Effect Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 9 sec| 10.0%| I for 10 sec| 300
+| II| 9 sec| 15.0%|  I for 15 sec| 450
+| III| 9 sec| 20.0%|  II for 10 sec| 650
+| IV| 9 sec| 25.0%|  II for 15 sec| 800
+| V| 9 sec| 30.0%|  III for 10 sec| 1000
+
 
 <b> Fairy (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
@@ -2809,6 +2973,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 12 sec| 32%| 55%| 1200
 | VI| 12 sec| 38%| 60%| 1400
 
+<b> Frost Nova (V) </b><br>
+<b> Applies to: </b> Melee Weapons <br>
+<b> Type: </b> Players and Mobs <br>
+<b> Effects: </b> Entities within a radius will be frozen for 5 seconds. <br>
+<i> Freeze enemies in their tracks with a chilling  blast of ice, immobilizing them temporarily. </i><br>
+| Level | Cooldown | Chance | Freeze Duration | Radius | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 40 sec| 7.0%| 5 sec| 2| 900
+| II| 40 sec| 8.0%|  5 sec| 2| 1200
+| III| 35 sec| 9.0%|  6 sec| 2| 1500
+| IV| 35 sec| 10.0%|  7 sec| 3| 1800
+| V| 35 sec| 12.0%|  9 sec| 4| 2100
+
 <b> Great Bash (VII) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
 <b> Type: </b> Mobs, Players  
@@ -2822,6 +2999,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 5 sec| 30%| 2 Blocks| 600
 | VI| 5 sec| 35%| 2 Blocks| 700
 | VII| 5 sec| 40%| 2 Blocks| 800
+
+<b> Halberd (V) </b><br>
+<b> Applies to: </b> Sword, Axe <br>
+<b> Type: </b> Players <br>
+<b> Weapons Disabled: </b> Bow, Crossbow, Trident (throw) for 5 sec <br>
+<i> Chance to cancel-use of Opponent Bow/Crossbow/Trident. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 12 sec| 5.0%| 100
+| II| 12 sec| 10.0%| 150
+| III| 12 sec| 15.0%| 200
+| IV| 12 sec| 20.0%| 250
+| V| 12 sec| 25.0%| 300
 
 
 <b> Holy Life (V) </b><br>
@@ -2866,6 +3056,20 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 10 sec| 10%| I and 6 secs| 7 - 20 | 1500
 | II| 11 sec| 20%| II and 10 secs| 7 - 20 | 2000
 | III| 12 sec| 30%| III and 13 secs| 7 - 20 | 2500
+
+<b> Invincible (VI) </b><br>
+<b> Applies to: </b> Leggings <br>
+<b> Type: </b> Players and Mobs <br>
+<b> Effects: </b> If HP is below 9, player will get Resistance V for 3 seconds. At max level, player will recieve Regeneration IV for 3 seconds. <br>
+<i> Chance to get Resistance V for a few seconds if your HP is too low.  At max level, cooldown is increased by 1.5x but will  also give you regeneration effect </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 300 sec| 5.0%| 30000
+| II| 120 sec| 6.0%| 30000
+| III| 120 sec| 7.0%| 30000
+| IV| 120 sec| 8.0%| 30000
+| V| 120 sec| 9.0%| 30000
+| VI| 180 sec| 15.0%| 30000
 
 
 <b> Jinada (III) </b><br>
@@ -3014,6 +3218,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 20 sec| 25%| 200
 | II| 20 sec| 35%| 300
 
+<b> Spectral Leech (V) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Type: </b> Players and Mobs <br>
+<b> Effects: </b> Does extra 10 damage after stealing health. <br>
+<i> Absorbs a small portion of the targets health with each successful attack. </i><br>
+| Level | Cooldown | Chance | Health Stolen | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 30 sec| 9.0%| 3-9| 700
+| II| 30 sec| 13.0%|  4-9| 900
+| III| 30 sec| 17.0%|  5-9| 1100
+| IV| 30 sec| 21.0%| 6-9| 1300
+| V| 30 sec| 25.0%| 7-9| 1500
+
 <b> Sturdy (III) </b><br>
 <b> Applies to: </b> Shield <br>
 <i> Absorb enemy damage and reflect it back. </i><br>
@@ -3123,6 +3340,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | VI| 10 sec| 45.0%| 75| 4500
 
 
+<b> Cataclysm (V) </b><br>
+<b> Applies to: </b> Chestplates <br>
+<b> Type: </b> Player <br>
+<i> Summons lightning to every player within a 3 block radius, dealing extra damage and removing their fire resistance effect. Has increased chances in the nether. </i><br>
+| Level | Cooldown | Chance | Damage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 15 sec| 2.0%| 16| 7000
+| II| 15 sec| 2.0%| 17| 8000
+| III| 15 sec| 5.0%| 18| 9000
+| IV| 15 sec| 3.0%| 19| 10000
+| V| 15 sec| 5.0%| 25| 10000
+
+
 <b> Chain Lifesteal (II) </b><br>
 <b> Applies to: </b> Chestplate <br>
 <b> Type: </b> Players  
@@ -3132,6 +3362,20 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | :-: | :-: | :-: | :-: | :-: 
 | I| 25 sec| 2.5%| 1-3| 750
 | II| 20 sec| 5.0%| 1-3| 1500
+
+<b> Death Bomb (VII) </b><br>
+<b> Applies to: </b> Armor <br>
+<b> Type: </b> Players and Mobs <br>
+<i> Chance to explode yourself when you died,  great damage to all nearby entities. </i><br>
+| Level | Cooldown | Chance | Damage and Radius | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 300 sec| 20.0%| 70 for 10 blocks| 10000
+| II| 300 sec| 25.0%| 70 for 10 blocks| 11500
+| III| 300 sec| 30.0%| 70 for 10 blocks| 13000
+| IV| 300 sec| 35.0%| 70 for 10 blocks| 14500
+| V| 300 sec| 40.0%| 70 for 10 blocks| 16000
+| VI| 300 sec| 45.0%| 70 for 10 blocks| 17500
+| VII| 300 sec| 50.0%| 70 for 10 blocks| 19000
 
 
 <b> Death God (III) </b><br>
@@ -3179,6 +3423,35 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 45 sec| 10.0%| 1| 2000
 | III| 45 sec| 15.0%| 2| 4000
 
+<b> Full Counter (IX) </b><br>
+<b> Applies to: </b> CHESTPLATE <br>
+<b> Type: </b> Players <br>
+<i> Chance to Reflect Your Enemys Damage by 2x </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 60 sec| 1.0%| 1000
+| II| 60 sec| 1.5%| 2000
+| III| 60 sec| 2.0%| 3000
+| IV| 60 sec| 2.5%| 4000
+| V| 60 sec| 3.0%| 5000
+| VI| 60 sec| 3.5%| 6000
+| VII| 60 sec| 4.0%| 7000
+| VIII| 60 sec| 4.5%| 8000
+| IX| 60 sec| 7.0%| 9000
+
+<b> Gravity Bomb (VI) </b><br>
+<b> Applies to: </b> Boots <br>
+<b> Type: </b> Players <br>
+<i> Chance to levitate all nearby enemy,  once you get hit. </i><br>
+| Level | Cooldown | Chance | Levitation Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 140 sec| 3.0%| II for 3 sec| 2000
+| II| 140 sec| 4.0%|  II for 4 sec| 2500
+| III| 140 sec| 5.0%|  II for 5 sec| 3000
+| IV| 140 sec| 6.0%|  III for 2 sec| 3500
+| V| 140 sec| 7.0%|  III for 3 sec| 4000
+| VI| 140 sec| 8.0%|  III for 4 sec| 5000
+
 
 <b> Horrify (IV) </b><br>
 <b> Applies to: </b> Armor <br>
@@ -3203,6 +3476,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 30 sec | II for 10 sec| 100%
 | III| 30 sec | III for 15 sec| 100%
 | IV| 30 sec | IV for 15 sec| 100%
+
+<b> Last Stand (V) </b><br>
+<b> Applies to: </b> Chestplates <br>
+<b> Type: </b> Death <br>
+<b> Effects: </b> When you die, you will get revived with Strength, Resistance, Regeneration, Slowness, and Mining Fatigue. The player will be killed afterwards. <br>
+<i> Chance to revive and avenge yourself to kill someone within 5 secs. </i><br>
+| Level | Cooldown | Chance | Buffs Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 600 sec| 20.0%| I for 5 sec| 15000
+| II| 600 sec| 40.0%| II for 5 sec| 20000
+| III| 600 sec| 60.0%| III for 5 sec| 25000
+| IV| 600 sec| 80.0%| IV for 5 sec| 30000
+| V| 600 sec| 100.0%|  V for 5 sec| 35000
 
 
 <b> Life Break (VIII) </b><br>
@@ -3271,6 +3557,30 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 30 sec| 7.0%| II and 7 secs| I and 4 secs| 2000
 | II| 30 sec| 11.0%| II and 15 secs| I and 5 secs| 4000
 | III| 40 sec| 16.0%| III and 10 secs| II and 4 secs| 8000
+
+<b> Sunshine (III) </b><br>
+<b> Applies to: </b> BOOTS <br>
+<i> Gives strength potion during the day </i><br>
+| Level | Cooldown | Chance | Strength Potency and Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 100.0%| I for 10 sec| 0
+| II| 5 sec| 100.0%| II for 10 sec| 0
+| III| 5 sec| 100.0%| III for 10 sec| 0
+
+<b> Vegetarian (IX) </b><br>
+<b> Applies to: </b> Chestplates <br>
+<i> Chance to gain strength effect if you eat golden apple. </i><br>
+| Level | Cooldown | Chance | Strength Duration and Potency | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 20 sec| 100.0%| I for 8 sec| 1000
+| II| 20 sec| 100.0%| I for 13 sec| 1200
+| III| 20 sec| 100.0%| II for 8 sec| 1500
+| IV| 20 sec| 100.0%| II for 13 sec| 1700
+| V| 20 sec| 100.0%| III for 8 sec| 2000
+| VI| 20 sec| 100.0%| III for 13 sec| 2500
+| VII| 20 sec| 100.0%| IV for 8 sec| 3000
+| VIII| 20 sec| 100.0%|  IV for 13 sec| 3700
+| IX| 20 sec| 100.0%| IV for 18 sec| 4500
 
 
 
