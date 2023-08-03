@@ -2739,18 +2739,18 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Unbreakable (IX) </b><br>
 <b> Applies to: </b> Tools <br>
 <i> Tools with this enchant become unbreakable </i><br>
-| Level | Chance | Souls 
-| :-: | :-: | :-: 
-| I| 10.0%| 30
-| II| 20.0%| 30
-| III| 30.0%| 30
-| IV| 40.0%| 30
-| V| 50.0%| 30
-| VI| 60.0%| 30
-| VII| 70.0%| 30
-| VIII| 80.0%| 30
-| IX| 90.0%| 30
-| X| 100.0%| 30
+| Level | Chance | Cooldown | Souls
+| :-: | :-: | :-: | :-:
+| I| 10.0%| 20 | 6000
+| II| 20.0%| 20 | 6000
+| III| 30.0%| 20 | 5000
+| IV| 40.0%| 20 | 5000
+| V| 50.0%| 20 | 4000
+| VI| 60.0%| 20 | 4000
+| VII| 70.0%| 20 | 3000
+| VIII| 80.0%| 20 | 2500
+| IX| 90.0%| 20 | 2000
+| X| 100.0%| 20 | 750
 
 
 
