@@ -2168,16 +2168,18 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 35 sec| 35.0%| 500
 
 
-<b> Backstab (III) </b><br>
+<b> Backstab (VI) </b><br>
 <b> Applies to: </b> Sword <br>
 <b> Type: </b> Players  
-<b> Effects: </b> Teleports and damages the enemy by 5 to 25 hp <br>
 <i> Chance to teleport behind to your enemy that deals damages. </i><br>
-| Level | Cooldown | Chance | Souls 
-| :-: | :-: | :-: | :-: 
-| I| 25 sec| 7.0%| 250
-| II| 25 sec| 10.0%| 450
-| III| 25 sec| 15.0%| 700
+| Level | Cooldown | Chance | Damage | Souls 
+| :-: | :-: | :-: | :-: | :-:
+| I| 25 sec| 7.0%| 5 - 25 | 250
+| II| 25 sec| 10.0%| 5 - 25 | 450
+| III| 25 sec| 15.0%| 5 - 25 | 700
+| IV| 25 sec| 15.0%| 6 - 30 | 700
+| V| 25 sec| 15.0%| 8 - 30 |700
+| VI| 25 sec| 15.0%| 10 - 30 | 700
 
 
 <b> Beheaded (V) </b><br>
@@ -2206,7 +2208,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | VII| 14 sec| 16%| 5-15| 280
 
 
-<b> Deathbringer (III) </b><br>
+<b> Deathbringer (VI) </b><br>
 <b> Applies to: </b> Armor <br>
 <b> Type: </b> Players  
 <i> Chance to deal double damage. </i><br>
@@ -2215,9 +2217,12 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 25 sec| 15.8%| 200
 | II| 25 sec| 22.1%| 300
 | III| 25 sec| 28.0%| 400
+| IV| 25 sec| 34.0%| 500
+| V| 25 sec| 40.0%| 600
+| VI| 25 sec| 46.0%|700
 
 
-<b> Degration (IV) </b><br>
+<b> Degration (VI) </b><br>
 <b> Applies to: </b> Armor <br>
 <b> Type: </b> Mobs, Players  
 <i> Chance to prevents your armor from taking durability damage. </i><br>
@@ -2227,9 +2232,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 30 sec| 18.0%| 140
 | III| 30 sec| 25.0%| 160
 | IV| 30 sec| 31.0%| 180
+| V| 30 sec| 37.0%| 200
+| VI| 30 sec| 43.0%| 220
 
 
-<b> Demonforged (IV) </b><br>
+<b> Demonforged (VI) </b><br>
 <b> Applies to: </b> Sword <br>
 <i> Increases durability loss around 1-10 damage on your enemy's armor. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -2238,6 +2245,8 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 9 sec| 15.0%| 150
 | III| 9 sec| 20.0%| 200
 | IV| 9 sec| 25.0%| 250
+| V| 9 sec| 30.0%| 300
+| VI| 9 sec| 40.0%| 350
 
 
 <b> Destruction (V) </b><br>
@@ -2254,14 +2263,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 20 sec| 25.0%| Regeneration/Speed/Absorption/Haste/Strength |  5|10| 1250
 
 
-<b> Disarm (III) </b><br>
+<b> Disarm (VI) </b><br>
 <b> Applies to: </b> Sword <br>
 <i> Chance to disarm your opponent's held item. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
 | I| 20 sec| 2%| 100
 | II| 20 sec| 4%| 150
-| III| 20 sec| 6%| 200
+| III| 20 sec| 5%| 200
+| IV| 20 sec| 6%| 250
+| V| 20 sec| 7%| 300
+| VI| 20 sec| 9%| 350
 
 
 <b> Doctor (V) </b><br>
@@ -2319,7 +2331,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 50%| 50% | 250
 | III| 75%| 50% | 400
 
-<b> Enlighted (IV) </b><br>
+<b> Enlighted (VI) </b><br>
 <b> Applies to: </b> Armor <br>
 <b> Type: </b> Players  
 <i> Can heal hearts while taking damage. </i><br>
@@ -2328,6 +2340,9 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 20 sec | 9%| 1-4 | 150
 | II| 20 sec | 18%| 1-4 | 300
 | III| 20 sec | 21%| 1-4 | 450
+| IV| 20 sec | 24%| 2-4 | 450
+| V| 20 sec | 30%| 2-5 | 450
+| VI| 20 sec | 36%| 3-6 | 450
 
 
 <b> Erupt Immune (III) </b><br>
@@ -2532,6 +2547,10 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | :-: | :-: | :-: | :-: 
 | I| 20 sec| 5%| 100
 | II| 20 sec| 10%| 150
+| III| 20 sec| 10%| 200
+| IV| 20 sec| 14%| 250
+| V| 20 sec| 17%| 300
+| VI| 20 sec| 20%| 350
 
 
 <b> Nulify (V) </b><br>
@@ -2570,14 +2589,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 11 sec| 21.0%|  36-44%| 1000
 
 
-<b> Pearl Grasp (III) </b><br>
+<b> Pearl Grasp (VI) </b><br>
 <b> Applies to: </b> Sword <br>
 <i> Chance to remove 1-3 pieces of ender pearl to your enemy's inventory. </i><br>
 | Level | Cooldown | Chance | Souls 
 | :-: | :-: | :-: | :-: 
 | I| 20 sec| 10.0%| 300
-| II| 20 sec| 15.0%| 400
-| III| 20 sec| 20.0%| 500
+| II| 20 sec| 15.0%| 350
+| III| 20 sec| 20.0%| 400
+| IV| 20 sec| 25.0%| 450
+| V| 20 sec| 30.0%| 500
+| VI| 20 sec| 35.0%| 550
 
 
 <b> Phoenix (III) </b><br>
@@ -2789,8 +2811,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | Level | Cooldown | Chance | Blindness Potency and Duration| Pull Enemy Distance | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-:
 | I| 5 sec| 10.0%| I and 3 secs| 1 block | 250
-| II| 5 sec| 15.0%| II and 3 secs| 2 blocks | 450
-| III| 5 sec| 20.0%| III and 3 secs| 3 blocks | 750
+| II| 5 sec| 15.0%| II and 3 secs| 2 blocks | 400
+| III| 5 sec| 20.0%| III and 3 secs| 3 blocks | 550
+| IV| 5 sec| 20.0%| III and 3 secs| 4 blocks | 700
+| V| 5 sec| 20.0%| III and 3 secs| 5 blocks | 850
+| VI| 5 sec| 20.0%| III and 3 secs| 6 blocks | 1000
 
 
 <b> Avert (V) </b><br>
@@ -3290,14 +3315,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IV| 5 sec| 100%|  IV for 10 sec
 
 
-<b> Walrush Punch (III) </b><br>
+<b> Walrush Punch (VI) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
 <i> Chance to throw your enemy into air with a good amount of damage </i><br>
 | Level | Cooldown | Chance | Extra HP Damage | Souls 
 | :-: | :-: | :-: | :-: | :-: 
 | I| 15 sec| 8.0%| 10 - 30 HP| 750
-| II| 14 sec| 13.0%| 10 - 30 HP| 1000
-| III| 13 sec| 19.0%| 10 - 30 HP| 1250
+| II| 14 sec| 12.0%| 10 - 30 HP| 1000
+| III| 13 sec| 16.0%| 10 - 30 HP| 1300
+| IV| 13 sec| 20.0%| 15 - 30 HP| 1500
+| V| 13 sec| 24.0%| 17 - 30 HP| 1700
+| VI| 13 sec| 28.0%| 20 - 35 HP| 2000
 
 
 <b> Withered (III) </b><br>
@@ -3360,8 +3388,12 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <i> Steal health with the radius of 6 blocks </i><br>
 | Level | Cooldown | Chance | Lifesteal (HP) | Souls 
 | :-: | :-: | :-: | :-: | :-: 
-| I| 25 sec| 2.5%| 1-3| 750
-| II| 20 sec| 5.0%| 1-3| 1500
+| I| 25 sec| 3%| 1-3| 750
+| II| 23 sec| 5.0%| 1-3| 1000
+| III| 21 sec| 7.0%| 2-4| 1250
+| IV| 19 sec| 9.0%| 2-5| 1500
+| V| 17 sec| 11.0%| 2-6| 1750
+| VI| 15 sec| 13.0%| 3-6| 2000
 
 <b> Death Bomb (VII) </b><br>
 <b> Applies to: </b> Armor <br>
