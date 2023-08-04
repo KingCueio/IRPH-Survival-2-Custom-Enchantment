@@ -2175,11 +2175,11 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | Level | Cooldown | Chance | Damage | Souls 
 | :-: | :-: | :-: | :-: | :-:
 | I| 25 sec| 7.0%| 5 - 25 | 250
-| II| 25 sec| 10.0%| 5 - 25 | 450
-| III| 25 sec| 15.0%| 5 - 25 | 700
-| IV| 25 sec| 15.0%| 6 - 30 | 700
-| V| 25 sec| 15.0%| 8 - 30 |700
-| VI| 25 sec| 15.0%| 10 - 30 | 700
+| II| 25 sec| 10.0%| 5 - 25 | 350
+| III| 25 sec| 15.0%| 5 - 25 | 450
+| IV| 25 sec| 15.0%| 6 - 30 | 550
+| V| 25 sec| 15.0%| 8 - 30 |650
+| VI| 25 sec| 15.0%| 10 - 30 | 750
 
 
 <b> Beheaded (V) </b><br>
