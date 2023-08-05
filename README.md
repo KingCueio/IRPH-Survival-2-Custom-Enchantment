@@ -1490,6 +1490,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Skeletal Punch (VI) </b><br>
 <b> Applies to: </b> Swords, Axes <br>
+<b> Type: </b> Players <br>
 <b> Effects: </b> Does damage and spawns a skeleton for 1 second. <br>
 <i> Hit someone so hard that their skeleton comes out.  Only activates from critical hits. </i><br>
 | Level | Cooldown | Chance | Damage | Souls 
