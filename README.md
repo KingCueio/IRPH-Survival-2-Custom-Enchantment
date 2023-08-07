@@ -3318,6 +3318,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Walrush Punch (VI) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
+<b> Type: </b> Players  
 <i> Chance to throw your enemy into air with a good amount of damage </i><br>
 | Level | Cooldown | Chance | Extra HP Damage | Souls 
 | :-: | :-: | :-: | :-: | :-: 
