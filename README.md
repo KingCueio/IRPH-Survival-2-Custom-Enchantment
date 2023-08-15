@@ -1152,6 +1152,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Applies to: </b> Boots <br>
 <b> Type: </b> Players and Mobs <br>
 <b> Effects: </b> Gives the player Speed and Haste potion effects <br>
+<b> Condition: </b> Player must be below 4 hearts <br>
 <i> Increases attack speed and movement speed when the  players health is below a certain threshold. </i><br>
 | Level | Cooldown | Chance | Effect Potency and Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: 
