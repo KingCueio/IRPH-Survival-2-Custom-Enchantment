@@ -665,6 +665,24 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 0 sec| 75%| 40
 | IV| 0 sec| 100%| 50
 
+
+<b> Blitz (X) </b><br>
+<b> Applies to: </b> Trident <br>
+<b> Effects: </b> Gives the player Haste effect <br>
+<i> Allows you to swing the trident faster </i><br>
+| Level | Cooldown | Chance | Haste Potency and Duration 
+| :-: | :-: | :-: | :-: 
+| I| 5 sec| 100.0%| I for 7 sec
+| II| 5 sec| 100.0%|  II for 7 sec
+| III| 5 sec| 100.0%|  III for 7 sec
+| IV| 5 sec| 100.0%|  III for 7.5 sec
+| V| 5 sec| 100.0%|  III for 8 sec
+| VI| 5 sec| 100.0%|  III for 8.5 sec
+| VII| 5 sec| 100.0%|  III for 9 sec
+| VIII| 5 sec| 100.0%|  III for 9.5 sec
+| IX| 5 sec| 100.0%|  III for 10 sec
+| X| 5 sec| 100.0%|  IV for 8 sec
+
 <b> Bowmaster (V) </b><br>
 <b> Applies to: </b> Bow, Crossbow, Trident <br>
 <b> Effects: </b> Increase bow damage against bow users <br>
@@ -756,6 +774,18 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 6 sec| 20%| 2.5|  I for 1 sec| 75
 | III| 6 sec| 24%| 3|  II for 1 sec| 100
 | IV| 6 sec| 28%| 3.5|  II for 2 sec| 125
+
+
+<b> Freeze Shot (III) </b><br>
+<b> Applies to: </b> Crossbows <br>
+<b> Effects: </b> Enemy will get Slowness XI for 4 sec <br>
+<i> Shooting your enemy will freeze them that deals extra damage. </i><br>
+| Level | Cooldown | Chance | Damage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 9 sec| 25.0%| 7| 100
+| II| 9 sec| 30.0%| 8| 150
+| III| 9 sec| 40.0%| 10| 200
+
 
 <b> Frozen (III) </b><br>
 <b> Applies to: </b> Armor <br>
@@ -1457,6 +1487,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 9 sec| 13%| 150
 | VI| 9 sec| 15%| 150
 
+
 <b> Rebound (III) </b><br>
 <b> Applies to: </b> Weapons <br>
 <b> Type: </b> Mobs, Players  
@@ -1467,6 +1498,15 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 5 sec| 25%| 2| 75
 | II| 5 sec| 35%| 4| 95
 | III| 5 sec| 45%| 6| 115
+
+
+<b> Recon Bolt (I) </b><br>
+<b> Applies to: </b> Ranged Weapon <br>
+<b> Effects: </b>  <br>
+<i> Revealing the location of nearby enemies caught in the line of sight of the bolt. Radius = 10 blocks </i><br>
+| Level | Cooldown | Chance | Arg1 | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 0 sec| 100.0%| arg1 here| 100
 
 <b> Rush (III) </b><br>
 <b> Applies to: </b> Elytra <br>
@@ -1716,6 +1756,18 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 7 sec| 15.0%| 25%-65%| 140
 | III| 7 sec| 19.0%| 35%-75%| 180
 | IV| 7 sec| 25.0%| 45%-85%| 220
+
+
+<b> Celestial Blessing (V) </b><br>
+<b> Applies to: </b> Trident <br>
+<i> During night time, the tridents attacks  has a chance to deal greater damage. </i><br>
+| Level | Cooldown | Chance | Damage Increase | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 4 sec| 10.0%| 12| 0
+| II| 4 sec| 15.0%|  24| 0
+| III| 4 sec| 20.0%|  36| 0
+| IV| 4 sec| 25.0%|  48| 0
+| V| 4 sec| 30.0%|  60| 0
 
 <b> Centaur (III) </b><br>
 <b> Applies to: </b> LEGGINGS <br>
@@ -2157,6 +2209,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 
 ## **Fabled Custom Enchantments**
+<b> Anti-Plate (V) </b><br>
+<b> Applies to: </b> SWORD <br>
+<i> Chance to remove someones chesplate/elytra in their armor slot. </i><br>
+| Level | Cooldown | Chance 
+| :-: | :-: | :-: 
+| I| 15 sec| 5.0%
+| II| 15 sec| 7.0%
+| III| 15 sec| 9.0%
+| IV| 15 sec| 11.0%
+| V| 15 sec| 13.0%
+
+
+
 <b> Assault Shot (V) </b><br>
 <b> Applies to: </b> Bow <br>
 <b> Type: </b> Mobs, Players  
@@ -2526,6 +2591,34 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 7 sec| 21.0%|  I for 4 sec| II for 4 sec | I for 4 sec | 400
 | IV| 7 sec| 18.0%|  II for 3 sec| II for 5 sec | II for 3 sec | 500
 | V| 7 sec| 21.0%|  II for 4 sec| III for 5 sec | II for 4 sec | 600
+
+
+<b> Launch Disarm (VI) </b><br>
+<b> Applies to: </b> Trident <br>
+<i> Upon impact, It has a chance to disarm  the target that also adds extra damage to the victim. </i><br>
+| Level | Cooldown | Chance | Damage 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 2.0%| 3
+| II| 20 sec| 3.0%| 6
+| III| 20 sec| 4.0%| 9
+| IV| 20 sec| 5.0%| 12
+| V| 20 sec| 6.0%| 15
+| VI| 20 sec| 10.0%| 18
+
+
+<b> Lightning Bolt (VI) </b><br>
+<b> Applies to: </b> Crossbows <br>
+<b> Effects: </b> Enchant does damage seperate from Lightning <br>
+<b> Condition: </b> Attacker must be holding a Crossbow <br>
+<i> Chance to summon lightning to all enemies within radius of 10 blocks that deal extra damage. </i><br>
+| Level | Cooldown | Chance | Damage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 20 sec| 15.0%| 11| 700
+| II| 20 sec| 16.0%| 13| 800
+| III| 20 sec| 17.0%| 15| 900
+| IV| 20 sec| 18.0%| 17| 1000
+| V| 20 sec| 19.0%| 19| 1100
+| VI| 20 sec| 25.0%| 21| 1200
 
 
 <b> Mortal Coil (V) </b><br>
@@ -3074,6 +3167,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| IV
 
 
+<b> Impactwave (VI) </b><br>
+<b> Applies to: </b> Trident <br>
+<i> This enchantment causes the trident to emit  powerful shockwave upon impact, damaging and knocking  back nearby enemies within a certain radius. </i><br>
+| Level | Cooldown | Chance | Damage 
+| :-: | :-: | :-: | :-: 
+| I| 20 sec| 7.0%| 11
+| II| 20 sec| 8.0%|  12
+| III| 20 sec| 9.0%|  13
+| IV| 20 sec| 10.0%|  14
+| V| 20 sec| 13.0%|  15
+| VI| 20 sec| 13.0%|  16
+
+
 <b> Impactweight (III) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
 <b> Type: </b> Mobs, Players  
@@ -3121,6 +3227,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 120 sec| 15.0%| 3| 2400
 
 
+<b> Knock Out! (V) </b><br>
+<b> Applies to: </b> Swords <br>
+<b> Effects: Does extra 60 damage on the 5th level. </b>  <br>
+<i> KNOCKOUT!!!! Deal 150-200% more damage on the 15th combo.  Activation and thorns do not reset combo counter. </i><br>
+| Level | Cooldown | Chance | Damage Increase | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 60 sec| 100.0%| 150%| 10000
+| II| 60 sec| 100.0%| 160%| 10000
+| III| 60 sec| 100.0%| 170%| 10000
+| IV| 60 sec| 100.0%| 180%| 10000
+| V| 60 sec| 100.0%| 200%| 10000
+
+
 <b> Mage (III) </b><br>
 <b> Applies to: </b> Chestplate <br>
 <b> Type: </b> Players  
@@ -3130,6 +3249,20 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 120 sec| 5.0%| 2| 500
 | II| 120 sec| 10.0%| 2| 750
 | III| 120 sec| 15.0%| 3| 1000
+
+
+<b> Netherbane (VI) </b><br>
+<b> Applies to: </b> Ranged Weapons <br>
+<b> Effects: </b> The enchant does a seperate 30 damage to the target <br>
+<i> Spawns another projectile with your arrow when you fully fire your bow with increased damage. </i><br>
+| Level | Cooldown | Chance | Souls 
+| :-: | :-: | :-: | :-: 
+| I| 10 sec| 25%| 400
+| II| 10 sec| 30%| 600
+| III| 10 sec| 35%| 800
+| IV| 10 sec| 40%| 1000
+| V| 10 sec| 45%| 1200
+| VI| 10 sec| 50%| 1400
 
 
 <b> Overcharge (III) </b><br>
@@ -3170,6 +3303,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 20 sec| 50.0%| III for 6 sec|  III for 6 sec| 2750
 
 
+<b> Pumpkinator (VI) </b><br>
+<b> Applies to: </b> Weapons <br>
+<i> Chance to replace your opponents helmet to a pumpkin for a short time. </i><br>
+| Level | Cooldown | Chance | Pumpkin Duration | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 20 sec| 1.8%| 2 sec| 500
+| II| 20 sec| 3.6%|  2 sec| 650
+| III| 20 sec| 4.4%|  3 sec| 750
+| IV| 20 sec| 5.2%|  3 sec| 850
+| V| 20 sec| 6%|  4 sec| 950
+| VI| 20 sec| 6%|  5 sec| 1000
+
+
 <b> Reverse Polarity (III) </b><br>
 <b> Applies to: </b> Shield <br>
 <b> Type: </b> Mobs, Players  
@@ -3179,6 +3325,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 90 sec|100.0%| 3 Blocks| 1.5 sec| 700
 | II| 75 sec| 100.0%| 3 Blocks| 1.5 sec| 1200
 | III| 60 sec| 100.0%| 3 Blocks| 1.5 sec| 1600
+
+
+<b> Revitalize (III) </b><br>
+<b> Applies to: </b> Hoes <br>
+<b> Effects: </b> This heals every ally within 10 seconds. A player is considered an ally when you are unable to damage them. <br>
+<i> Attacking a mob with this enchant can heal all nearby allies for 3 seconds. </i><br>
+| Level | Cooldown | Chance | Total heal | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 180 sec| 100.0%| 9 hp| 14000
+| II| 180 sec| 100.0%|  11 hp| 14000
+| III| 180 sec| 100.0%|  14 hp| 14000
 
 <b> Revive (V) </b><br>
 <b> Applies to: </b> Chestplate <br>
@@ -3190,6 +3347,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | III| 60 sec| 40.0%| 800
 | VI| 60 sec| 50.0%| 1000
 | V| 60 sec| 60.0%| 1200
+
 
 <b> Revulsion (V) </b><br>
 <b> Applies to: </b> Shield <br>
@@ -3226,6 +3384,19 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 30 sec| 14.0%| 7 - 23 HP| 5 sec| 750
 
 
+<b> Shadowstep (VI) </b><br>
+<b> Applies to: </b> Melee Weapons <br>
+<i> Right Click to activate, Ability to teleport with your choice direction. Only activates when youre 6 hearts below. </i><br>
+| Level | Cooldown | Chance | Teleport Distance (Blocks) | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 100.0%| 3| 1000
+| II| 120 sec| 100.0%| 4| 1200
+| III| 120 sec| 100.0%| 5| 1400
+| IV| 120 sec| 100.0%| 6| 1600
+| V| 120 sec| 100.0%| 7| 1800
+| VI| 120 sec| 100.0%| 8| 2000
+
+
 <b> Sharpen (IV) </b><br>
 <b> Applies to: </b> Shield <br>
 <i> Reduces damage dealt to you. </i><br>
@@ -3244,6 +3415,17 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | :-: | :-: | :-: | :-: 
 | I| 20 sec| 25%| 200
 | II| 20 sec| 35%| 300
+
+
+<b> Slam Vortex (III) </b><br>
+<b> Applies to: </b> Trident <br>
+<i> Slam the trident in to the victim,  pulling surrounded enemy with weakness and  extra damage. Activates on normal hit </i><br>
+| Level | Cooldown | Chance | Damage | Weakness Potency and Duration | Radius 
+| :-: | :-: | :-: | :-: | :-:  | :-: 
+| I| 120 sec| 100.0%| 12| XI for 3 sec | 3
+| II| 120 sec| 100.0%| 24| XI for 4 sec |4
+| III| 120 sec| 100.0%| 36| XI for 5 sec |5
+
 
 <b> Spectral Leech (V) </b><br>
 <b> Applies to: </b> Swords <br>
@@ -3276,6 +3458,18 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 20 sec| 7.0%| 300
 | II| 20 sec| 9.0%| 400
 | III| 20 sec| 11.0%| 500
+
+
+<b> Vampire Shot (V) </b><br>
+<b> Applies to: </b> Crossbows <br>
+<i> Shoot bolts that drain life from enemies and heal you in return. </i><br>
+| Level | Cooldown | Chance | Damage Increase | Heal | Souls 
+| :-: | :-: | :-: | :-: | :-: | :-: 
+| I| 20 sec| 14.0%| 40%| 4| 800
+| II| 20 sec| 18.0%| 40%| 4| 800
+| III| 20 sec| 22.0%| 40%| 4| 800
+| IV| 20 sec| 26.0%| 50%| 4| 800
+| V| 20 sec| 30.0%| 60%| 7| 800
 
 
 <b> Vandal (VI) </b><br>
@@ -3356,6 +3550,33 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | II| 10 sec| 50.0%| 100%| 1000
 | III| 6 sec| 75.0%| 100%| 1500
 
+
+<b> Abyssal Blink (VI) </b><br>
+<b> Applies to: </b> Melee Weapons <br>
+<i> Right Click to activate, Ability to teleport with your choice direction. </i><br>
+| Level | Cooldown | Chance | Teleport Distance (Blocks) | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 120 sec| 25%| 3| 1000
+| II| 120 sec| 30%| 4| 1300
+| III| 120 sec| 35%| 5| 1600
+| IV| 120 sec| 40%| 6| 1900
+| V| 120 sec| 45%| 7| 2300
+| VI| 120 sec| 50%| 8| 2500
+
+
+<b> Animosity (VI) </b><br>
+<b> Applies to: </b> Trident <br>
+<b> Additional Info: </b> This enchant only works when your combo is at a certain range of hits. Thorns do not reset combo. <br>
+<b> Damage Calculation: </b> Damage =  ( 1 + (combo * level * 2)/100 ) * weaponDamage <br>
+<i> Land consecutive hits on a single target to  amplify your damage. The more attacks you hit without  interruption, the harder your strikes become. </i><br>
+| Level | Cooldown | Chance | Combo Range | Combo Damage Multiplier 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 5 sec| 100.0%| 7th to 11th hit| +2% per combo
+| II| 4 sec| 100.0%|  6th to 12th hit|  +4% per combo
+| III| 3 sec| 100.0%|  5th to 13th hit|  +6% per combo
+| IV| 2 sec| 100.0%|  4th to 14th hit|  +8% per combo
+| V| 1 sec| 100.0%|  4th to 15th hit|  +10% per combo
+| VI| 0 sec| 100.0%|  4th to 16th hit|  +12% per combo
 
 <b> Bulky (VI) </b><br>
 <b> Applies to: </b> Chestplate <br>
@@ -3569,6 +3790,21 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | V| 18.0%| 36 | X for 6 sec | 3500
 | VI| 25.0%| 40 | X for 7 sec | 4000
 
+<b> Maelstrom (VIII) </b><br>
+<b> Applies to: </b> Trident <br>
+<b> Effects: </b> Enchant does a seperate damage other than Lightning and TNT <br>
+<i> Ability to summon lightning to your enemy with high damage. </i><br>
+| Level | Cooldown | Chance | Damage 
+| :-: | :-: | :-: | :-: 
+| I| 40 sec| 7.0%| 37
+| II| 40 sec| 8.0%| 39
+| III| 40 sec| 9.0%| 41
+| IV| 40 sec| 10.0%| 43
+| V| 40 sec| 11.0%| 45
+| VI| 40 sec| 12.0%| 47
+| VII| 40 sec| 15.0%| 49
+| VIII| 40 sec| 20.0%| 51
+
 
 <b> Mark of the Beast (VI) </b><br>
 <b> Applies to: </b> Armor <br>
@@ -3592,6 +3828,35 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | I| 30 sec| 7.0%| II and 7 secs| I and 4 secs| 2000
 | II| 30 sec| 11.0%| II and 15 secs| I and 5 secs| 4000
 | III| 40 sec| 16.0%| III and 10 secs| II and 4 secs| 8000
+
+
+<b> Rain Bolts (VI) </b><br>
+<b> Applies to: </b> CROSSBOW <br>
+<b> Effects: </b> Extra damage is done every 10 ticks, 3 times. <br>
+<i> spawns arrow above your enemy that deals extra damage. </i><br>
+| Level | Cooldown | Chance | Damage | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 60 sec| 13.0%| 25| 1500
+| II| 60 sec| 15.0%| 25| 2000
+| III| 60 sec| 18.0%| 25| 2500
+| IV| 60 sec| 21.0%| 25| 3000
+| V| 60 sec| 24.0%| 25| 3500
+| VI| 60 sec| 27.0%| 25| 4000
+
+
+<b> Rapid Soulfire (V) </b><br>
+<b> Applies to: </b> BOW <br>
+<b> Effects: </b> Enchant does seperate damage for every skull spawned to the attacked player. <br>
+<b> Limitations: </b> Both skull spawn and damage application has a delay of 5 ticks. <br>
+<i> Shoots arrow with rapidly 10 wither skull that deals extra damage. </i><br>
+| Level | Cooldown | Chance | Damage per Skull spawn | Souls 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 60 sec| 17%| 20| 1500
+| II| 57 sec| 22%|  20| 2000
+| III| 54 sec| 27%|  20| 2500
+| IV| 51 sec| 32%| 20| 3000
+| V| 48 sec| 35%| 20| 3500
+
 
 <b> Sunshine (III) </b><br>
 <b> Applies to: </b> BOOTS <br>
@@ -3618,8 +3883,22 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 | IX| 20 sec| 100.0%| IV for 18 sec| 4500
 
 
-
-
+<b> Viridium (X) </b><br>
+<b> Applies to: </b> Pickaxes <br>
+<b> Clarification: </b> This enchant can be blackscrolled. The description is misleading as it had been changed. <br>
+<i> Chance to get extra souls from emerald ores. Higher levels gives chance to get experience aswell. This enchantment cannot be removed. </i><br>
+| Level | Cooldown | Chance | Souls Added | Experience Gained 
+| :-: | :-: | :-: | :-: | :-: 
+| I| 25 sec| 100%%| 650| 0
+| II| 25 sec| 100%%| 800| 0
+| III| 25 sec| 100%%| 950| 0
+| IV| 25 sec| 100%%| 1100| 0
+| V| 25 sec| 100%%| 1250| 0
+| VI| 25 sec| 100%%| 1400| 0
+| VII| 25 sec| 100%%| 1550| 250
+| VIII| 25 sec| 100%%| 1700| 500
+| IX| 25 sec| 100%%| 1850| 750
+| X| 25 sec| 100%%| 3500| 2000
 
 
 ## **Cuisine Custom Enchantments**
