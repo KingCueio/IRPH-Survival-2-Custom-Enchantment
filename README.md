@@ -668,6 +668,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Blitz (X) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players, Mobs <br>
 <b> Effects: </b> Gives the player Haste effect <br>
 <i> Allows you to swing the trident faster </i><br>
 | Level | Cooldown | Chance | Haste Potency and Duration 
@@ -778,6 +779,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Freeze Shot (III) </b><br>
 <b> Applies to: </b> Crossbows <br>
+<b> Type: </b> Players <br>
 <b> Effects: </b> Enemy will get Slowness XI for 4 sec <br>
 <i> Shooting your enemy will freeze them that deals extra damage. </i><br>
 | Level | Cooldown | Chance | Damage | Souls 
@@ -1502,6 +1504,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Recon Bolt (I) </b><br>
 <b> Applies to: </b> Ranged Weapon <br>
+<b> Type: </b> Arrow Hit <br>
 <b> Effects: </b>  <br>
 <i> Revealing the location of nearby enemies caught in the line of sight of the bolt. Radius = 10 blocks </i><br>
 | Level | Cooldown | Chance | Arg1 | Souls 
@@ -1597,7 +1600,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Spirits (X) </b><br>
 <b> Applies to: </b> Armor <br>
-<b> Type: </b> Players  
+<b> Type: </b> Players <br>
 <i> Chance to spawn guard blazes. </i><br>
 | Level | Cooldown | Chance | Blaze Count | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -1760,6 +1763,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Celestial Blessing (V) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players <br>
 <i> During night time, the tridents attacks  has a chance to deal greater damage. </i><br>
 | Level | Cooldown | Chance | Damage Increase | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -2211,6 +2215,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 ## **Fabled Custom Enchantments**
 <b> Anti-Plate (V) </b><br>
 <b> Applies to: </b> SWORD <br>
+<b> Type: </b> Players <br>
 <i> Chance to remove someones chesplate/elytra in their armor slot. </i><br>
 | Level | Cooldown | Chance 
 | :-: | :-: | :-: 
@@ -2595,6 +2600,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Launch Disarm (VI) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players <br>
 <i> Upon impact, It has a chance to disarm  the target that also adds extra damage to the victim. </i><br>
 | Level | Cooldown | Chance | Damage 
 | :-: | :-: | :-: | :-: 
@@ -2608,6 +2614,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Lightning Bolt (VI) </b><br>
 <b> Applies to: </b> Crossbows <br>
+<b> Type: </b> Players <br>
 <b> Effects: </b> Enchant does damage seperate from Lightning <br>
 <b> Condition: </b> Attacker must be holding a Crossbow <br>
 <i> Chance to summon lightning to all enemies within radius of 10 blocks that deal extra damage. </i><br>
@@ -3169,6 +3176,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Impactwave (VI) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players <br>
 <i> This enchantment causes the trident to emit  powerful shockwave upon impact, damaging and knocking  back nearby enemies within a certain radius. </i><br>
 | Level | Cooldown | Chance | Damage 
 | :-: | :-: | :-: | :-: 
@@ -3229,6 +3237,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Knock Out! (V) </b><br>
 <b> Applies to: </b> Swords <br>
+<b> Type: </b> Players <br>
 <b> Effects: Does extra 60 damage on the 5th level. </b>  <br>
 <i> KNOCKOUT!!!! Deal 150-200% more damage on the 15th combo.  Activation and thorns do not reset combo counter. </i><br>
 | Level | Cooldown | Chance | Damage Increase | Souls 
@@ -3253,6 +3262,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Netherbane (VI) </b><br>
 <b> Applies to: </b> Ranged Weapons <br>
+<b> Type: </b> Bow Fire <br>
 <b> Effects: </b> The enchant does a seperate 30 damage to the target <br>
 <i> Spawns another projectile with your arrow when you fully fire your bow with increased damage. </i><br>
 | Level | Cooldown | Chance | Souls 
@@ -3305,6 +3315,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Pumpkinator (VI) </b><br>
 <b> Applies to: </b> Weapons <br>
+<b> Type: </b> Players <br>
 <i> Chance to replace your opponents helmet to a pumpkin for a short time. </i><br>
 | Level | Cooldown | Chance | Pumpkin Duration | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -3329,6 +3340,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Revitalize (III) </b><br>
 <b> Applies to: </b> Hoes <br>
+<b> Type: </b> Mobs <br>
 <b> Effects: </b> This heals every ally within 10 seconds. A player is considered an ally when you are unable to damage them. <br>
 <i> Attacking a mob with this enchant can heal all nearby allies for 3 seconds. </i><br>
 | Level | Cooldown | Chance | Total heal | Souls 
@@ -3386,6 +3398,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Shadowstep (VI) </b><br>
 <b> Applies to: </b> Melee Weapons <br>
+<b> Type: </b> Right Click <br>
 <i> Right Click to activate, Ability to teleport with your choice direction. Only activates when youre 6 hearts below. </i><br>
 | Level | Cooldown | Chance | Teleport Distance (Blocks) | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -3419,6 +3432,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Slam Vortex (III) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players <br>
 <i> Slam the trident in to the victim,  pulling surrounded enemy with weakness and  extra damage. Activates on normal hit </i><br>
 | Level | Cooldown | Chance | Damage | Weakness Potency and Duration | Radius 
 | :-: | :-: | :-: | :-: | :-:  | :-: 
@@ -3462,6 +3476,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Vampire Shot (V) </b><br>
 <b> Applies to: </b> Crossbows <br>
+<b> Type: </b> Players, Mobs <br>
 <i> Shoot bolts that drain life from enemies and heal you in return. </i><br>
 | Level | Cooldown | Chance | Damage Increase | Heal | Souls 
 | :-: | :-: | :-: | :-: | :-: | :-: 
@@ -3553,6 +3568,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Abyssal Blink (VI) </b><br>
 <b> Applies to: </b> Melee Weapons <br>
+<b> Type: </b> Right Click <br>
 <i> Right Click to activate, Ability to teleport with your choice direction. </i><br>
 | Level | Cooldown | Chance | Teleport Distance (Blocks) | Souls 
 | :-: | :-: | :-: | :-: | :-: 
@@ -3566,6 +3582,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Animosity (VI) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players <br>
 <b> Additional Info: </b> This enchant only works when your combo is at a certain range of hits. Thorns do not reset combo. <br>
 <b> Damage Calculation: </b> Damage =  ( 1 + (combo * level * 2)/100 ) * weaponDamage <br>
 <i> Land consecutive hits on a single target to  amplify your damage. The more attacks you hit without  interruption, the harder your strikes become. </i><br>
@@ -3792,6 +3809,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Maelstrom (VIII) </b><br>
 <b> Applies to: </b> Trident <br>
+<b> Type: </b> Players <br>
 <b> Effects: </b> Enchant does a seperate damage other than Lightning and TNT <br>
 <i> Ability to summon lightning to your enemy with high damage. </i><br>
 | Level | Cooldown | Chance | Damage 
@@ -3832,6 +3850,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Rain Bolts (VI) </b><br>
 <b> Applies to: </b> CROSSBOW <br>
+<b> Type: </b> Players, Mobs <br>
 <b> Effects: </b> Extra damage is done every 10 ticks, 3 times. <br>
 <i> spawns arrow above your enemy that deals extra damage. </i><br>
 | Level | Cooldown | Chance | Damage | Souls 
@@ -3846,6 +3865,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Rapid Soulfire (V) </b><br>
 <b> Applies to: </b> BOW <br>
+<b> Type: </b> Players <br>
 <b> Effects: </b> Enchant does seperate damage for every skull spawned to the attacked player. <br>
 <b> Limitations: </b> Both skull spawn and damage application has a delay of 5 ticks. <br>
 <i> Shoots arrow with rapidly 10 wither skull that deals extra damage. </i><br>
@@ -3885,6 +3905,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Viridium (X) </b><br>
 <b> Applies to: </b> Pickaxes <br>
+<b> Type: </b> Mining <br>
 <b> Clarification: </b> This enchant can be blackscrolled. The description is misleading as it had been changed. <br>
 <i> Chance to get extra souls from emerald ores. Higher levels gives chance to get experience aswell. This enchantment cannot be removed. </i><br>
 | Level | Cooldown | Chance | Souls Added | Experience Gained 
