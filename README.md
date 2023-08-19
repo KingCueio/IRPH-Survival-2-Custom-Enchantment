@@ -3001,7 +3001,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 
 <b> Coup de Grace (V) </b><br>
 <b> Applies to: </b> Melee Weapon <br>
-<b> Type: </b> Mobs, Players  
+<b> Type: </b> Players  
 <i> Chance to have critical damage to your enemy. </i><br>
 | Level | Cooldown | Chance | Increase Crit. Damage |  Souls 
 | :-: | :-: | :-: | :-: | :-: 
